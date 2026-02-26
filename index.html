@@ -96,13 +96,12 @@
                 const krWord = (cols[3] || "").trim();
                 const desc = (cols[4] || "").trim();
                 
-                // 日本語見出しを作成
-                const jpCombined = kanji === kana ? kanji : `${kanji}（${kana}）`;
-
+                
                 return {
                     word: kanji,   // ① 青色・太字 (日本語)
                     meaning: krWord,    // ② 黒色 (韓国語)
-                    memo: desc          // ③ 灰色 (解説)
+                    memo: desc,          // ③ 灰色 (解説)
+                    hira: kana          // 追加: 検索用のひらがなデータ
                 };
             }).filter(item => item.word || item.meaning);
 
@@ -148,10 +147,13 @@
             // word(青) と meaning(黒) の両方を検索対象にする
             const wLower = item.word.toLowerCase();
             const mLower = item.meaning.toLowerCase();
+            const hLower = (item.hira || "").toLowerCase(); // 追加: ひらがな検索用
             
-            if (wLower.startsWith(qLower) || mLower.startsWith(qLower)) {
+            // if (wLower.startsWith(qLower) || mLower.startsWith(qLower)) {
+            if (wLower.startsWith(qLower) || mLower.startsWith(qLower) || hLower.startsWith(qLower)) {
                 startsWith.push(item);
-            } else if (wLower.includes(qLower) || mLower.includes(qLower)) {
+            // } else if (wLower.includes(qLower) || mLower.includes(qLower)) {
+            } else if (wLower.includes(qLower) || mLower.includes(qLower) || hLower.includes(qLower)) {
                 contains.push(item);
             }
         });
