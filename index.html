@@ -13,9 +13,9 @@
         input { width: 100%; padding: 12px; box-sizing: border-box; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; margin-bottom: 20px; }
         .result-item { padding: 15px; border-bottom: 1px solid #eee; line-height: 1.6; }
         
-        /* 韓国語: 青色 + 太字 */
+        /* 韓国語/見出し語: 青色 + 太字 */
         .word { font-weight: bold; color: #0077cc; font-size: 1.2rem; margin-right: 10px; }
-        /* 日本語: 黒 */
+        /* 日本語/意味: 黒 */
         .meaning { font-size: 1.1rem; color: #333; }
         .memo { display: block; font-size: 0.9rem; color: #7f8c8d; margin-top: 4px; }
         
@@ -63,7 +63,6 @@
 
     async function loadCSV() {
         try {
-            // 両方のファイルを並行して取得
             const [resp1, resp2] = await Promise.all([
                 fetch('data.csv'),
                 fetch('data_jk.csv')
@@ -74,38 +73,38 @@
             const text1 = await resp1.text();
             const text2 = await resp2.text();
 
-            // data.csv の処理 (既存ロジック)
+            // data.csv の処理
+            // 構造: [Korean_word, Japanese_meaning, memo]
+            // 表示: ①韓国語(word/青) ②日本語(meaning/黒) ③メモ(灰)
             const rows1 = parseCSV(text1);
             const headers1 = rows1[0];
             const idxKr = headers1.indexOf('Korean_word'), idxJp = headers1.indexOf('Japanese_meaning'), idxMemo = headers1.indexOf('memo');
             
             dictionary = rows1.slice(1).map(cols => ({
-                kr: (cols[idxKr] || "").trim(),
-                jp: (cols[idxJp] || "").trim(),
-                memo: (cols[idxMemo] || "").trim(),
-                source: 'data' // 識別用
-            })).filter(item => item.kr || item.jp);
+                word: (cols[idxKr] || "").trim(),     // ① 青色・太字
+                meaning: (cols[idxJp] || "").trim(),  // ② 黒色
+                memo: (cols[idxMemo] || "").trim()    // ③ 灰色
+            })).filter(item => item.word || item.meaning);
 
-            // data_jk.csv の処理 (新規ロジック)
-            // 構造: [?, 漢字, ひらがな, 韓国語, 説明]
+            // data_jk.csv の処理
+            // 構造: [?, 漢字, ひらがな, 韓国語訳, 解説]
+            // 表示: ①日本語(word/青) ②韓国語訳(meaning/黒) ③解説(memo/灰)
             const rows2 = parseCSV(text2);
-            // 1行目はヘッダーと仮定してスキップ (slice(1))
             dictionaryJK = rows2.slice(1).map(cols => {
                 const kanji = (cols[1] || "").trim();
                 const kana = (cols[2] || "").trim();
                 const krWord = (cols[3] || "").trim();
                 const desc = (cols[4] || "").trim();
                 
-                // 表示統一のため、jpフィールドに漢字とかなをまとめる
+                // 日本語見出しを作成
                 const jpCombined = kanji === kana ? kanji : `${kanji}（${kana}）`;
 
                 return {
-                    kr: krWord,
-                    jp: jpCombined,
-                    memo: desc,
-                    source: 'jk' // 識別用
+                    word: jpCombined,   // ① 青色・太字 (日本語)
+                    meaning: krWord,    // ② 黒色 (韓国語)
+                    memo: desc          // ③ 灰色 (解説)
                 };
-            }).filter(item => item.kr || item.jp);
+            }).filter(item => item.word || item.meaning);
 
             const input = document.getElementById('searchInput');
             input.placeholder = "単語検索..."; input.disabled = false;
@@ -117,39 +116,42 @@
 
     function highlightText(text, query, className) {
         if (!query) return text;
-        // 特殊文字のエスケープ処理を追加しておくのが安全だが、今回は簡易実装のまま
         const re = new RegExp(`(${query})`, 'gi');
         return text.replace(re, `<span class="${className}">$1</span>`);
     }
 
-function formatDisplay(item, query) {
-        let krTag = item.kr.replace(/(\d+)$/, '<sup>$1</sup>');
-        // 修正: 新しい形式 [漢字>ルビ] を先に追加し、既存の形式とチェーンさせる
-        let jpTag = item.jp
+    function formatDisplay(item, query) {
+        // word (① 青色部分) の整形
+        let wordTag = item.word.replace(/(\d+)$/, '<sup>$1</sup>');
+        
+        // meaning (② 黒色部分) の整形
+        // data.csvの場合はここにルビ記法が含まれる可能性があるため処理する
+        let meaningTag = item.meaning
             .replace(/\[(.*?)>(.*?)\]/g, '<ruby>$1<rt>$2</rt></ruby>')
             .replace(/(.)\[(.*?)\]/g, '<ruby>$1<rt>$2</rt></ruby>');
 
         return `
             <div class="result-item">
-                <span class="word">${highlightText(krTag, query, 'highlight-kr')}</span>
-                <span class="meaning">${highlightText(jpTag, query, 'highlight-jp')}</span>
+                <span class="word">${highlightText(wordTag, query, 'highlight-kr')}</span>
+                <span class="meaning">${highlightText(meaningTag, query, 'highlight-jp')}</span>
                 ${(item.memo && item.memo !== "" && item.memo !== "NaN") ? `<span class="memo">＊${item.memo}</span>` : ""}
             </div>
         `;
     }
 
-    // 特定の辞書配列内で検索を行い、結果リスト（ソート済み）を返す関数
     function searchInList(list, query) {
         const qLower = query.toLowerCase();
         const startsWith = [];
         const contains = [];
 
         list.forEach(item => {
-            const krLower = item.kr.toLowerCase();
-            const jpLower = item.jp.toLowerCase();
-            if (krLower.startsWith(qLower) || jpLower.startsWith(qLower)) {
+            // word(青) と meaning(黒) の両方を検索対象にする
+            const wLower = item.word.toLowerCase();
+            const mLower = item.meaning.toLowerCase();
+            
+            if (wLower.startsWith(qLower) || mLower.startsWith(qLower)) {
                 startsWith.push(item);
-            } else if (krLower.includes(qLower) || jpLower.includes(qLower)) {
+            } else if (wLower.includes(qLower) || mLower.includes(qLower)) {
                 contains.push(item);
             }
         });
@@ -167,14 +169,13 @@ function formatDisplay(item, query) {
 
         let finalResults = [];
 
-        // 検索ロジック分岐
         if (isKoreanQuery) {
-            // 韓国語検索: data.csv -> data_jk.csv
+            // 韓国語検索: data.csv(通常) -> data_jk.csv(逆引き)
             const res1 = searchInList(dictionary, query);
             const res2 = searchInList(dictionaryJK, query);
             finalResults = [...res1, ...res2];
         } else {
-            // 日本語検索: data_jk.csv -> data.csv
+            // 日本語検索: data_jk.csv(逆引き) -> data.csv(通常)
             const resJK = searchInList(dictionaryJK, query);
             const resData = searchInList(dictionary, query);
             finalResults = [...resJK, ...resData];
