@@ -100,7 +100,7 @@
                 const jpCombined = kanji === kana ? kanji : `${kanji}（${kana}）`;
 
                 return {
-                    word: jpCombined,   // ① 青色・太字 (日本語)
+                    word: kanji,   // ① 青色・太字 (日本語)
                     meaning: krWord,    // ② 黒色 (韓国語)
                     memo: desc          // ③ 灰色 (解説)
                 };
