@@ -88,9 +88,12 @@
         return text.replace(re, `<span class="${className}">$1</span>`);
     }
 
-    function formatDisplay(item, query) {
+function formatDisplay(item, query) {
         let krTag = item.kr.replace(/(\d+)$/, '<sup>$1</sup>');
-        let jpTag = item.jp.replace(/(.)\[(.*?)\]/g, '<ruby>$1<rt>$2</rt></ruby>');
+        // 修正: 新しい形式 [漢字>ルビ] を先に追加し、既存の形式とチェーンさせる
+        let jpTag = item.jp
+            .replace(/\[(.*?)>(.*?)\]/g, '<ruby>$1<rt>$2</rt></ruby>')
+            .replace(/(.)\[(.*?)\]/g, '<ruby>$1<rt>$2</rt></ruby>');
 
         return `
             <div class="result-item">
