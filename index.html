@@ -40,7 +40,8 @@
 </div>
 
 <script>
-    let dictionary = [];
+    let dictionary = [];   // data.csv 用
+    let dictionaryJK = []; // data_jk.csv 用
 
     function parseCSV(text) {
         const result = [];
@@ -62,28 +63,61 @@
 
     async function loadCSV() {
         try {
-            const response = await fetch('data.csv');
-            if (!response.ok) throw new Error("File not found");
-            const text = await response.text();
-            const rows = parseCSV(text);
-            const headers = rows[0];
-            const idxKr = headers.indexOf('Korean_word'), idxJp = headers.indexOf('Japanese_meaning'), idxMemo = headers.indexOf('memo');
+            // 両方のファイルを並行して取得
+            const [resp1, resp2] = await Promise.all([
+                fetch('data.csv'),
+                fetch('data_jk.csv')
+            ]);
 
-            dictionary = rows.slice(1).map(cols => ({
+            if (!resp1.ok || !resp2.ok) throw new Error("File not found");
+
+            const text1 = await resp1.text();
+            const text2 = await resp2.text();
+
+            // data.csv の処理 (既存ロジック)
+            const rows1 = parseCSV(text1);
+            const headers1 = rows1[0];
+            const idxKr = headers1.indexOf('Korean_word'), idxJp = headers1.indexOf('Japanese_meaning'), idxMemo = headers1.indexOf('memo');
+            
+            dictionary = rows1.slice(1).map(cols => ({
                 kr: (cols[idxKr] || "").trim(),
                 jp: (cols[idxJp] || "").trim(),
-                memo: (cols[idxMemo] || "").trim()
+                memo: (cols[idxMemo] || "").trim(),
+                source: 'data' // 識別用
             })).filter(item => item.kr || item.jp);
+
+            // data_jk.csv の処理 (新規ロジック)
+            // 構造: [?, 漢字, ひらがな, 韓国語, 説明]
+            const rows2 = parseCSV(text2);
+            // 1行目はヘッダーと仮定してスキップ (slice(1))
+            dictionaryJK = rows2.slice(1).map(cols => {
+                const kanji = (cols[1] || "").trim();
+                const kana = (cols[2] || "").trim();
+                const krWord = (cols[3] || "").trim();
+                const desc = (cols[4] || "").trim();
+                
+                // 表示統一のため、jpフィールドに漢字とかなをまとめる
+                const jpCombined = kanji === kana ? kanji : `${kanji}（${kana}）`;
+
+                return {
+                    kr: krWord,
+                    jp: jpCombined,
+                    memo: desc,
+                    source: 'jk' // 識別用
+                };
+            }).filter(item => item.kr || item.jp);
 
             const input = document.getElementById('searchInput');
             input.placeholder = "単語検索..."; input.disabled = false;
         } catch (e) {
+            console.error(e);
             document.getElementById('searchInput').placeholder = "エラー: 読み込めませんでした";
         }
     }
 
     function highlightText(text, query, className) {
         if (!query) return text;
+        // 特殊文字のエスケープ処理を追加しておくのが安全だが、今回は簡易実装のまま
         const re = new RegExp(`(${query})`, 'gi');
         return text.replace(re, `<span class="${className}">$1</span>`);
     }
@@ -104,19 +138,13 @@ function formatDisplay(item, query) {
         `;
     }
 
-    function search() {
-        const query = document.getElementById('searchInput').value.trim();
-        const resultsDiv = document.getElementById('results');
-        resultsDiv.innerHTML = '';
-        if (!query) return;
-
+    // 特定の辞書配列内で検索を行い、結果リスト（ソート済み）を返す関数
+    function searchInList(list, query) {
         const qLower = query.toLowerCase();
-        
-        // ソート処理: 前方一致を優先
         const startsWith = [];
         const contains = [];
 
-        dictionary.forEach(item => {
+        list.forEach(item => {
             const krLower = item.kr.toLowerCase();
             const jpLower = item.jp.toLowerCase();
             if (krLower.startsWith(qLower) || jpLower.startsWith(qLower)) {
@@ -125,9 +153,34 @@ function formatDisplay(item, query) {
                 contains.push(item);
             }
         });
+        return [...startsWith, ...contains];
+    }
 
-        const sorted = [...startsWith, ...contains];
-        resultsDiv.innerHTML = sorted.map(item => formatDisplay(item, query)).join('');
+    function search() {
+        const query = document.getElementById('searchInput').value.trim();
+        const resultsDiv = document.getElementById('results');
+        resultsDiv.innerHTML = '';
+        if (!query) return;
+
+        // 韓国語判定 (ハングルが含まれているか)
+        const isKoreanQuery = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/.test(query);
+
+        let finalResults = [];
+
+        // 検索ロジック分岐
+        if (isKoreanQuery) {
+            // 韓国語検索: data.csv -> data_jk.csv
+            const res1 = searchInList(dictionary, query);
+            const res2 = searchInList(dictionaryJK, query);
+            finalResults = [...res1, ...res2];
+        } else {
+            // 日本語検索: data_jk.csv -> data.csv
+            const resJK = searchInList(dictionaryJK, query);
+            const resData = searchInList(dictionary, query);
+            finalResults = [...resJK, ...resData];
+        }
+
+        resultsDiv.innerHTML = finalResults.map(item => formatDisplay(item, query)).join('');
     }
 
     loadCSV();
