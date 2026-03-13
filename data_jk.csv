@@ -178,7 +178,7 @@
 135,一番,いちばん,제일,,"most, best"
 924,一部,いちぶ,일부,,part
 9,いつ,いつ,언제,,when
-310,五日,いつか,오일,,"five days, fifth of the month"
+310,五日,いつか,5일,,"five days, fifth of the month"
 743,いつか,いつか,언젠가,,"some time, some day"
 775,いつ頃,いつごろ,언제 쯤,,"about when, about what time"
 808,一緒,いっしょ,같이,,"together, same (colloquial)"
@@ -325,7 +325,7 @@
 2661,円高,えんだか,엔고,,strong yen
 1272,鉛筆,えんぴつ,연필,,pencil
 1411,遠慮,えんりょ,사양,,"restraint, hold back"
-2488,甥,おい,남자 조카,,nephew
+2488,甥,おい,남자 조카,「남자（男性）」であることを特に強調する必要がない時には単純に「조카（甥と姪の両方を含んだ概念）」とだけいうことが多い。,nephew
 2171,追い掛ける,おいかける,"쫓다, 쫓아가다, 쫓아오다",,"chase, run after"
 331,美味しい,おいしい,맛있다,,tasty
 186,お医者さん,おいしゃさん,의사 선생님,,doctor (polite)
@@ -385,2607 +385,2586 @@
 1420,お嬢さん,おじょうさん,아가씨,,"young lady, daughter"
 985,押す,おす,밀다,,"push, press down"
 1684,雄,おす,수컷,,male (animal)
-1812,お世辞,おせじ,,,"compliment, flattery"
-144,遅い,おそい,,,"slow, late"
-1097,恐ろしい,おそろしい,,,"terrible, awful"
-1693,お宅,おたく,,,(someone else’s) home
-2350,おだてる,おだてる,,,flatter
-2377,落ち着く,おちつく,,,"calm down, settle in"
-750,お茶,おちゃ,,,tea (polite)
+1812,お世辞,おせじ,듣기 좋으라고 하는 말,,"compliment, flattery"
+144,遅い,おそい,늦다,,"slow, late"
+1097,恐ろしい,おそろしい,무겁다,,"terrible, awful"
+1693,お宅,おたく,댁,,(someone else’s) home
+2350,おだてる,おだてる,치켜세우다,,flatter
+2377,落ち着く,おちつく,진정되다,,"calm down, settle in"
+750,お茶,おちゃ,차,,tea (polite)
 114,落ちる,おちる,떨어지다,,"fall, come down"
-2861,おっしゃる,おっしゃる,,,"say, tell (honorific)"
-195,夫,おっと,,,husband
-778,お釣り,おつり,,,change (of money)
-379,お手洗い,おてあらい,,,"toilet, bathroom"
-2426,お手伝い,おてつだい,,,"help, assistance (polite)"
-636,音,おと,,,"sound, noise"
-235,お父さん,おとうさん,,,"father, dad (colloquial)"
-351,弟,おとうと,,,younger brother
-393,男,おとこ,,,"man, male"
-169,男の子,おとこのこ,,,boy
-2507,男らしい,おとこらしい,,,"manly, masculine"
-2655,落とし物,おとしもの,,,lost property
-859,落とす,おとす,,,drop
-1196,訪れる,おとずれる,,,go and visit (place)
-521,一昨日,おととい,,,the day before yesterday (colloquial)
-1005,一昨年,おととい,,,the year before last (colloquial)
-344,大人,おとな,,,adult
-529,大人しい,おとなしい,,,"gentle, quiet"
-2033,踊り,おどり,,,"dance, dancing"
-997,踊る,おどる,,,dance
-2296,驚き,おどろき,,,"surprise, amazement"
-608,驚く,おどろく,,,"be surprised, be startled"
-242,お腹,おなか,,,"stomach, belly"
+2861,おっしゃる,おっしゃる,말씀하시다,,"say, tell (honorific)"
+195,夫,おっと,남편,,husband
+778,お釣り,おつり,거스름돈,,change (of money)
+379,お手洗い,おてあらい,화장실,,"toilet, bathroom"
+2426,お手伝い,おてつだい,도움,,"help, assistance (polite)"
+636,音,おと,소리,,"sound, noise"
+235,お父さん,おとうさん,"아버지, 아빠",,"father, dad (colloquial)"
+351,弟,おとうと,남동생,,younger brother
+393,男,おとこ,남자,,"man, male"
+169,男の子,おとこのこ,남자 아이,,boy
+2507,男らしい,おとこらしい,남자답다,,"manly, masculine"
+2655,落とし物,おとしもの,유실물,,lost property
+859,落とす,おとす,떨어뜨리다,,drop
+1196,訪れる,おとずれる,"찾아가다, 찾아오다, 방문하다",,go and visit (place)
+521,一昨日,おととい,그저께,,the day before yesterday (colloquial)
+1005,一昨年,おととし,재작년,,the year before last (colloquial)
+344,大人,おとな,어른,,adult
+529,大人しい,おとなしい,조용하다,,"gentle, quiet"
+2033,踊り,おどり,춤,,"dance, dancing"
+997,踊る,おどる,춤을 추다,,dance
+2296,驚き,おどろき,놀람,,"surprise, amazement"
+608,驚く,おどろく,놀라다,,"be surprised, be startled"
+242,お腹,おなか,배,,"stomach, belly"
 20,同じ,おなじ,같다,,"same, identical"
-302,お兄さん,おにいさん,,,older brother
-2477,おにぎり,おにぎり,,,rice ball
-287,お姉さん,おねえさん,,,older sister
-336,お願い,おねがい,,,favor
-781,おば,おば,,,(one’s own) aunt
-512,お祖母さん,おばあさん,,,grandmother (colloquial)
-511,おばさん,おばさん,,,aunt
-2431,おばさん,おばさん,,,middle-aged woman
+302,お兄さん,おにいさん,"형, 오빠", 男性から見た「お兄さん」は「형」、女性から見た「お兄さん」は「오빠」,older brother
+2477,おにぎり,おにぎり,주먹밥,,rice ball
+287,お姉さん,おねえさん,"누나, 언니", 男性から見た「お姉さん」は「누나」、女性から見た「お姉さん」は「언니」,older sister
+336,お願い,おねがい,부탁,,favor
+781,おば,おば,"고모, 이모, 큰어머니, 작은어머니, 외숙모",父の姉妹は「고모」、母の姉妹は「이모」、父の兄の妻は「큰어머니」、父の弟の妻は「작은어머니」、母の兄弟の妻は「외숙모」,(one’s own) aunt
+512,お祖母さん,おばあさん,"할머니, 외할머니",一般的におばあさんは「할머니」だが、特に母方の祖母は「외할머니」,grandmother (colloquial)
+511,おばさん,おばさん,"아주머니, 고모, 이모, 큰어머니, 작은어머니, 외숙모",親戚でないおばさんは「아주머니」、親戚のうち、父の姉妹は「고모」、母の姉妹は「이모」、父の兄の妻は「큰어머니」、父の弟の妻は「작은어머니」、母の兄弟の妻は「외숙모」,aunt
 130,覚える,おぼえる,"외우다, 기억하다",,"memorize, learn"
-493,お巡りさん,おまわりさん,,,police officer (colloquial)
-557,お土産,おみやげ,,,souvenir (polite)
+493,お巡りさん,おまわりさん,경찰,,police officer (colloquial)
+557,お土産,おみやげ,선물,,souvenir (polite)
 121,重い,おもい,무겁다,,heavy
-2565,思い切って,おもいきって,,,"daringly, taking the plunge"
-2224,思い切り,おもいきり,,,"to one’s heart’s content, with all one’s might"
-802,思い出す,おもいだす,,,"recollect, recall"
-2216,思い付く,おもいつく,,,"think of, hit upon"
-1010,思い出,おもいで,,,memory
+2565,思い切って,おもいきって,큰 마음을 먹고,,"daringly, taking the plunge"
+2224,思い切り,おもいきり,힘껏,,"to one’s heart’s content, with all one’s might"
+802,思い出す,おもいだす,"생각나다, 떠오르다",,"recollect, recall"
+2216,思い付く,おもいつく,"생각나다, 떠오르다",,"think of, hit upon"
+1010,思い出,おもいで,추억,,memory
 15,思う,おもう,생각하다,,think
-1044,重さ,おもさ,,,weight
-708,面白い,おもしろい,,,"interesting, amusing"
-2148,重たい,おもたい,,,"heavy, serious"
-1024,おもちゃ,おもちゃ,,,"toy, plaything"
-1803,表,おもて,,,"front, outside"
-1970,表,おもて,,,"table, list"
-1828,主に,おもに,,,"mostly, predominantly"
-1909,思わず,おもわず,,,"unintentionally, unconsciously"
-198,親,おや,,,parent
-2401,親子,おやこ,,,parent and child
-2182,おやつ,おやつ,,,"snack, refreshment"
-2122,親指,おやゆび,,,thumb
-1030,泳ぐ,およぐ,,,swim
-498,下りる,おりる,,,"go down, come down"
-817,降りる,おりる,,,"get off, land"
-1412,折る,おる,,,"break (something), fold (something)"
-2963,おる,おる,,,"be present, stay (humble)"
-2234,俺,おれ,,,I (masculine sense)
-1519,お礼,おれい,,,"thanks, gratitude"
-1353,折れる,おれる,,,"break, snap"
-1304,オレンジ,おれんじ,,,orange
-1404,下ろす,おろす,,,"bring down, take down"
-1620,降ろす,おろす,,,"unload, set down"
-2457,お詫び,おわび,,,"apologize, apology"
-214,終わり,おわり,,,"end, conclusion"
+1044,重さ,おもさ,무게,,weight
+708,面白い,おもしろい,재미있다,,"interesting, amusing"
+2148,重たい,おもたい,무겁다,,"heavy, serious"
+1024,おもちゃ,おもちゃ,장난감,,"toy, plaything"
+1803,表,おもて,앞면,,"front, outside"
+1970,表,ひょう,표,,"table, list"
+1828,主に,おもに,주로,,"mostly, predominantly"
+1909,思わず,おもわず,자기도 모르게,,"unintentionally, unconsciously"
+198,親,おや,부모,,parent
+2401,親子,おやこ,부모와 아이,,parent and child
+2182,おやつ,おやつ,간식,,"snack, refreshment"
+2122,親指,おやゆび,엄지,,thumb
+1030,泳ぐ,およぐ,수영하다,,swim
+498,下りる,おりる,"내리다, 내려가다, 내려오다",,"go down, come down"
+817,降りる,おりる,"내리다, 내려가다, 내려오다",,"get off, land"
+1412,折る,おる,접다,,"break (something), fold (something)"
+2963,おる,おる,있다,,"be present, stay (humble)"
+2234,俺,おれ,나,,I (masculine sense)
+1519,お礼,おれい,답례,,"thanks, gratitude"
+1353,折れる,おれる,꺾이다,,"break, snap"
+1304,オレンジ,おれんじ,오렌지,,orange
+1404,下ろす,おろす,내리다,,"bring down, take down"
+1620,降ろす,おろす,내리다,,"unload, set down"
+2457,お詫び,おわび,사과,,"apologize, apology"
+214,終わり,おわり,끝,,"end, conclusion"
 45,終わる,おわる,끝나다,,"finish, end"
-853,音楽,おんがく,,,music
-1868,温泉,おんせん,,,hot spring
-900,温度,おんど,,,temperature
-395,女,おんな,,,woman
-168,女の子,おんなのこ,,,little girl
-2579,女らしい,おんならしい,,,"womanly, feminine"
-1085,課,か,,,"section, division"
-1508,蚊,か,,,mosquito
-1287,カーテン,かーてん,,,curtain
-1047,カード,かーど,,,card
-1698,ガールフレンド,がーるふれんど,,,girlfriend
-2679,会,かい,,,"meeting, association"
-2932,会員,かいいん,,,"member (of an association, society, etc.)"
-637,海外,かいがい,,,"overseas, abroad"
-886,海岸,かいがん,,,"seashore, coast"
-696,会議,かいぎ,,,"conference, meeting"
-2076,解決,かいけつ,,,"solution, settlement"
-449,外国,がいこく,,,foreign country
-1201,外国語,がいこくご,,,language
-638,外国人,がいこくじん,,,foreigner
-2135,改札,かいさつ,,,ticket gate
-751,改札口,かいさつぐち,,,ticket gate
-1949,開始,かいし,,,beginning
-421,会社,かいしゃ,,,"company, corporation"
-2950,解釈,かいしゃく,,,"interpretation, explanation"
-2870,会場,かいじょう,,,"venue, site"
-2467,外食,がいしょく,,,"eating out, dining out"
-1098,外人,がいじん,,,"foreigner, alien"
-2822,改正,かいせい,,,"revision, amendment"
-2883,解説,かいせつ,,,"explanation, commentary"
-2833,改善,かいぜん,,,improvement
-1049,階段,かいだん,,,"steps, flight of stairs"
-1884,会長,かいちょう,,,"president, chairperson"
-2877,回答,かいとう,,,"reply, answer"
-1882,開発,かいはつ,,,development
-2954,回復,かいふく,,,"recovery, recuperation"
-471,買い物,かいもの,,,"shopping, purchase"
-1273,会話,かいわ,,,conversation
+853,音楽,おんがく,음악,,music
+1868,温泉,おんせん,온천,,hot spring
+900,温度,おんど,온도,,temperature
+395,女,おんな,여자,,woman
+168,女の子,おんなのこ,여자 아이,,little girl
+2579,女らしい,おんならしい,여성스럽다,,"womanly, feminine"
+1085,課,か,과,,"section, division"
+1508,蚊,か,모기,,mosquito
+1287,カーテン,かーてん,커튼,,curtain
+1047,カード,かーど,카드,,card
+1698,ガールフレンド,がーるふれんど,여자 친구,,girlfriend
+2679,会,かい,모임,,"meeting, association"
+2932,会員,かいいん,회원,,"member (of an association, society, etc.)"
+637,海外,かいがい,해외,,"overseas, abroad"
+886,海岸,かいがん,해안,,"seashore, coast"
+696,会議,かいぎ,회의,,"conference, meeting"
+2076,解決,かいけつ,해결,,"solution, settlement"
+449,外国,がいこく,외국,,foreign country
+1201,外国語,がいこくご,외국어,,language
+638,外国人,がいこくじん,외국인,,foreigner
+2135,改札,かいさつ,개찰,,ticket gate
+751,改札口,かいさつぐち,개찰구,,ticket gate
+1949,開始,かいし,시작,,beginning
+421,会社,かいしゃ,회사,,"company, corporation"
+2950,解釈,かいしゃく,해석,,"interpretation, explanation"
+2870,会場,かいじょう,회장,,"venue, site"
+2467,外食,がいしょく,외식,,"eating out, dining out"
+1098,外人,がいじん,외국인,,"foreigner, alien"
+2822,改正,かいせい,개정,,"revision, amendment"
+2883,解説,かいせつ,해설,,"explanation, commentary"
+2833,改善,かいぜん,개선,,improvement
+1049,階段,かいだん,계단,,"steps, flight of stairs"
+1884,会長,かいちょう,회장,,"president, chairperson"
+2877,回答,かいとう,회답,,"reply, answer"
+1882,開発,かいはつ,개발,,development
+2954,回復,かいふく,회복,,"recovery, recuperation"
+471,買い物,かいもの,쇼핑,,"shopping, purchase"
+1273,会話,かいわ,회화,,conversation
 17,買う,かう,사다,,buy
-805,返す,かえす,,,"return, repay"
-2407,かえって,かえって,,,"rather, instead"
-1066,帰り,かえり,,,"return, going home"
+805,返す,かえす,돌리다,,"return, repay"
+2407,かえって,かえって,오히려,,"rather, instead"
+1066,帰り,かえり,돌아가는 길,,"return, going home"
 70,帰る,かえる,돌아가다,「家に帰る」という時には「집에 가다」と表現することが多い。,go back home
-294,変える,かえる,,,"change (something), alter"
-1522,代える,かえる,,,substitute for
-1720,換える,かえる,,,"exchange, convert"
-2394,かえる,かえる,,,frog
+294,変える,かえる,바꾸다,,"change (something), alter"
+1522,代える,かえる,바꾸다,,substitute for
+1720,換える,かえる,바꾸다,,"exchange, convert"
+2394,蛙,かえる,개구리,,frog
 44,顔,かお,얼굴,,face
-2494,顔色,かおいろ,,,"complexion, facial expression"
-2510,好奇心,かおきしん,,,curiosity
-1775,抱える,かかえる,,,hold in one’s arms
-1938,価格,かかく,,,"price, value"
-890,科学,かがく,,,science
-2351,かかと,かかと,,,heel
-1209,鏡,かがみ,,,mirror
-1621,掛かる,かかる,,,hang
-2702,かかる,かかる,,,"catch (a cold, etc.), come down with"
-2911,関わる,かかわる,,,"be involved, be concerned"
-745,鍵,かぎ,,,"key, lock"
-1461,書き方,かきかた,,,"how to write, way of writing"
-2046,書留,かきとめ,,,registered mail
-1880,書き取る,かきとる,,,"write down, note down"
-2023,書き直す,かきなおす,,,rewrite
-2766,限り,かぎり,,,limit
-1373,限る,かぎる,,,be limited to
+2494,顔色,かおいろ,안색,,"complexion, facial expression"
+2510,好奇心,かおきしん,호기심,,curiosity
+1775,抱える,かかえる,안다,,hold in one’s arms
+1938,価格,かかく,가격,,"price, value"
+890,科学,かがく,과학,,science
+2351,かかと,かかと,뒤꿈치,,heel
+1209,鏡,かがみ,거울,,mirror
+1621,掛かる,かかる,걸리다,,hang
+2702,かかる,かかる,"들다, 걸리다",お金がかかるは「들다」、時間がかかるは「걸리다」,"catch (a cold, etc.), come down with"
+2911,関わる,かかわる,관하다,,"be involved, be concerned"
+745,鍵,かぎ,연쇄,,"key, lock"
+1461,書き方,かきかた,쓰는 법,,"how to write, way of writing"
+2046,書留,かきとめ,등기,,registered mail
+1880,書き取る,かきとる,받아쓰다,,"write down, note down"
+2023,書き直す,かきなおす,다시 쓰다,,rewrite
+2766,限り,かぎり,한,,limit
+1373,限る,かぎる,한하다,,be limited to
 81,書く,かく,쓰다,,write
-2220,かく,かく,,,scratch
-2815,学習,がくしゅう,,,"study, learning"
+2220,掻く,かく,긁다,,scratch
+2815,学習,がくしゅう,학습,,"study, learning"
 33,学生,がくせい,학생,,student
-1569,拡大,かくだい,,,"magnification, enlargement"
-693,確認,かくにん,,,confirmation
-2316,学歴,がくれき,,,educational background
-1388,隠れる,かくれる,,,hide
-2626,がくんと,がくんと,,,"sharply, significantly"
-1670,掛け算,かけざん,,,multiplication
-240,掛ける,かける,,,"hang, put on"
-1853,過去,かこ,,,the past
-1798,加工,かこう,,,processing
-746,傘,かさ,,,"umbrella, parasol"
-868,飾る,かざる,,,decorate
-1288,火事,かじ,,,"fire, blaze"
-1405,貸し出す,かしだす,,,"lend, lend out"
-1847,歌手,かしゅ,,,singer
-2149,かじる,かじる,,,"nibble, bite"
-1018,貸す,かす,,,"lend, lease"
+1569,拡大,かくだい,확대,,"magnification, enlargement"
+693,確認,かくにん,확인,,confirmation
+2316,学歴,がくれき,학력,,educational background
+1388,隠れる,かくれる,숨다,,hide
+2626,がくんと,がくんと,툭,,"sharply, significantly"
+1670,掛け算,かけざん,곱셈,,multiplication
+240,掛ける,かける,곱하다,,"hang, put on"
+1853,過去,かこ,과거,,the past
+1798,加工,かこう,가공,,processing
+746,傘,かさ,우산,,"umbrella, parasol"
+868,飾る,かざる,꾸미다,,decorate
+1288,火事,かじ,불,,"fire, blaze"
+1405,貸し出す,かしだす,빌려주다,,"lend, lend out"
+1847,歌手,かしゅ,가수,,singer
+2149,かじる,かじる,갉아먹다,,"nibble, bite"
+1018,貸す,かす,빌려주다,,"lend, lease"
 73,数,かず,수,,number
-818,ガス,がす,,,gas (loan word)
-248,風邪,かぜ,,,cold (illness)
-889,風,かぜ,,,wind
-1981,稼ぐ,かせぐ,,,"earn, make money"
-581,風邪薬,かぜぐすり,,,cold medicine
-1019,数える,かぞえる,,,count
-441,家族,かぞく,,,"family, household"
-2101,ガソリン,がそりん,,,gasoline
-1451,ガソリンスタンド,がそりんすたんど,,,gas station
-156,肩,かた,,,shoulder
-2707,型,かた,,,"type, model"
-706,固い,かたい,,,"stiff, tight"
-691,課題,かだい,,,"task, assignment"
-2808,方々,かたがた,,,people (polite)
-2575,がたがた,がたがた,,,"with a rattling noise, unstable"
-262,カタカナ,かたかな,,,katakana
-1816,形,かたち,,,"shape, form"
-1660,片付く,かたづく,,,"be put in order, be finished"
-1447,片付ける,かたづける,,,"put in order, clean up"
-2430,片手,かたて,,,one hand
-2446,片方,かたほう,,,"one side, the other one"
-1452,片道,かたみち,,,one way (trip)
-2420,カタログ,かたろぐ,,,catalogue
-2726,価値,かち,,,"value, worth"
-2387,課長,かちょう,,,section chief
-488,勝つ,かつ,,,win
-2116,がっかり,がっかり,,,"disappointed, disappointing"
+818,ガス,がす,가스,,gas (loan word)
+248,風邪,かぜ,감기,,cold (illness)
+889,風,かぜ,바람,,wind
+1981,稼ぐ,かせぐ,벌다,,"earn, make money"
+581,風邪薬,かぜぐすり,감기약,,cold medicine
+1019,数える,かぞえる,세다,,count
+441,家族,かぞく,가족,,"family, household"
+2101,ガソリン,がそりん,기름,,gasoline
+1451,ガソリンスタンド,がそりんすたんど,주유소,,gas station
+156,肩,かた,어깨,,shoulder
+2707,型,かた,모양,,"type, model"
+706,固い,かたい,딱딱하다,,"stiff, tight"
+691,課題,かだい,과제,,"task, assignment"
+2808,方々,かたがた,분들,,people (polite)
+2575,がたがた,がたがた,울퉁불퉁,,"with a rattling noise, unstable"
+262,カタカナ,かたかな,가타카나,,katakana
+1816,形,かたち,모양,,"shape, form"
+1660,片付く,かたづく,정리되다,,"be put in order, be finished"
+1447,片付ける,かたづける,치우다,,"put in order, clean up"
+2430,片手,かたて,한 손,,one hand
+2446,片方,かたほう,한쪽,,"one side, the other one"
+1452,片道,かたみち,평도,,one way (trip)
+2420,カタログ,かたろぐ,카탈로그,,catalogue
+2726,価値,かち,가치,,"value, worth"
+2387,課長,かちょう,과장,,section chief
+488,勝つ,かつ,이기다,,win
+2116,がっかりする,がっかりする,실망하다,,"disappointed, disappointing"
 49,学校,がっこう,학생교,,school
-2585,かっと,かっと,,,"in a temper, in a rage"
-1968,活動,かつどう,,,activity
-1661,カップ,かっぷ,,,cup
-2960,活躍,かつやく,,,"(successful) performance, action"
-2851,活用,かつよう,,,"practical use, application"
-678,家庭,かてい,,,"home, family"
-2995,過程,かてい,,,"process, course"
-1564,角,かど,,,"corner, edge"
-1540,仮名,かな,,,kana
-1597,家内,かない,,,one’s wife
-220,悲しい,かなしい,,,sad
-1509,悲しむ,かなしむ,,,"feel sad, lament"
-819,必ず,かならず,,,"without exception, always"
-173,かなり,かなり,,,"fairly, rather"
-1063,金持ち,かねもち,,,wealthy person
-1962,可能,かのう,,,"possible, potential"
+2585,かっとなる,かっとなる,화가 나다,,"in a temper, in a rage"
+1968,活動,かつどう,활동,,activity
+1661,カップ,かっぷ,컵,,cup
+2960,活躍,かつやく,활약,,"(successful) performance, action"
+2851,活用,かつよう,활용,,"practical use, application"
+678,家庭,かてい,가정,,"home, family"
+2995,過程,かてい,과정,,"process, course"
+1564,角,かど,모서리,,"corner, edge"
+1540,仮名,かな,가나,,kana
+1597,家内,かない,아내,,one’s wife
+220,悲しい,かなしい,슬프다,,sad
+1509,悲しむ,かなしむ,슬퍼하다,,"feel sad, lament"
+819,必ず,かならず,꼭,,"without exception, always"
+173,かなり,かなり,꽤,,"fairly, rather"
+1063,金持ち,かねもち,부자,,wealthy person
+1962,可能だ,かのうだ,가능하다,,"possible, potential"
 41,彼女,かのじょ,"그녀, 여자 친구",代名詞なら「그녀」、「ガールフレンド」なら「여자 친구」,"she, one’s girlfriend"
-527,鞄,かばん,,,"bag, handbag"
-2085,株,かぶ,,,"stock, share"
-738,被る,かぶる,,,"wear, put on (on one’s head)"
-855,壁,かべ,,,"wall, partition"
-2501,かぼちゃ,かぼちゃ,,,pumpkin
-1227,我慢,がまん,,,"patience, endurance"
+527,鞄,かばん,가방,,"bag, handbag"
+2085,株,かぶ,주식,,"stock, share"
+738,被る,かぶる,쓰다,,"wear, put on (on one’s head)"
+855,壁,かべ,벽,,"wall, partition"
+2501,かぼちゃ,かぼちゃ,호박,,pumpkin
+1227,我慢,がまん,참다,,"patience, endurance"
 142,紙,かみ,종이,,paper
-736,髪,かみ,,,"hair, hairstyle"
-2095,神,かみ,,,God
-2622,かみそり,かみそり,,,razor
-2619,噛み付く,かみつく,,,bite
-1857,雷,かみなり,,,"thunder, lightning"
-258,髪の毛,かみのけ,,,"hair, each single hair"
-1305,噛む,かむ,,,"bite, chew"
-820,カメラ,かめら,,,camera
-2320,カメラマン,かめらまん,,,photographer
-2364,画面,がめん,,,screen
-2671,がやがや,がやがや,,,"noisily, loudly"
-1605,かゆい,かゆい,,,itchy
-821,通う,かよう,,,"go to and from, frequent a place"
-279,火曜日,かようび,,,Tuesday
-1088,カラー,からー,,,color (loan word)
-305,辛い,からい,,,"spicy, hot"
-2666,辛い,からい,,,"hard, painstaking"
-2428,カラオケ,からおけ,,,karaoke
-2154,からかう,からかう,,,"make fun of, tease"
-1794,からから,からから,,,"very thirsty, very dry"
-1725,がらがら,がらがら,,,not crowded
-2618,からす,からす,,,"crow, raven"
-887,ガラス,がらす,,,glass (material)
+736,髪,かみ,머리,,"hair, hairstyle"
+2095,神,かみ,신,,God
+2622,剃刀,かみそり,면도칼,,razor
+2619,噛み付く,かみつく,물다,,bite
+1857,雷,かみなり,"천둥, 번개",ゴロゴロという音は「천둥」、ピカっという光は「번개」,"thunder, lightning"
+258,髪の毛,かみのけ,머리 카락,,"hair, each single hair"
+1305,噛む,かむ,물다,,"bite, chew"
+820,カメラ,かめら,카메라,,camera
+2320,カメラマン,かめらまん,카메라맨,,photographer
+2364,画面,がめん,화면,,screen
+2671,がやがや,がやがや,시끌벅적,,"noisily, loudly"
+1605,かゆい,かゆい,간지롭다,,itchy
+821,通う,かよう,다니다,,"go to and from, frequent a place"
+279,火曜日,かようび,화요일,,Tuesday
+1088,カラー,からー,칼라,,color (loan word)
+305,辛い,からい,맵다,,"spicy, hot"
+2666,辛い,辛い,힘들다,,"hard, painstaking"
+2428,カラオケ,からおけ,노래방,,karaoke
+2154,からかう,からかう,놀리다,,"make fun of, tease"
+1794,からからだ,からからだ,목이 마르다,,"very thirsty, very dry"
+1725,がらがら,がらがら,와르르,,not crowded
+2618,烏,からす,까마귀,,"crow, raven"
+887,ガラス,がらす,유리,,glass (material)
 85,体,からだ,몸,,"body, physique"
-2183,空っぽ,からっぽ,,,empty
-804,借りる,かりる,,,borrow
+2183,空っぽだ,からっぽだ,텅 비어 있다,,empty
+804,借りる,かりる,빌리다,,borrow
 124,軽い,かるい,가볍다,,light (of weight)
-394,彼,かれ,,,"he, one’s boyfriend"
-1638,カレーライス,かれーらいす,,,curry rice
-640,彼ら,かれら,,,they
-1488,カレンダー,かれんだー,,,calendar
-465,川,かわ,,,"river, stream"
-1477,革,かわ,,,leather
-481,可愛い,かわいい,,,"cute, sweet"
-2595,可愛がる,かわいがる,,,"love, cherish"
-1415,可哀相,かわいそう,,,"poor, pitiful"
-1787,可愛らしい,かわいらしい,,,"lovely, charming"
-1625,乾かす,かわかす,,,dry (something)
-280,渇く,かわく,,,be thirsty
-960,乾く,かわく,,,become dry
-1771,代わり,かわり,,,"substitution, alternative"
-430,変わる,かわる,,,"change, turn into"
-860,代わる,かわる,,,"substitute, be substituted for"
-1833,缶,かん,,,"can, tin"
-2343,癌,がん,,,cancer
-2340,眼科,がんか,,,"ophthalmology, eye clinic"
-812,考え,かんがえ,,,"thought, idea"
-292,考える,かんがえる,,,"think, consider"
-2838,感覚,かんかく,,,"sense, feel"
-2614,かんかん,かんかん,,,"furiously angry, in a rage"
-1493,寒気,かんき,,,chill
-2690,環境,かんきょう,,,"environment, surroundings"
-1198,関係,かんけい,,,"relation, relationship"
-1881,歓迎,かんげい,,,"welcome, greet"
-2895,観光,かんこう,,,sightseeing
-2024,看護婦,かんごふ,,,female nurse
+394,彼,かれ,"그, 남자 친구",代名詞なら「그」、「ボーイフレンド」なら「남자 친구」,"he, one’s boyfriend"
+1638,カレーライス,かれーらいす,카레,,curry rice
+640,彼ら,かれら,그들,,they
+1488,カレンダー,かれんだー,달력,,calendar
+465,川,かわ,"강, 시내",大きな川は「강」、小さな川は「시내」,"river, stream"
+1477,革,かわ,가죽,,leather
+481,可愛い,かわいい,"귀엽다, 예쁘다",赤ちゃんや小動物が可愛い時は「귀엽다」、その他が可愛い時は「예쁘다」。,"cute, sweet"
+2595,可愛がる,かわいがる,"귀여워하다, 예뻐하다",赤ちゃんや小動物を可愛いがる時は「귀여워하다」、その他を可愛いがる時は「예뻐하다」。,"love, cherish"
+1415,可哀相,かわいそう,불쌍하다,,"poor, pitiful"
+1787,可愛らしい,かわいらしい,"귀엽다, 예쁘다",赤ちゃんや小動物が可愛い時は「귀엽다」、その他が可愛い時は「예쁘다」。,"lovely, charming"
+1625,乾かす,かわかす,말리다,,dry (something)
+280,渇く,かわく,마르다,,be thirsty
+960,乾く,かわく,마르다,,become dry
+1771,代わり,かわり,대신,,"substitution, alternative"
+430,変わる,かわる,변하다,,"change, turn into"
+860,代わる,かわる,바뀌다,,"substitute, be substituted for"
+1833,缶,かん,캔,,"can, tin"
+2343,癌,がん,암,,cancer
+2340,眼科,がんか,안과,,"ophthalmology, eye clinic"
+812,考え,かんがえ,생각,,"thought, idea"
+292,考える,かんがえる,생각하다,,"think, consider"
+2838,感覚,かんかく,감각,,"sense, feel"
+2614,かんかんだ,かんかんだ,화가 나 있다,,"furiously angry, in a rage"
+1493,寒気,さむけ,한기,,chill
+2690,環境,かんきょう,환경,,"environment, surroundings"
+1198,関係,かんけい,관계,,"relation, relationship"
+1881,歓迎,かんげい,환영,,"welcome, greet"
+2895,観光,かんこう,관광,,sightseeing
+2024,看護師,かんごし,간호사,,female nurse
 138,漢字,かんじ,한자,,Chinese character
-2689,感じ,かんじ,,,"feeling, impression"
-2837,感謝,かんしゃ,,,"gratitude, thanks"
-1899,患者,かんじゃ,,,patient
-2909,感情,かんじょう,,,"feeling, emotion"
-570,感じる,かんじる,,,"feel, sense"
-2971,関心,かんしん,,,"concern, interest"
-1936,関する,かんする,,,"relate to, regarding"
-1944,完成,かんせい,,,"completion, finish making or building something"
-2746,完全,かんぜん,,,"perfect, complete"
-2882,感想,かんそう,,,"thought, impression"
-606,簡単,かんたん,,,"simple, easy"
-1900,元旦,がんたん,,,"morning of the January 1st, New Year’s Day"
-1690,勘違い,かんちがい,,,"misunderstanding, wrong idea or assumption"
-1726,缶詰,かんづめ,,,canned food
-2930,感動,かんどう,,,"to be impressed, to be touched"
-2720,監督,かんとく,,,"supervisor, film director"
-1448,乾杯,かんぱい,,,"toast, drink (in celebration)"
-297,頑張る,がんばる,,,"work hard, do one’s best"
-2080,管理,かんり,,,"management, administration"
-182,木,き,,,"tree, wood"
-1861,気,き,,,"spirit, temperament"
-762,黄色,きいろ,,,yellow color
-249,黄色い,きいろい,,,yellow
-440,消える,きえる,,,"be extinguished, disappear"
-2806,記憶,きおく,,,"memory, remembrance"
-1058,気温,きおん,,,air temperature
-641,機械,きかい,,,machine
-2699,機会,きかい,,,"opportunity, chance"
-2159,着替え,きがえ,,,change of clothes
-964,着替える,きがえる,,,change clothes
-2244,企画,きかく,,,"planning, project"
-679,期間,きかん,,,"term, period"
-2998,機関,きかん,,,"agency, facility"
-2266,危機,きき,,,"crisis, danger"
-1865,企業,きぎょう,,,"corporation, business"
+2689,感じ,かんじ,느낌,,"feeling, impression"
+2837,感謝,かんしゃ,감사,,"gratitude, thanks"
+1899,患者,かんじゃ,환자,,patient
+2909,感情,かんじょう,감정,,"feeling, emotion"
+570,感じる,かんじる,느끼다,,"feel, sense"
+2971,関心,かんしん,관심,,"concern, interest"
+1936,関する,かんする,관하다,,"relate to, regarding"
+1944,完成,かんせい,완성,,"completion, finish making or building something"
+2746,完全,かんぜん,완전,,"perfect, complete"
+2882,感想,かんそう,감상,,"thought, impression"
+606,簡単だ,かんたんだ,"쉽다, 간단하다",難易度が低いことは「쉽다」、単純であることは「간단하다」,"simple, easy"
+1900,元旦,がんたん,설날,,"morning of the January 1st, New Year’s Day"
+1690,勘違い,かんちがい,착각,,"misunderstanding, wrong idea or assumption"
+1726,缶詰,かんづめ,통조림,,canned food
+2930,感動,かんどう,감동,,"to be impressed, to be touched"
+2720,監督,かんとく,감독,,"supervisor, film director"
+1448,乾杯,かんぱい,건배,,"toast, drink (in celebration)"
+297,頑張る,がんばる,열심히 하다,,"work hard, do one’s best"
+2080,管理,かんり,관리,,"management, administration"
+182,木,き,나무,,"tree, wood"
+1861,気,き,기,,"spirit, temperament"
+762,黄色,きいろ,노란색,,yellow color
+249,黄色い,きいろい,노랗다,,yellow
+440,消える,きえる,자라지다,,"be extinguished, disappear"
+2806,記憶,きおく,기억,,"memory, remembrance"
+1058,気温,きおん,기온,,air temperature
+641,機械,きかい,기계,,machine
+2699,機会,きかい,기회,,"opportunity, chance"
+2159,着替え,きがえ,"갈아입을 옷, 갈아입는 것",着替える服という意味なら「갈아입을 옷」、着替えることという意味なら「갈아입는 것」,change of clothes
+964,着替える,きがえる,갈아입다,,change clothes
+2244,企画,きかく,기획,,"planning, project"
+679,期間,きかん,기간,,"term, period"
+2998,機関,きかん,기관,,"agency, facility"
+2266,危機,きき,위기,,"crisis, danger"
+1865,企業,きぎょう,기업,,"corporation, business"
 26,聞く,きく,"듣다, 묻다",聞こえてくる音を聞くのは「듣다」、質問するのは「묻다」,"hear, ask"
-683,危険,きけん,,,"danger, dangerous"
-1990,機嫌,きげん,,,"mood, health"
-803,聞こえる,きこえる,,,"hear, be heard"
-639,帰国,きこく,,,return to one’s country
-2684,記事,きじ,,,"article, story"
-2053,記者,きしゃ,,,"journalist, reporter"
-2093,技術,ぎじゅつ,,,"skill, technology"
-2054,基準,きじゅん,,,"standard, criterion"
-2415,キス,きす,,,kiss
-1922,傷,きず,,,"wound, scar"
-2353,傷付ける,きずつける,,,"hurt (someone), damage (something)"
-2277,犠牲,ぎせい,,,"sacrifice, loss"
-882,季節,きせつ,,,season
-1520,着せる,きせる,,,dress (someone)
-2863,基礎,きそ,,,"base, foundation"
-1383,規則,きそく,,,"rule, regulation"
-893,北,きた,,,north
-1274,ギター,ぎたー,,,guitar
-1940,期待,きたい,,,"expectation, anticipation"
-2563,北風,きたかぜ,,,north wind
-1978,帰宅,きたく,,,"return home, come home"
-252,汚い,きたない,,,dirty
-2925,きちんと,きちんと,,,"properly, neatly"
-1306,きつい,きつい,,,"tight, tough"
-1399,気付く,きづく,,,"notice, realize"
-1281,喫茶店,きっさてん,,,"coffee shop, café"
-2214,ぎっしり,ぎっしり,,,"tightly, closely"
-2414,キッチン,きっちん,,,kitchen
-483,切手,きって,,,postage stamp
-1330,きっと,きっと,,,"surely, certainly"
-1266,切符,きっぷ,,,ticket
-1257,気に入る,きにいる,,,"like, be pleased with"
-2905,記念,きねん,,,"commemoration, memory"
-1541,記念日,きねんび,,,"memorial day, anniversary"
-332,昨日,きのう,,,yesterday (colloquial)
-1930,機能,きのう,,,"function, feature"
-2705,昨日,きのう,,,yesterday (formal)
-2111,気の毒,きのどく,,,"pitiful, poor"
-531,厳しい,きびしい,,,"strict, severe"
-2818,気分,きぶん,,,"feeling, mood"
-2805,希望,きぼう,,,"hope, wish"
-642,基本,きほん,,,basics
-867,決まる,きまる,,,be decided
-569,決める,きめる,,,"decide, agree upon"
-179,気持ち,きもち,,,"feeling, sensation"
-1202,着物,きもの,,,traditional Japanese clothes
-2880,疑問,ぎもん,,,"question, doubt"
-576,客,きゃく,,,"visitor, customer"
-2781,逆,ぎゃく,,,"reverse, opposite"
-2512,客観的,きゃっかんてき,,,objective
-1639,キャッシュカード,きゃっしゅかーど,,,cash card
-2468,キャベツ,きゃべつ,,,cabbage
-2442,キャンセル,きゃんせる,,,cancellation
-1090,キャンプ,きゃんぷ,,,"camping, camp"
-773,九,きゅう,,,nine
-1170,急,きゅう,,,"urgent, steep"
-2986,旧,きゅう,,,"old, former"
-2534,ぎゅうぎゅう,ぎゅうぎゅう,,,"packed, crammed"
-1204,救急車,きゅうきゅうしゃ,,,ambulance
-1343,休憩,きゅうけい,,,break
-1524,急行,きゅうこう,,,express train
-1008,休日,きゅうじつ,,,"day off, holiday"
-822,急に,きゅうに,,,"suddenly, unexpectedly"
-895,牛肉,ぎゅうにく,,,beef
-1203,牛乳,ぎゅうにゅう,,,milk
-2580,急用,きゅうよう,,,urgent business
-2541,きゅうり,きゅうり,,,cucumber
-824,給料,きゅうりょう,,,"salary, pay"
+683,危険,きけん,위험,,"danger, dangerous"
+1990,機嫌,きげん,기분,,"mood, health"
+803,聞こえる,きこえる,들리다,,"hear, be heard"
+639,帰国,きこく,귀국,,return to one’s country
+2684,記事,きじ,기사,,"article, story"
+2053,記者,きしゃ,기자,,"journalist, reporter"
+2093,技術,ぎじゅつ,기술,,"skill, technology"
+2054,基準,きじゅん,기준,,"standard, criterion"
+2415,キス,きす,키스,,kiss
+1922,傷,きず,"상처, 기스",生き物の傷は「상처」、物のキズは「기스」,"wound, scar"
+2353,傷付ける,きずつける,"상처를 주다, 기스를 내다",「～を傷つける」は、生き物相手なら「-한테 상처를 주다」、物相手なら「-에 기스를 내다」,"hurt (someone), damage (something)"
+2277,犠牲,ぎせい,희생,,"sacrifice, loss"
+882,季節,きせつ,계절,,season
+1520,着せる,きせる,입히다,,dress (someone)
+2863,基礎,きそ,기초,,"base, foundation"
+1383,規則,きそく,규칙,,"rule, regulation"
+893,北,きた,북쪽,,north
+1274,ギター,ぎたー,기다,,guitar
+1940,期待,きたい,기대,,"expectation, anticipation"
+2563,北風,きたかぜ,북풍,,north wind
+1978,帰宅,きたく,귀댁,,"return home, come home"
+252,汚い,きたない,"더럽다, 지저분하다",清潔でないのは「더럽다」、整理されていないのは「지저분하다」,dirty
+2925,きちんと,きちんと,잘,,"properly, neatly"
+1306,きつい,きつい,힘들다,,"tight, tough"
+1399,気付く,きづく,알아차리다,,"notice, realize"
+1281,喫茶店,きっさてん,카페,,"coffee shop, café"
+2214,ぎっしり,ぎっしり,가득,,"tightly, closely"
+2414,キッチン,きっちん,부엌,,kitchen
+483,切手,きって,우표,,postage stamp
+1330,きっと,きっと,꼭,,"surely, certainly"
+1266,切符,きっぷ,표,,ticket
+1257,気に入る,きにいる,마음에 들다,,"like, be pleased with"
+2905,記念,きねん,기념,,"commemoration, memory"
+1541,記念日,きねんび,기념일,,"memorial day, anniversary"
+332,昨日,きのう,어제,,yesterday (colloquial)
+1930,機能,きのう,기능,,"function, feature"
+2705,昨日,さくじつ,어제,,yesterday (formal)
+2111,気の毒だ,きのどくだ,안쓰럽다,,"pitiful, poor"
+531,厳しい,きびしい,엄하다,,"strict, severe"
+2818,気分,きぶん,기분,,"feeling, mood"
+2805,希望,きぼう,희망,,"hope, wish"
+642,基本,きほん,기본,,basics
+867,決まる,きまる,정해지다,,be decided
+569,決める,きめる,정하다,,"decide, agree upon"
+179,気持ち,きもち,기분,,"feeling, sensation"
+1202,着物,きもの,기모노,,traditional Japanese clothes
+2880,疑問,ぎもん,의문,,"question, doubt"
+576,客,きゃく,손님,,"visitor, customer"
+2781,逆,ぎゃく,거꾸로,,"reverse, opposite"
+2512,客観的,きゃっかんてき,객관적,,objective
+1639,キャッシュカード,きゃっしゅかーど,현금카드,,cash card
+2468,キャベツ,きゃべつ,양배추,,cabbage
+2442,キャンセル,きゃんせる,취소,,cancellation
+1090,キャンプ,きゃんぷ,캠핑,,"camping, camp"
+773,九,きゅう,"아홉, 구",固有語数詞では「아홉」、漢字語数詞では「구」,nine
+1170,急だ,きゅうだ,갑작스럽다,,"urgent, steep"
+2986,旧,きゅう,구,,"old, former"
+2534,ぎゅうぎゅう,ぎゅうぎゅう,꽉꽉,,"packed, crammed"
+1204,救急車,きゅうきゅうしゃ,구급차,,ambulance
+1343,休憩,きゅうけい,휴계,,break
+1524,急行,きゅうこう,급행,,express train
+1008,休日,きゅうじつ,쉬는 날,,"day off, holiday"
+822,急に,きゅうに,갑자기,,"suddenly, unexpectedly"
+895,牛肉,ぎゅうにく,소고기,,beef
+1203,牛乳,ぎゅうにゅう,우유,,milk
+2580,急用,きゅうよう,급한 일,,urgent business
+2541,胡瓜,きゅうり,오이,,cucumber
+824,給料,きゅうりょう,월급,,"salary, pay"
 97,今日,きょう,오늘,,today (colloquial)
-2681,今日,きょう,,,these days
-2951,行,ぎょう,,,"line, row"
-1742,教育,きょういく,,,education
-2087,強化,きょうか,,,strengthening
-2000,教会,きょうかい,,,church
-2359,業界,ぎょうかい,,,"industry, business world"
-845,教科書,きょうかしょ,,,"textbook, schoolbook"
-2596,餃子,ぎょうざ,,,Chinese dumpling
-848,教師,きょうし,,,"teacher, instructor"
-847,教室,きょうしつ,,,"classroom, class"
-699,教授,きょうじゅ,,,professor
-1966,競争,きょうそう,,,competition
-876,兄弟,きょうだい,,,sibling
-2083,強調,きょうちょう,,,"emphasis, stress"
-2789,共通,きょうつう,,,commonality
-2827,共同,きょうどう,,,"joint, cooperation"
-2769,興味,きょうみ,,,interest
-1854,協力,きょうりょく,,,"cooperation, collaboration"
-825,曲,きょく,,,piece of music
-161,去年,きょねん,,,last year (colloquial)
-2581,きょろきょろ,きょろきょろ,,,look around
-244,嫌い,きらい,,,dislike (habitual)
-1565,きらきら,きらきら,,,"sparkling, glittering"
-1722,ぎらぎら,ぎらぎら,,,"glaring, blinding"
-2330,義理,ぎり,,,"sense of duty, obligation"
-2559,ぎりぎり,ぎりぎり,,,"just in time, barely"
+2681,今日,こんにち,오늘날,,these days
+2951,行,ぎょう,행,,"line, row"
+1742,教育,きょういく,교육,,education
+2087,強化,きょうか,강화,,strengthening
+2000,教会,きょうかい,"교회, 성당",プロテスタントの教会は「교회」、カトリックの教会は「성당」,church
+2359,業界,ぎょうかい,업계,,"industry, business world"
+845,教科書,きょうかしょ,교과서,,"textbook, schoolbook"
+2596,餃子,ぎょうざ,만두,,Chinese dumpling
+848,教師,きょうし,교사,,"teacher, instructor"
+847,教室,きょうしつ,교실,,"classroom, class"
+699,教授,きょうじゅ,교수,,professor
+1966,競争,きょうそう,경쟁,,competition
+876,兄弟,きょうだい,형제,,sibling
+2083,強調,きょうちょう,강조,,"emphasis, stress"
+2789,共通,きょうつう,공통,,commonality
+2827,共同,きょうどう,공동,,"joint, cooperation"
+2769,興味,きょうみ,관심,,interest
+1854,協力,きょうりょく,협력,,"cooperation, collaboration"
+825,曲,きょく,곡,,piece of music
+161,去年,きょねん,작년,,last year (colloquial)
+2581,きょろきょろ,きょろきょろ,두리번두리번,,look around
+244,嫌いだ,きらいだ,싫어하다,「～が嫌いだ」は「-를/을 싫어하다」と表現する。,dislike (habitual)
+1565,きらきら,きらきら,반짝반짝,,"sparkling, glittering"
+1722,ぎらぎら,ぎらぎら,번쩍번쩍,,"glaring, blinding"
+2330,義理,ぎり,의리,,"sense of duty, obligation"
+2559,ぎりぎり,ぎりぎり,아슬아슬,,"just in time, barely"
 133,着る,きる,입다,,"wear, put on"
-204,切る,きる,,,cut
-333,綺麗,きれい,,,"pretty, clean"
-826,切れる,きれる,,,"cut well, be sharp"
-1374,記録,きろく,,,"record, documentation"
-2714,議論,ぎろん,,,"discussion, debate"
-715,気を付ける,きをつける,,,"be careful about, pay attention to"
-300,金,きん,,,money (colloquial)
-1885,金,きん,,,gold
-1080,銀,ぎん,,,silver
-1278,禁煙,きんえん,,,non-smoking
-1507,金額,きんがく,,,"amount of money, sum"
-2272,緊急,きんきゅう,,,"urgent, emergency"
-450,銀行,ぎんこう,,,bank
-2931,禁止,きんし,,,"prohibition, forbiddance"
-1384,近所,きんじょ,,,neighborhood
-1398,緊張,きんちょう,,,"tension, strain"
-2756,金融,きんゆう,,,finance
-245,金曜日,きんようび,,,Friday
-1924,具合,ぐあい,,,"condition, health"
-2312,クイズ,くいず,,,"quiz, quiz show"
-671,空気,くうき,,,"air, atmosphere"
-813,空港,くうこう,,,airport (for public transportation)
-1919,偶然,ぐうぜん,,,"by chance, coincidence"
-1510,クーラー,くーらー,,,air conditioner (cooling)
-1210,草,くさ,,,"grass, weed"
-1671,臭い,くさい,,,stinky
-1973,臭い,くさい,,,(bad) smell
-1340,腐る,くさる,,,"rot, go bad"
-660,くし,くし,,,comb
-2525,くしゃくしゃ,くしゃくしゃ,,,"messy, crumpled"
-2190,くしゃみ,くしゃみ,,,sneeze
-2582,ぐずぐず,ぐずぐず,,,"slowly, tardily"
-1496,くすぐったい,くすぐったい,,,ticklish
-2613,くすぐる,くすぐる,,,tickle
-472,薬,くすり,,,"drug, medicine"
-2195,薬指,くすりゆび,,,ring finger
-1375,具体的,ぐたいてき,,,"concrete, specific"
-2588,くたくた,くたくた,,,exhausted
-2704,下さる,くださる,,,give (honorific)
-1205,果物,くだもの,,,fruit
-1594,くだらない,くだらない,,,"worthless, trifling"
-1542,下り,くだり,,,"downhill, going down"
-1628,下る,くだる,,,"go down, go away from"
-354,口,くち,,,mouth
-2645,口喧嘩,くちげんか,,,quarrel
-1025,靴,くつ,,,shoes
-2472,クッキー,くっきー,,,cookie
-582,靴下,くつした,,,socks
-1478,ぐっすり,ぐっすり,,,soundly
-2562,くっ付く,くっつく,,,"stick, be attached"
-2632,くっ付ける,くっつける,,,"attach (something), stick (something)"
-174,国,くに,,,country
-1050,配る,くばる,,,"hand out, distribute"
-145,首,くび,,,neck
-2941,組,くみ,,,"school class, group, pair"
-2888,組合,くみあい,,,"union, guild"
-1096,組み立てる,くみたてる,,,"set up, put together"
-592,雲,くも,,,cloud
-754,曇り,くもり,,,cloudy weather
-271,曇る,くもる,,,become cloudy
-2553,区役所,くやくしょ,,,ward office
-2012,悔しい,くやしい,,,"frustrating, regrettable"
-466,暗い,くらい,,,"dark, gloomy"
+204,切る,きる,자르다,,cut
+333,綺麗だ,きれいだ,예쁘다,,"pretty, clean"
+826,切れる,きれる,들다,,"cut well, be sharp"
+1374,記録,きろく,기록,,"record, documentation"
+2714,議論,ぎろん,의론,,"discussion, debate"
+715,気を付ける,きをつける,조심하다,,"be careful about, pay attention to"
+300,金,かね,돈,,money (colloquial)
+1885,金,きん,금,,gold
+1080,銀,ぎん,은,,silver
+1278,禁煙,きんえん,금연,,non-smoking
+1507,金額,きんがく,금액,,"amount of money, sum"
+2272,緊急,きんきゅう,긴급,,"urgent, emergency"
+450,銀行,ぎんこう,은행,,bank
+2931,禁止,きんし,금지,,"prohibition, forbiddance"
+1384,近所,きんじょ,근처,,neighborhood
+1398,緊張,きんちょう,긴장,,"tension, strain"
+2756,金融,きんゆう,금융,,finance
+245,金曜日,きんようび,금요일,,Friday
+1924,具合,ぐあい,상태,,"condition, health"
+2312,クイズ,くいず,질문,,"quiz, quiz show"
+671,空気,くうき,공기,,"air, atmosphere"
+813,空港,くうこう,공항,,airport (for public transportation)
+1919,偶然,ぐうぜん,우연,,"by chance, coincidence"
+1510,クーラー,くーらー,에어컨,,air conditioner (cooling)
+1210,草,くさ,풀,,"grass, weed"
+1671,臭い,くさい,냄새가 나다,,stinky
+1340,腐る,くさる,썩다,,"rot, go bad"
+660,櫛,くし,빗,,comb
+2525,くしゃくしゃ,くしゃくしゃ,꾸깃꾸깃,,"messy, crumpled"
+2190,くしゃみ,くしゃみ,재채기,,sneeze
+2582,ぐずぐず,ぐずぐず,꾸물꾸물,,"slowly, tardily"
+1496,くすぐったい,くすぐったい,간지럽다,,ticklish
+2613,くすぐる,くすぐる,간지럽히다,,tickle
+472,薬,くすり,약,,"drug, medicine"
+2195,薬指,くすりゆび,약지,,ring finger
+1375,具体的,ぐたいてき,구체적,,"concrete, specific"
+2588,くたくた,くたくた,흐물흐물,,exhausted
+2704,下さる,くださる,주시다,,give (honorific)
+1205,果物,くだもの,과일,,fruit
+1594,くだらない,くだらない,쓸데없다,,"worthless, trifling"
+1542,下り,くだり,하행,,"downhill, going down"
+1628,下る,くだる,"내려가다, 내려오다",,"go down, go away from"
+354,口,くち,입,,mouth
+2645,口喧嘩,くちげんか,입다툼,,quarrel
+1025,靴,くつ,신발,,shoes
+2472,クッキー,くっきー,쿠키,,cookie
+582,靴下,くつした,양말,,socks
+1478,ぐっすり,ぐっすり,축,,soundly
+2562,くっ付く,くっつく,붙다,,"stick, be attached"
+2632,くっ付ける,くっつける,붙이다,,"attach (something), stick (something)"
+174,国,くに,나라,,country
+1050,配る,くばる,나누다,,"hand out, distribute"
+145,首,くび,목,,neck
+2941,組,くみ,반,,"school class, group, pair"
+2888,組合,くみあい,조합,,"union, guild"
+1096,組み立てる,くみたてる,조립하다,,"set up, put together"
+592,雲,くも,그룸,,cloud
+754,曇り,くもり,흐림,,cloudy weather
+271,曇る,くもる,흐려지다,,become cloudy
+2553,区役所,くやくしょ,구사무소,,ward office
+2012,悔しい,くやしい,"아쉽다, 분하다",もう少しだったのに、に重点がある時は「아쉽다」、腹が立つ、に重点がある時は「분하다」,"frustrating, regrettable"
+466,暗い,くらい,어둡다,,"dark, gloomy"
 1648,ぐらぐら,ぐらぐら,,,"shaky, unstable"
-467,クラス,くらす,,,class (in school)
-2859,クラス,くらす,,,"class, category"
-1359,グラス,ぐらす,,,glass
-2894,クラブ,くらぶ,,,club
-1385,グラフ,ぐらふ,,,"chart, graph"
-442,比べる,くらべる,,,"compare, contrast"
-1052,グラム,ぐらむ,,,gram
+467,クラス,くらす,"반, 클래스",学校のクラスは「반」、それ以外の一般的な外来語としては「클래스」,class (in school)
+1359,グラス,ぐらす,잔,,glass
+2894,クラブ,くらぶ,동아리,,club
+1385,グラフ,ぐらふ,그래프,,"chart, graph"
+442,比べる,くらべる,비교하다,,"compare, contrast"
+1052,グラム,ぐらむ,그램,,gram
 674,クリーニング,くりーにんぐ,,,dry cleaning
-454,繰り返す,くりかえす,,,repeat
-1258,クリスマス,くりすます,,,Christmas
-308,来る,くる,,,come
-676,グループ,ぐるーぷ,,,group
-2640,くるくる,くるくる,,,"round and round, spin"
-2479,ぐるぐる,ぐるぐる,,,round and round
-828,苦しい,くるしい,,,"painful, agonizing"
+454,繰り返す,くりかえす,반복하다,,repeat
+1258,クリスマス,くりすます,크리스마스,,Christmas
+308,来る,くる,오다,,come
+676,グループ,ぐるーぷ,그룹,,group
+2640,くるくる,くるくる,뱅글뱅글,,"round and round, spin"
+2479,ぐるぐる,ぐるぐる,빙글빙글,,round and round
+828,苦しい,くるしい,괴롭다,,"painful, agonizing"
 59,車,くるま,차,,"car, automobile"
-2473,車椅子,くるまいす,,,wheelchair
+2473,車椅子,くるまいす,휠체어,,wheelchair
 50,くれる,くれる,주다,,be given
-1023,黒,くろ,,,black
-468,黒い,くろい,,,"black, dark"
-2086,加える,くわえる,,,add (things of the same or different kinds)
-657,詳しい,くわしい,,,detailed
-1014,君,くん,,,you (referring to fellows or subordinates)
-2749,軍,ぐん,,,military
-1360,毛,け,,,"hair, down"
-1568,経営,けいえい,,,"management, operation"
-1183,計画,けいかく,,,plan
-681,経験,けいけん,,,"experience, knowledge"
-1211,敬語,けいご,,,polite speech
-2055,傾向,けいこう,,,"tendency, disposition"
-2091,経済,けいざい,,,"economy, economics"
-670,警察,けいさつ,,,police
-1961,計算,けいさん,,,calculation
-1543,掲示板,けいじばん,,,"notice board, bulletin board"
-2949,芸術,げいじゅつ,,,"art, arts and crafts"
-298,携帯電話,けいたいでんわ,,,cellular phone
-2056,契約,けいやく,,,"contract, agreement"
-1426,ケーキ,けーき,,,cake
-2247,ケース,けーす,,,case
-227,ゲーム,げーむ,,,game
-1727,怪我,けが,,,injury
-1817,景色,けしき,,,natural scenery or landscape
-1662,消しゴム,けしごむ,,,eraser
-1469,化粧,けしょう,,,makeup
-158,消す,けす,,,"switch off, turn off"
-2188,けち,けち,,,"stingy, miser"
-1927,結果,けっか,,,"result, outcome"
-2734,結局,けっきょく,,,"after all, finally"
-1294,結構,けっこう,,,quite
-2665,結構,けっこう,,,"all right, no thank you"
-197,結婚,けっこん,,,marriage
-1764,決して,けっして,,,"never, by no means"
-1212,欠席,けっせき,,,absence
-1955,決定,けってい,,,decision
-2143,月末,げつまつ,,,end of the month
-260,月曜日,げつようび,,,Monday
-2952,結論,けつろん,,,conclusion
-2597,げらげら,げらげら,,,(laugh) out loud
-1072,蹴る,ける,,,kick
-2692,県,けん,,,prefecture
-1967,原因,げんいん,,,"cause, origin"
-610,喧嘩,けんか,,,"fight, argument"
-2029,見学,けんがく,,,field trip
-875,玄関,げんかん,,,"entrance, door"
-159,元気,げんき,,,"healthy, energetic"
-1748,研究,けんきゅう,,,"research, study"
-1974,現金,げんきん,,,cash
-831,健康,けんこう,,,health
-2901,検査,けんさ,,,"inspection, examination"
-1364,現在,げんざい,,,"the present, present time"
-2725,現実,げんじつ,,,reality
-2271,減少,げんしょう,,,"decrease, decline"
-2929,現象,げんしょう,,,phenomenon
-2842,現状,げんじょう,,,"current condition, situation"
-1928,建設,けんせつ,,,"construction (of a building, road, bridge, etc.)"
-2790,現代,げんだい,,,"present age, modern times"
-2261,現地,げんち,,,"local, on-site"
-2812,建築,けんちく,,,"construction, architecture"
-1948,検討,けんとう,,,examination and consideration
-2817,現場,げんば,,,"scene, job site"
-1247,見物,けんぶつ,,,"sightseeing, visit"
-2836,憲法,けんぽう,,,"constitution, constitutional law"
-2814,権利,けんり,,,"right, privilege"
-692,子,こ,,,"young child, kid"
-334,五,ご,,,five
-1053,濃い,こい,,,"strong, concentrated"
+1023,黒,くろ,검은색,,black
+468,黒い,くろい,검다,,"black, dark"
+2086,加える,くわえる,더하다,,add (things of the same or different kinds)
+657,詳しい,くわしい,"잘 알다, 자세하다",人が主語の時は「잘 알다」、物が主語の時は「자세하다」,detailed
+1014,君,きみ,너,,you (referring to fellows or subordinates)
+2749,軍,ぐん,군,,military
+1360,毛,け,털,,"hair, down"
+1568,経営,けいえい,경영,,"management, operation"
+1183,計画,けいかく,계획,,plan
+681,経験,けいけん,경험,,"experience, knowledge"
+1211,敬語,けいご,존댓말,,polite speech
+2055,傾向,けいこう,경향,,"tendency, disposition"
+2091,経済,けいざい,경제,,"economy, economics"
+670,警察,けいさつ,경찰,,police
+1961,計算,けいさん,계산,,calculation
+1543,掲示板,けいじばん,계시판,,"notice board, bulletin board"
+2949,芸術,げいじゅつ,예술,,"art, arts and crafts"
+298,携帯電話,けいたいでんわ,휴대전화,,cellular phone
+2056,契約,けいやく,계약,,"contract, agreement"
+1426,ケーキ,けーき,케이크,,cake
+2247,ケース,けーす,케이스,,case
+227,ゲーム,げーむ,게임,,game
+1727,怪我する,けがする,다치다,,injury
+1817,景色,けしき,경치,,natural scenery or landscape
+1662,消しゴム,けしごむ,재우개,,eraser
+1469,化粧,けしょう,화장,,makeup
+158,消す,けす,자우다,,"switch off, turn off"
+2188,けちだ,けちだ,짜다,,"stingy, miser"
+1927,結果,けっか,경과,,"result, outcome"
+2734,結局,けっきょく,결국,,"after all, finally"
+1294,結構,けっこう,꽤,,quite
+2665,結構だ,けっこうだ,괜찮다,,"all right, no thank you"
+197,結婚,けっこん,결혼,,marriage
+1764,決して,けっして,절대,,"never, by no means"
+1212,欠席,けっせき,결석,,absence
+1955,決定,けってい,결정,,decision
+2143,月末,げつまつ,월말,,end of the month
+260,月曜日,げつようび,월요일,,Monday
+2952,結論,けつろん,결론,,conclusion
+2597,げらげら,げらげら,껄껄,,(laugh) out loud
+1072,蹴る,ける,차다,,kick
+2692,県,けん,현,,prefecture
+1967,原因,げんいん,원인,,"cause, origin"
+610,喧嘩,けんか,싸움,,"fight, argument"
+2029,見学,けんがく,견학,,field trip
+875,玄関,げんかん,현관,,"entrance, door"
+159,元気,げんき,기운,,"healthy, energetic"
+1748,研究,けんきゅう,연구,,"research, study"
+1974,現金,げんきん,현금,,cash
+831,健康,けんこう,건강,,health
+2901,検査,けんさ,검사,,"inspection, examination"
+1364,現在,げんざい,현재,,"the present, present time"
+2725,現実,げんじつ,현실,,reality
+2271,減少,げんしょう,감소,,"decrease, decline"
+2929,現象,げんしょう,현상,,phenomenon
+2842,現状,げんじょう,현상,,"current condition, situation"
+1928,建設,けんせつ,건설,,"construction (of a building, road, bridge, etc.)"
+2790,現代,げんだい,현대,,"present age, modern times"
+2261,現地,げんち,현지,,"local, on-site"
+2812,建築,けんちく,건축,,"construction, architecture"
+1948,検討,けんとう,검토,,examination and consideration
+2817,現場,げんば,현장,,"scene, job site"
+1247,見物,けんぶつ,구경,,"sightseeing, visit"
+2836,憲法,けんぽう,헌법,,"constitution, constitutional law"
+2814,権利,けんり,권리,,"right, privilege"
+692,子,こ,아이,,"young child, kid"
+334,五,ご,"다섯, 오",固有数詞では「다섯」、漢字語数詞では「오」,five
+1053,濃い,こい,진하다,,"strong, concentrated"
 48,こう,こう,이렇게,,"like this, such"
-842,公園,こうえん,,,"park, public garden"
-2965,講演,こうえん,,,"lecture, talk"
-1376,効果,こうか,,,"effect, result"
-1377,公開,こうかい,,,opening (to the public)
-2294,後悔,こうかい,,,regret
-850,合格,ごうかく,,,pass an examination
-2852,交換,こうかん,,,"exchange, bartering"
-2436,後期,こうき,,,"latter term, second half"
-2885,公共,こうきょう,,,"public, community"
-2198,工業,こうぎょう,,,"industry, the manufacturing industry"
-1649,航空便,こうくうびん,,,"airmail, airfreight"
-1921,合計,ごうけい,,,"sum, total"
-627,高校,こうこう,,,high school (for short)
-318,高校生,こうこうせい,,,high school student
-2826,広告,こうこく,,,advertisement
-1525,交差点,こうさてん,,,"crossing, intersection"
-1743,工事,こうじ,,,"construction, repairing"
-2092,工場,こうじょう,,,"factory, plant"
-2794,更新,こうしん,,,"renewal, update"
-2199,構造,こうぞう,,,"construction, structure"
-2556,高速道路,こうそくどうろ,,,"freeway, expressway"
-1479,紅茶,こうちゃ,,,black tea
-2028,校長,こうちょう,,,"principal, schoolmaster"
-2317,好調,こうちょう,,,good condition
-2939,交通,こうつう,,,"traffic, transportation"
-1075,交通事故,こうつうじこ,,,traffic accident
-1558,交通費,こうつうひ,,,"traveling expense, transportation fee"
-2718,行動,こうどう,,,"action, conduct"
-2232,購入,こうにゅう,,,purchase
-2365,後半,こうはん,,,"latter half, second half"
-1453,交番,こうばん,,,police box
-2456,後方,こうほう,,,"back, rear"
-2985,項目,こうもく,,,"item, topic"
-2254,効率,こうりつ,,,"efficiency, performance"
-2658,合理的,ごうりてき,,,"rational, logical"
-2967,交流,こうりゅう,,,"interaction, contact"
-428,声,こえ,,,"voice, sound"
-1307,越える,こえる,,,"go over, go across"
-833,コース,こーす,,,"course, route"
-1032,コート,こーと,,,"coat, jacket (loan word)"
-1235,コート,こーと,,,sports court
-2983,コード,こーど,,,cord
-2269,コーナー,こーなー,,,"section (of a store etc.), corner"
-769,コーヒー,こーひー,,,coffee
-1630,コーラ,こーら,,,"cola, coke"
-1068,氷,こおり,,,ice
-1544,凍る,こおる,,,freeze
-2485,ゴールデンウィーク,ごーるでんうぃーく,,,golden week
-1984,誤解,ごかい,,,misunderstanding
-695,国際,こくさい,,,international (used in compound nouns)
-2552,国際化,こくさいか,,,internationalization
-2551,国際的,こくさいてき,,,international
-1228,国籍,こくせき,,,"nationality, citizenship"
-1750,国内,こくない,,,"domestic, internal"
-1361,黒板,こくばん,,,blackboard
-2695,国民,こくみん,,,citizen
-2219,焦げる,こげる,,,"be burned, be scorched"
-188,ここ,ここ,,,here
+842,公園,こうえん,공원,,"park, public garden"
+2965,講演,こうえん,공연,,"lecture, talk"
+1376,効果,こうか,효과,,"effect, result"
+1377,公開,こうかい,공개,,opening (to the public)
+2294,後悔,こうかい,후회,,regret
+850,合格,ごうかく,합격,,pass an examination
+2852,交換,こうかん,교환,,"exchange, bartering"
+2436,後期,こうき,후기,,"latter term, second half"
+2885,公共,こうきょう,공공,,"public, community"
+2198,工業,こうぎょう,공업,,"industry, the manufacturing industry"
+1649,航空便,こうくうびん,항공편,,"airmail, airfreight"
+1921,合計,ごうけい,합계,,"sum, total"
+627,高校,こうこう,고등학교,,high school (for short)
+318,高校生,こうこうせい,고등학생,,high school student
+2826,広告,こうこく,광고,,advertisement
+1525,交差点,こうさてん,교차로,,"crossing, intersection"
+1743,工事,こうじ,공사,,"construction, repairing"
+2092,工場,こうじょう,공장,,"factory, plant"
+2794,更新,こうしん,갱신,,"renewal, update"
+2199,構造,こうぞう,구조,,"construction, structure"
+2556,高速道路,こうそくどうろ,고속도로,,"freeway, expressway"
+1479,紅茶,こうちゃ,홍차,,black tea
+2028,校長,こうちょう,교장,,"principal, schoolmaster"
+2317,好調,こうちょう,호조,,good condition
+2939,交通,こうつう,교통,,"traffic, transportation"
+1075,交通事故,こうつうじこ,교통사고,,traffic accident
+1558,交通費,こうつうひ,교통비,,"traveling expense, transportation fee"
+2718,行動,こうどう,행동,,"action, conduct"
+2232,購入,こうにゅう,구입,,purchase
+2365,後半,こうはん,후반,,"latter half, second half"
+1453,交番,こうばん,파출소,,police box
+2456,後方,こうほう,후방,,"back, rear"
+2985,項目,こうもく,항목,,"item, topic"
+2254,効率,こうりつ,효율,,"efficiency, performance"
+2658,合理的,ごうりてき,합리적,,"rational, logical"
+2967,交流,こうりゅう,교류,,"interaction, contact"
+428,声,こえ,목소리,,"voice, sound"
+1307,越える,こえる,넘다,,"go over, go across"
+833,コース,こーす,코스,,"course, route"
+1032,コート,こーと,코트,,"coat, jacket (loan word)"
+2983,コード,こーど,코드,,cord
+2269,コーナー,こーなー,코너,,"section (of a store etc.), corner"
+769,コーヒー,こーひー,커피,,coffee
+1630,コーラ,こーら,콜라,,"cola, coke"
+1068,氷,こおり,얼음,,ice
+1544,凍る,こおる,얼다,,freeze
+2485,ゴールデンウィーク,ごーるでんうぃーく,골든위크,,golden week
+1984,誤解,ごかい,오해,,misunderstanding
+695,国際,こくさい,국제,,international (used in compound nouns)
+2552,国際化,こくさいか,국제화,,internationalization
+2551,国際的,こくさいてき,국제적,,international
+1228,国籍,こくせき,국적,,"nationality, citizenship"
+1750,国内,こくない,국내,,"domestic, internal"
+1361,黒板,こくばん,칠판,,blackboard
+2695,国民,こくみん,국민,,citizen
+2219,焦げる,こげる,타다,,"be burned, be scorched"
+188,ここ,ここ,여기,,here
 36,午後,ごご,오후,,"afternoon, p.m."
-362,九日,ここのか,,,"nine days, ninth of the month"
-335,九つ,ここのつ,,,nine (things)
-2337,心強い,こころづよい,,,"reassuring, heartening"
-209,腰,こし,,,"waist, lower back"
-380,ご主人,ごしゅじん,,,(someone else’s) husband
-899,故障,こしょう,,,"malfunction, breakdown"
-2532,こしょう,こしょう,,,pepper
-1846,個人,こじん,,,individual person
-2280,個性,こせい,,,"individuality, unique characteristics"
+362,九日,ここのか,구일,,"nine days, ninth of the month"
+335,九つ,ここのつ,아홉 개,,nine (things)
+2337,心強い,こころづよい,둔둔하다,,"reassuring, heartening"
+209,腰,こし,허리,,"waist, lower back"
+380,ご主人,ごしゅじん,남편분,,(someone else’s) husband
+899,故障,こしょう,고장,,"malfunction, breakdown"
+2532,胡椒,こしょう,후추,,pepper
+1846,個人,こじん,개인,,individual person
+2280,個性,こせい,개성,,"individuality, unique characteristics"
 54,午前,ごぜん,오전,,"morning, a.m."
-2001,ご存知,ごぞんじ,,,know (honorific)
-533,答え,こたえ,,,"answer, solution"
-337,答える,こたえる,,,give an answer
-562,ごちそう,ごちそう,,,"feast, treat"
-618,ごちそうする,ごちそうする,,,"treat, host (a meal)"
-477,こちら,こちら,,,"here, this way (polite)"
-2732,国家,こっか,,,"state, nation"
-1877,コック,こっく,,,"cook, chef"
-2113,こっそり,こっそり,,,secretly
-278,こっち,こっち,,,"here, this way (casual)"
-1308,小包,こづつみ,,,"parcel, package"
-770,コップ,こっぷ,,,"cup, glass"
-2680,事,こと,,,"thing, incident"
+2001,ご存知だ,ごぞんじだ,아시다,,know (honorific)
+533,答え,こたえ,답,,"answer, solution"
+337,答える,こたえる,답하다,,give an answer
+562,ごちそう,ごちそう,잔치,,"feast, treat"
+618,ごちそうする,ごちそうする,사주다,,"treat, host (a meal)"
+477,こちら,こちら,이쪽,,"here, this way (polite)"
+2732,国家,こっか,국가,,"state, nation"
+1877,コック,こっく,요리사,,"cook, chef"
+2113,こっそり,こっそり,몰래,,secretly
+278,こっち,こっち,이쪽,,"here, this way (casual)"
+1308,小包,こづつみ,소포,,"parcel, package"
+770,コップ,こっぷ,컵,,"cup, glass"
+2680,事,こと,일,,"thing, incident"
 39,今年,ことし,올해,,this year (colloquial)
-1896,異なる,ことなる,,,differ
+1896,異なる,ことなる,다르다,,differ
 43,言葉,ことば,말,,"word, language"
-2227,言葉遣い,ことばづかい,,,"wording, language"
+2227,言葉遣い,ことばづかい,말투,,"wording, language"
 30,子供,こども,아이,,child
-1051,断る,ことわる,,,"refuse, turn down"
-1356,この間,このいだ,,,"the other day, not so long ago"
-534,この頃,このごろ,,,"these days, recently"
-256,ご飯,ごはん,,,"meal, cooked rice"
-1042,コピー,こぴー,,,"copy, photocopy"
-2229,御無沙汰,ごぶさた,,,be out of touch
-1708,こぼす,こぼす,,,spill (something)
-661,こぼれる,こぼれる,,,"spill, overflow"
-2326,コマーシャル,こまーしゃる,,,"commercial, advertising"
-1889,細か,こまか,,,"small, fine, detailed"
-829,細かい,こまかい,,,"minute, fine"
-835,困る,こまる,,,"be in trouble, not know what to do"
-1545,ごみ,ごみ,,,trash
-1318,混む,こむ,,,"be crowded, be congested"
-1267,ゴム,ごむ,,,"elastic, rubber"
-203,米,こめ,,,rice (grain)
-2598,ごめん,ごめん,,,sorry
-2022,コメント,こめんと,,,comment
-2172,小指,こゆび,,,"little finger, little toe"
-832,ゴルフ,ごるふ,,,golf
-5,これ,これ,이거,,"this, this one"
-291,これから,これから,,,"from now on, after this"
-2617,これまで,これまで,,,"until now, until here"
-445,これら,これら,,,these
-1931,頃,ころ,,,"time, the time when ~"
-869,殺す,ころす,,,kill
-1534,転ぶ,ころぶ,,,"fall down, fall over"
-1208,怖い,こわい,,,"scary, be afraid"
-2641,怖がる,こわがる,,,"be afraid of, fear"
-1054,壊す,こわす,,,"break (something), destroy"
-573,壊れる,こわれる,,,"break, break down"
-2208,紺,こん,,,"dark blue, navy blue"
-435,今回,こんかい,,,this time
-148,今月,こんげつ,,,this month
-1933,今後,こんご,,,"in the future, from now on"
-2100,コンサート,こんさーと,,,concert
-2495,金色,こんじき,,,golden color
-263,今週,こんしゅう,,,this week
-2309,コンテスト,こんてすと,,,"contest, competition"
-643,今度,こんど,,,"this time, next time"
-1586,こんなに,こんなに,,,"this much, such"
-2953,困難,こんなん,,,"difficulty, hardship"
-284,今晩,こんばん,,,"this evening, tonight"
-412,コンピューター,こんぴゅーたー,,,computer
-502,今夜,こんや,,,"tonight, this evening"
-2830,差,さ,,,difference
+1051,断る,ことわる,거절하다,,"refuse, turn down"
+1356,この間,このあいだ,지난번에,,"the other day, not so long ago"
+534,この頃,このごろ,요즘,,"these days, recently"
+256,ご飯,ごはん,밥,,"meal, cooked rice"
+1042,コピー,こぴー,복사,,"copy, photocopy"
+2229,御無沙汰,ごぶさた,오랜만,,be out of touch
+1708,こぼす,こぼす,쏟다,,spill (something)
+661,こぼれる,こぼれる,쏟아지다,,"spill, overflow"
+2326,コマーシャル,こまーしゃる,광고,,"commercial, advertising"
+829,細かい,こまかい,세세하다,,"minute, fine"
+835,困る,こまる,곤란하다,,"be in trouble, not know what to do"
+1545,ごみ,ごみ,쓰레기,,trash
+1318,混む,こむ,붐비다,,"be crowded, be congested"
+1267,ゴム,ごむ,고무,,"elastic, rubber"
+203,米,こめ,쌀,,rice (grain)
+2598,ごめん,ごめん,미안,,sorry
+2022,コメント,こめんと,코멘트,,comment
+2172,小指,こゆび,새끼손가락,,"little finger, little toe"
+832,ゴルフ,ごるふ,골프,,golf
+5,これ,これ,"이것, 이거",基本は「이것」、会話では「이거」,"this, this one"
+291,これから,これから,지금부터,,"from now on, after this"
+2617,これまで,これまで,지금까지,,"until now, until here"
+445,これら,これら,이들,,these
+1931,頃,ころ,쯤,,"time, the time when ~"
+869,殺す,ころす,죽이다,,kill
+1534,転ぶ,ころぶ,넘어지다,,"fall down, fall over"
+1208,怖い,こわい,무섭다,,"scary, be afraid"
+2641,怖がる,こわがる,무서워하다,,"be afraid of, fear"
+1054,壊す,こわす,고장나게 하다,,"break (something), destroy"
+573,壊れる,こわれる,고장나다,,"break, break down"
+2208,紺,こん,남색,,"dark blue, navy blue"
+435,今回,こんかい,이번,,this time
+148,今月,こんげつ,이번 달,,this month
+1933,今後,こんご,이후,,"in the future, from now on"
+2100,コンサート,こんさーと,공연,,concert
+2495,金色,金色,금색,,golden color
+263,今週,こんしゅう,이번 주,,this week
+2309,コンテスト,こんてすと,대회,,"contest, competition"
+643,今度,こんど,다음,,"this time, next time"
+1586,こんなに,こんなに,이렇게,,"this much, such"
+2953,困難,こんなん,어려움,,"difficulty, hardship"
+284,今晩,こんばん,오늘밤,,"this evening, tonight"
+412,コンピューター,こんぴゅーたー,PC,,computer
+502,今夜,こんや,오늘밤,,"tonight, this evening"
+2830,差,さ,차이,,difference
 1818,ざあざあ,ざあざあ,,,pouring
-675,サービス,さーびす,,,"service, on the house"
-2729,際,さい,,,"opportunity, time"
-2393,最悪,さいあく,,,worst
-1560,再会,さいかい,,,"meeting again, reunion"
-410,最近,さいきん,,,"recent, latest"
-644,最後,さいご,,,last
-2782,最高,さいこう,,,"supreme, best"
-2751,最終,さいしゅう,,,"final, last (of something repeated)"
-645,最初,さいしょ,,,"first, outset"
-2245,財政,ざいせい,,,"public finance, financial affairs"
-1850,最大,さいだい,,,"biggest, largest"
-1971,サイト,さいと,,,website
-2887,裁判,さいばん,,,"trial, judgment"
-478,財布,さいふ,,,"purse, wallet"
-2074,採用,さいよう,,,"employment, adoption"
-1132,材料,ざいりょう,,,"material, ingredient"
-1988,サイン,さいん,,,"signature, autograph"
-2020,坂,さか,,,"slope, hill"
+675,サービス,さーびす,서비스,,"service, on the house"
+2729,際,さい,때,,"opportunity, time"
+2393,最悪,さいあく,최악,,worst
+1560,再会,さいかい,다시 만나다,,"meeting again, reunion"
+410,最近,さいきん,최근,,"recent, latest"
+644,最後,さいご,마지막,,last
+2782,最高,さいこう,최고,,"supreme, best"
+2751,最終,さいしゅう,최종,,"final, last (of something repeated)"
+645,最初,さいしょ,처음,,"first, outset"
+2245,財政,ざいせい,재정,,"public finance, financial affairs"
+1850,最大,さいだい,최대,,"biggest, largest"
+1971,サイト,さいと,사이트,,website
+2887,裁判,さいばん,재판,,"trial, judgment"
+478,財布,さいふ,지갑,,"purse, wallet"
+2074,採用,さいよう,채용,,"employment, adoption"
+1132,材料,ざいりょう,재료,,"material, ingredient"
+1988,サイン,さいん,사인,,"signature, autograph"
+2020,坂,さか,"오르막길, 내리막길, 경사",上り坂なら「오르막길」、下り坂なら「내리막길」、どちらでもなければ「경사」,"slope, hill"
 141,探す,さがす,찾다,,"search for, look for"
-764,魚,さかな,,,fish
-1029,下がる,さがる,,,"go down, drop"
-338,先,さき,,,"ahead, first"
-2558,先に,さきに,,,"before, ahead"
-2078,作業,さぎょう,,,"work, operation"
-1078,咲く,さく,,,"bloom, blossom"
-2600,削減,さくげん,,,"cutdown, reduction"
-2400,作成,さくせい,,,"to produce, to make"
-2281,作戦,さくせん,,,"tactic, strategy"
-405,昨年,さくねん,,,"last year (formal, often used in writing)"
-2452,昨晩,さくばん,,,"last night, last evening (formal)"
-1378,作品,さくひん,,,"work of art, creation"
-1252,作文,さくぶん,,,"composition, essay"
-587,昨夜,さくや,,,"last night, last evening (colloquial)"
-1055,桜,さくら,,,"cherry tree, cherry blossom"
+764,魚,さかな,"물고기, 생선",生き物としての魚は「물고기」、食材としての魚は「생선」,fish
+1029,下がる,さがる,내리다,,"go down, drop"
+338,先,さき,끝,,"ahead, first"
+2558,先に,さきに,먼저,,"before, ahead"
+2078,作業,さぎょう,작업,,"work, operation"
+1078,咲く,さく,피다,,"bloom, blossom"
+2600,削減,さくげん,삭감,,"cutdown, reduction"
+2400,作成,さくせい,작성,,"to produce, to make"
+2281,作戦,さくせん,작전,,"tactic, strategy"
+405,昨年,さくねん,만년,,"last year (formal, often used in writing)"
+2452,昨晩,さくばん,어젯밤,,"last night, last evening (formal)"
+1378,作品,さくひん,작품,,"work of art, creation"
+1252,作文,さくぶん,글쓰기,,"composition, essay"
+587,昨夜,さくや,어젯밤,,"last night, last evening (colloquial)"
+1055,桜,さくら,벚나무,,"cherry tree, cherry blossom"
 127,酒,さけ,술,,"alcohol, rice wine"
-870,下げる,さげる,,,"lower, turn down"
-1754,刺身,さしみ,,,sliced raw fish or meat
-1093,刺す,さす,,,"sting, stab"
-2200,さすが,さすが,,,"just as expected, true to reputation"
-1704,誘う,さそう,,,"invite, ask out"
-2834,撮影,さつえい,,,"photographing, shoot"
-1406,サッカー,さっかー,,,"soccer, football"
-1105,さっき,さっき,,,"earlier, only a moment ago"
-896,雑誌,ざっし,,,"magazine, journal"
-1918,早速,さっそく,,,"immediately, right away"
-2331,さっと,さっと,,,quickly
-2016,さっぱり,さっぱり,,,completely not
-473,砂糖,さとう,,,sugar
-1221,寂しい,さびしい,,,"lonely, desolate, sad"
-2333,サボる,さぼる,,,"slack of, ditch"
-2787,様々,さまざま,,,"various, diverse"
-1606,覚ます,さます,,,"awaken, wake up"
-2191,冷ます,さます,,,let cool
-339,寒い,さむい,,,cold (temperature of the air)
-1728,寒さ,さむさ,,,"coldness, cold"
-961,冷める,さめる,,,cool off
-1526,覚める,さめる,,,"awake, wake up (naturally)"
-1982,左右,さゆう,,,right and left
-768,皿,さら,,,"plate, counter (for plates or helpings)"
-1819,再来月,さらいげつ,,,the month after next
-742,再来週,さらいしゅう,,,the week after next
-1501,再来年,さらいねん,,,the year after next
-2577,ざらざら,ざらざら,,,"rough, gritty"
-1521,サラダ,さらだ,,,salad
-2959,更に,さらに,,,"furthermore, still more"
-823,サラリーマン,さらりーまん,,,"office worker, company employee"
-1822,騒ぐ,さわぐ,,,"make a noise, make a racket"
-272,触る,さわる,,,"touch, feel"
-281,三,さん,,,three
-1946,参加,さんか,,,participation
-1566,三角,さんかく,,,"figure, area etc."
-2057,産業,さんぎょう,,,industry
-2418,残業,ざんぎょう,,,overtime work
-2492,サングラス,さんぐらす,,,sunglasses
-2723,参考,さんこう,,,"reference, consultation"
-1622,サンドイッチ,さんどいっち,,,sandwich
-535,残念,ざんねん,,,"regretful, disappointing"
-1034,散歩,さんぽ,,,"walk, stroll"
-776,字,じ,,,"(individual) character, letter"
-2733,試合,しあい,,,"match, game"
-2599,明々後日,しあさって,,,three days from today
-1035,幸せ,しあわせ,,,"happiness, satisfied (colloquial)"
-2167,シーツ,しーつ,,,bed sheet
-755,塩,しお,,,salt
-1739,塩辛い,しおからい,,,salty
-2372,次回,じかい,,,next time
-1523,四角,しかく,,,square
-2258,資格,しかく,,,"qualifications, competence"
-1623,四角い,しかくい,,,square-shaped
-1056,仕方,しかた,,,"way, method"
-1821,叱る,しかる,,,"scold, reprimand"
+870,下げる,さげる,내리게 하다,,"lower, turn down"
+1754,刺身,さしみ,회,,sliced raw fish or meat
+1093,刺す,さす,찌르다,,"sting, stab"
+2200,さすが,さすが,역시,,"just as expected, true to reputation"
+1704,誘う,さそう,부르다,,"invite, ask out"
+2834,撮影,さつえい,찰영,,"photographing, shoot"
+1406,サッカー,さっかー,축구,,"soccer, football"
+1105,さっき,さっき,아까,,"earlier, only a moment ago"
+896,雑誌,ざっし,잡지,,"magazine, journal"
+1918,早速,さっそく,바로,,"immediately, right away"
+2331,さっと,さっと,후다닥,,quickly
+2016,さっぱり,さっぱり,전혀,,completely not
+473,砂糖,さとう,설탕,,sugar
+1221,寂しい,さびしい,외롭다,,"lonely, desolate, sad"
+2333,サボる,さぼる,빠지다,,"slack of, ditch"
+2787,様々,さまざま,여러가지,,"various, diverse"
+1606,覚ます,さます,깨우다,,"awaken, wake up"
+2191,冷ます,さます,식히다,,let cool
+339,寒い,さむい,춥다,,cold (temperature of the air)
+1728,寒さ,さむさ,추위,,"coldness, cold"
+961,冷める,さめる,식다,,cool off
+1526,覚める,さめる,깨다,,"awake, wake up (naturally)"
+1982,左右,さゆう,좌우,,right and left
+768,皿,さら,그릇,,"plate, counter (for plates or helpings)"
+1819,再来月,さらいげつ,다다음 달,,the month after next
+742,再来週,さらいしゅう,다다음 주,,the week after next
+1501,再来年,さらいねん,내후년,,the year after next
+2577,ざらざら,ざらざら,오톨도톨,,"rough, gritty"
+1521,サラダ,さらだ,샐러드,,salad
+2959,更に,さらに,더욱,,"furthermore, still more"
+823,サラリーマン,さらりーまん,회사원,,"office worker, company employee"
+1822,騒ぐ,さわぐ,시끄럽게 하다,,"make a noise, make a racket"
+272,触る,さわる,만지다,,"touch, feel"
+281,三,さん,"셋, 삼",,three
+1946,参加,さんか,참가,,participation
+1566,三角,さんかく,세모,,"figure, area etc."
+2057,産業,さんぎょう,산업,,industry
+2418,残業,ざんぎょう,야근,,overtime work
+2492,サングラス,さんぐらす,선글래스,,sunglasses
+2723,参考,さんこう,참고,,"reference, consultation"
+1622,サンドイッチ,さんどいっち,샌드위치,,sandwich
+535,残念,ざんねん,안 됐다,,"regretful, disappointing"
+1034,散歩,さんぽ,산책,,"walk, stroll"
+776,字,じ,글씨,,"(individual) character, letter"
+2733,試合,しあい,시합,,"match, game"
+2599,明々後日,しあさって,글피,,three days from today
+1035,幸せ,しあわせ,행복,,"happiness, satisfied (colloquial)"
+2167,シーツ,しーつ,시트,,bed sheet
+755,塩,しお,소금,,salt
+1739,塩辛い,しおからい,짜다,,salty
+2372,次回,じかい,다음 번,,next time
+1523,四角,しかく,네모,,square
+2258,資格,しかく,자격,,"qualifications, competence"
+1623,四角い,しかくい,네모나다,,square-shaped
+1056,仕方,しかた,하는 방법,,"way, method"
+1821,叱る,しかる,혼내다,,"scold, reprimand"
 18,時間,じかん,시간,,"time, hour"
-2037,四季,しき,,,the four seasons
-2767,式,しき,,,ceremony
-1855,時期,じき,,,"time, season"
-2515,敷金,しききん,,,"deposit, security deposit"
-1073,敷く,しく,,,"lay, spread"
-849,試験,しけん,,,exam
-1852,事件,じけん,,,"affair, incident"
-447,事故,じこ,,,"accident, trouble"
-2780,時刻,じこく,,,time (formal)
-2293,地獄,じごく,,,hell
+2037,四季,しき,시계절,,the four seasons
+2767,式,しき,식,,ceremony
+1855,時期,じき,시기,,"time, season"
+2515,敷金,しききん,보증금,,"deposit, security deposit"
+1073,敷く,しく,깔다,,"lay, spread"
+849,試験,しけん,시험,,exam
+1852,事件,じけん,사건,,"affair, incident"
+447,事故,じこ,사고,,"accident, trouble"
+2780,時刻,じこく,시각,,time (formal)
+2293,地獄,じごく,지옥,,hell
 8,仕事,しごと,일,,"work, job"
-2329,時差,じさ,,,time difference
-2255,資産,しさん,,,"property, assets"
-2265,支持,しじ,,,support
-1954,事実,じじつ,,,"fact, truth"
-2659,自主的,じしゅてき,,,"voluntary, independent"
-514,辞書,じしょ,,,dictionary (category)
-2058,事情,じじょう,,,"circumstances, conditions"
-688,地震,じしん,,,earthquake
-2366,自信,じしん,,,confidence
-2701,自身,じしん,,,self
-1549,自炊,じすい,,,cooking (for oneself)
-830,静か,しずか,,,"quiet, tranquil"
-408,システム,しすてむ,,,system (loan word)
-1095,沈む,しずむ,,,sink
-1570,姿勢,しせい,,,"posture, attitude"
-2094,施設,しせつ,,,"facilities, institution"
-724,自然,しぜん,,,nature
-888,自然,しぜん,,,natural
-2538,自然に,しぜんに,,,naturally
-2980,思想,しそう,,,"thought, conception"
-342,下,した,,,"under, below"
-1344,舌,した,,,tongue
-2696,下,した,,,under (someone’s) supervision
-2987,次第,しだい,,,as soon as
-2957,事態,じたい,,,"situation, state of affairs"
-880,時代,じだい,,,"age, era"
-1332,下着,したぎ,,,underwear
-2157,支度,したく,,,"preparation, getting ready"
-677,自宅,じたく,,,"one’s house, one’s home"
-1045,親しい,したしい,,,"intimate, familiar"
-1761,しっかり,しっかり,,,"mature, responsible"
-1799,実験,じっけん,,,experiment
-2106,しつこい,しつこい,,,"persistent, pesky"
-2059,実行,じっこう,,,"practice, execution"
-694,実際,じっさい,,,"reality, actual state"
-1680,じっと,じっと,,,"without moving, still"
-2711,実は,じつは,,,actually
-1765,失敗,しっぱい,,,"failure, mistake"
+2329,時差,じさ,시차,,time difference
+2255,資産,しさん,자산,,"property, assets"
+2265,支持,しじ,지지,,support
+1954,事実,じじつ,사실,,"fact, truth"
+2659,自主的,じしゅてき,자발적,,"voluntary, independent"
+514,辞書,じしょ,사전,,dictionary (category)
+2058,事情,じじょう,사정,,"circumstances, conditions"
+688,地震,じしん,지진,,earthquake
+2366,自信,じしん,자신,,confidence
+2701,自身,じしん,자신,,self
+1549,自炊する,じすいする,밥을 해 먹다,,cooking (for oneself)
+830,静かだ,しずかだ,조용하다,,"quiet, tranquil"
+408,システム,しすてむ,시스템,,system (loan word)
+1095,沈む,しずむ,가라앉다,,sink
+1570,姿勢,しせい,자세,,"posture, attitude"
+2094,施設,しせつ,시설,,"facilities, institution"
+724,自然,しぜん,자연,,nature
+888,自然だ,しぜんだ,자연스럽다,,natural
+2538,自然に,しぜんに,자연스럽게,,naturally
+2980,思想,しそう,사살,,"thought, conception"
+342,下,した,"아래, 밑",,"under, below"
+1344,舌,した,혀,,tongue
+2987,次第に,しだいに,서서히,,as soon as
+2957,事態,じたい,사태,,"situation, state of affairs"
+880,時代,じだい,시대,,"age, era"
+1332,下着,したぎ,속옷,,underwear
+2157,支度,したく,준비,,"preparation, getting ready"
+677,自宅,じたく,자택,,"one’s house, one’s home"
+1045,親しい,したしい,친하다,,"intimate, familiar"
+1761,しっかり,しっかり,둔둔하다,,"mature, responsible"
+1799,実験,じっけん,실험,,experiment
+2106,しつこい,しつこい,끈질기다,,"persistent, pesky"
+2059,実行,じっこう,실행,,"practice, execution"
+694,実際,じっさい,실제,,"reality, actual state"
+1680,じっと,じっと,가만히,,"without moving, still"
+2711,実は,じつは,실은,,actually
+1765,失敗,しっぱい,실패,,"failure, mistake"
 96,質問,しつもん,질문,,question
-2511,実用的,じつようてき,,,practical
-1511,失礼,しつれい,,,"rudeness, to excuse oneself"
-2908,指定,してい,,,"designation, appointment"
-2253,視点,してん,,,"viewpoint, perspective"
+2511,実用的,じつようてき,실용적,,practical
+1511,失礼,しつれい,실례,,"rudeness, to excuse oneself"
+2908,指定,してい,지정,,"designation, appointment"
+2253,視点,してん,시점,,"viewpoint, perspective"
 139,自転車,じてんしゃ,자전거,,bicycle
-2741,指導,しどう,,,"guide, instruction"
-1779,自動,じどう,,,automatic operation
-913,自動車,じどうしゃ,,,automobile
-2747,品,しな,,,"goods, item"
-2503,品切れ,しなぎれ,,,sold out
-1059,品物,しなもの,,,"article, goods"
-178,死ぬ,しぬ,,,die
-2993,支配,しはい,,,"control, rule"
-2385,支払い,しはらい,,,payment
-839,しばらく,しばらく,,,"a little while, a while"
-2213,しびれる,しびれる,,,"go numb, fall asleep"
-382,自分,じぶん,,,"self, oneself"
-885,島,しま,,,island (Japanese origin)
-3000,島,しま,,,island
-2013,姉妹,しまい,,,sisters
-536,仕舞う,しまう,,,"put away, put in"
-400,閉まる,しまる,,,"be shut, be closed"
-1898,市民,しみん,,,citizens
-2784,事務,じむ,,,"office work, business"
-1431,事務室,じむしつ,,,office
-698,事務所,じむしょ,,,"office, one’s place of business"
-501,氏名,しめい,,,full name
-2461,締め切り,しめきり,,,deadline
-2529,じめじめ,じめじめ,,,damp
-1916,示す,しめす,,,"show, indicate"
-184,閉める,しめる,,,"shut, close (doors, windows, etc.)"
-268,締める,しめる,,,"tighten, fasten"
-2049,シャープペンシル,しゃーぷぺんしる,,,mechanical pencil
-1848,社員,しゃいん,,,"staff member, employee"
-432,社会,しゃかい,,,society
-2522,社会人,しゃかいじん,,,working member of society
-613,ジャガイモ,じゃがいも,,,potato
-2226,しゃがむ,しゃがむ,,,squat down
-2453,市役所,しやくしょ,,,"municipal office, city hall"
-453,写真,しゃしん,,,photograph
-1369,社長,しゃちょう,,,president (of a company)
-956,シャツ,しゃつ,,,shirt
-1823,車道,しゃどう,,,"road, roadway (for cars)"
-2443,車内,しゃない,,,inside a vehicle or a train
-221,しゃべる,しゃべる,,,"chat, talk"
-1480,邪魔,じゃま,,,"disturbance, blocking"
-1650,ジャム,じゃむ,,,jam
-1535,シャワー,しゃわー,,,shower
-2656,じゃんじゃん,じゃんじゃん,,,"many times, repeatedly"
-2297,ジャンプ,じゃんぷ,,,jump
+2741,指導,しどう,지도,,"guide, instruction"
+1779,自動,じどう,자동,,automatic operation
+913,自動車,じどうしゃ,자동차,,automobile
+2747,品,しな,물건,,"goods, item"
+2503,品切れ,しなぎれ,매진,,sold out
+1059,品物,しなもの,상품,,"article, goods"
+178,死ぬ,しぬ,죽다,,die
+2993,支配,しはい,지배,,"control, rule"
+2385,支払い,しはらい,지불,,payment
+839,しばらく,しばらく,당분간,,"a little while, a while"
+2213,しびれる,しびれる,마비되다,,"go numb, fall asleep"
+382,自分,じぶん,자기,,"self, oneself"
+885,島,しま,섬,,island (Japanese origin)
+2013,姉妹,しまい,자매,,sisters
+536,仕舞う,しまう,치우다,,"put away, put in"
+400,閉まる,しまる,닫히다,,"be shut, be closed"
+1898,市民,しみん,시민,,citizens
+2784,事務,じむ,사무,,"office work, business"
+1431,事務室,じむしつ,사무실,,office
+698,事務所,じむしょ,사무소,,"office, one’s place of business"
+501,氏名,しめい,성명,,full name
+2461,締め切り,しめきり,마감,,deadline
+2529,じめじめする,じめじめする,후텁지근하다,,damp
+1916,示す,しめす,보이다,,"show, indicate"
+184,閉める,しめる,닫다,,"shut, close (doors, windows, etc.)"
+268,締める,しめる,조이다,,"tighten, fasten"
+2049,シャープペンシル,しゃーぷぺんしる,샤프팬,,mechanical pencil
+1848,社員,しゃいん,사원,,"staff member, employee"
+432,社会,しゃかい,사회,,society
+2522,社会人,しゃかいじん,사회인,,working member of society
+613,ジャガイモ,じゃがいも,감자,,potato
+2226,しゃがむ,しゃがむ,쭈그려 앉다,,squat down
+2453,市役所,しやくしょ,시청,,"municipal office, city hall"
+453,写真,しゃしん,사진,,photograph
+1369,社長,しゃちょう,사장,,president (of a company)
+956,シャツ,しゃつ,셔츠,,shirt
+1823,車道,しゃどう,차도,,"road, roadway (for cars)"
+2443,車内,しゃない,차 안,,inside a vehicle or a train
+221,しゃべる,しゃべる,말하다,,"chat, talk"
+1480,邪魔,じゃま,방해,,"disturbance, blocking"
+1650,ジャム,じゃむ,잼,,jam
+1535,シャワー,しゃわー,샤워,,shower
+2656,じゃんじゃん,じゃんじゃん,팍팍,,"many times, repeatedly"
+2297,ジャンプ,じゃんぷ,점프,,jump
 137,週,しゅう,주,,week
-2788,州,しゅう,,,"state, province"
-228,十,じゅう,,,ten
-949,自由,じゆう,,,freedom
-1582,習慣,しゅうかん,,,"custom, habit"
-1283,週刊誌,しゅうかんし,,,weekly magazine
-2821,宗教,しゅうきょう,,,religion
-476,住所,じゅうしょ,,,address
-2025,就職,しゅうしょく,,,"finding a job, getting a job"
-2347,十字路,じゅうじろ,,,crossroads
-2486,シューズ,しゅーず,,,shoes
-1345,ジュース,じゅーす,,,juice
-2944,修正,しゅうせい,,,"correction, revision"
-1979,重大,じゅうだい,,,"important, serious"
-1956,住宅,じゅうたく,,,"housing, residence"
-2956,集団,しゅうだん,,,"group, mass"
-2928,集中,しゅうちゅう,,,"concentration, convergence"
-2572,終電,しゅうでん,,,last train
-2306,柔軟,じゅうなん,,,"pliable, flexible"
-2935,収入,しゅうにゅう,,,income
-451,十分,じゅうぶん,,,"enough, plentiful"
-1571,周辺,しゅうへん,,,"area, region"
-740,週末,しゅうまつ,,,weekend
-2070,住民,じゅうみん,,,resident
-1691,重要,じゅうよう,,,"important, essential"
-1046,修理,しゅうり,,,"repair, mending"
-2241,終了,しゅうりょう,,,"end, termination"
-2694,主義,しゅぎ,,,"principle, -ism"
+2788,州,しゅう,주,,"state, province"
+228,十,じゅう,"열, 십",固有数詞では「열」、漢字語数詞では「십」,ten
+949,自由,じゆう,자유,,freedom
+1582,習慣,しゅうかん,습관,,"custom, habit"
+1283,週刊誌,しゅうかんし,주간지,,weekly magazine
+2821,宗教,しゅうきょう,종교,,religion
+476,住所,じゅうしょ,주소,,address
+2025,就職,しゅうしょく,최직,,"finding a job, getting a job"
+2347,十字路,じゅうじろ,네거리,,crossroads
+2486,シューズ,しゅーず,신발,,shoes
+1345,ジュース,じゅーす,주스,,juice
+2944,修正,しゅうせい,수정,,"correction, revision"
+1979,重大,じゅうだい,중대,,"important, serious"
+1956,住宅,じゅうたく,주택,,"housing, residence"
+2956,集団,しゅうだん,집단,,"group, mass"
+2928,集中,しゅうちゅう,집중,,"concentration, convergence"
+2572,終電,しゅうでん,막차,,last train
+2306,柔軟だ,じゅうなんだ,유연하다,,"pliable, flexible"
+2935,収入,しゅうにゅう,수입,,income
+451,十分だ,じゅうぶんだ,충분하다,,"enough, plentiful"
+1571,周辺,しゅうへん,주변,,"area, region"
+740,週末,しゅうまつ,주말,,weekend
+2070,住民,じゅうみん,주민,,resident
+1691,重要だ,じゅうようだ,중요하다,,"important, essential"
+1046,修理,しゅうり,수리,,"repair, mending"
+2241,終了,しゅうりょう,종료,,"end, termination"
+2694,主義,しゅぎ,주의,,"principle, -ism"
 136,授業,じゅぎょう,수업,,"class session, lecture"
-1729,祝日,しゅくじつ,,,holiday
-744,宿題,しゅくだい,,,homework
-2275,主催,しゅさい,,,"sponsorship, host"
-689,手術,しゅじゅつ,,,surgical operation
-1692,主人,しゅじん,,,"one’s husband, master"
-2926,手段,しゅだん,,,"means, way"
-1591,出身,しゅっしん,,,"come from, origin"
-2071,出席,しゅっせき,,,"attendance, presence"
-1876,出張,しゅっちょう,,,business trip
-814,出発,しゅっぱつ,,,"departure, starting"
-2785,出版,しゅっぱん,,,"publishing, publication"
-1386,首都,しゅと,,,capital
-1033,趣味,しゅみ,,,"hobby, interest"
-455,種類,しゅるい,,,"kind, type"
-2966,瞬間,しゅんかん,,,moment
-1906,順番,じゅんばん,,,"order, turn"
-646,準備,じゅんび,,,"preparation, arrangement"
-2801,章,しょう,,,chapter
-2916,賞,しょう,,,"prize, award"
-2693,使用,しよう,,,use
-840,紹介,しょうかい,,,introduction
-2753,障害,しょうがい,,,"obstacle, disorder"
-1017,小学生,しょうがくせい,,,elementary school student
-1009,正月,しょうがつ,,,"New Year, January"
-841,小学校,しょうがっこう,,,elementary school
-2067,商業,しょうぎょう,,,"commerce, trade"
-1863,状況,じょうきょう,,,"state of affairs, conditions"
-2668,上下,じょうげ,,,top and bottom
-2268,証拠,しょうこ,,,"proof, evidence"
-2239,詳細,しょうさい,,,"details, particulars"
-2287,上司,じょうし,,,boss
-1236,正直,しょうじき,,,"honest, upright"
-2569,乗車券,じょうしゃけん,,,"train ticket, bus ticket"
-1777,少女,しょうじょ,,,young girl
-1268,少々,しょうしょう,,,"a little, a bit"
-2946,生じる,しょうじる,,,"happen, occur"
-319,上手,じょうず,,,"good, skilled"
-897,小説,しょうせつ,,,novel
-1077,招待,しょうたい,,,invitation
-1937,状態,じょうたい,,,"state, condition"
-1502,冗談,じょうだん,,,joke
-2295,情熱,じょうねつ,,,"passion, enthusiasm"
-624,少年,しょうねん,,,boy (between 7 and 18 years old)
-2735,消費,しょうひ,,,"consumption, spending"
-2662,消費者,しょうひしゃ,,,consumer
-1371,商品,しょうひん,,,"goods, commodities"
-544,丈夫,じょうぶ,,,"healthy, sturdy"
-1912,情報,じょうほう,,,information
-2039,消防車,しょうぼうしゃ,,,fire engine
-1598,消防署,しょうぼうしょ,,,fire station
-567,醤油,しょうゆ,,,soy sauce
-1762,将来,しょうらい,,,"future, in the future"
-2521,ジョギング,じょぎんぐ,,,jogging
-2251,職員,しょくいん,,,"staff, employee"
-1592,職業,しょくぎょう,,,"occupation, job"
-854,食事,しょくじ,,,meal
-1100,食堂,しょくどう,,,"cafeteria, restaurant"
-980,職場,しょくば,,,"place of work, office"
-2526,食パン,しょくぱん,,,bread in a rectangular shape
-991,女性,じょせい,,,"woman, female (formal)"
-1681,食器,しょっき,,,tableware
-2282,ショック,しょっく,,,shock
-2322,しょっちゅう,しょっちゅう,,,"frequently, repeatedly"
-2391,ショッピング,しょっぴんぐ,,,shopping
-2263,所得,しょとく,,,"income, earnings"
-1997,所有,しょゆう,,,"ownership, own"
-2075,処理,しょり,,,"handling, processing"
-1782,書類,しょるい,,,"documents, papers"
-1248,知らせる,しらせる,,,"let know, inform"
-446,調べる,しらべる,,,"investigate, check"
-2398,知り合い,しりあい,,,acquaintance
-2425,知り合う,しりあう,,,"get acquainted with, get to know (someone)"
-2884,シリーズ,しりーず,,,series
-2743,資料,しりょう,,,"materials, data"
+1729,祝日,しゅくじつ,공휴일,,holiday
+744,宿題,しゅくだい,숙제,,homework
+2275,主催,しゅさい,주최,,"sponsorship, host"
+689,手術,しゅじゅつ,수술,,surgical operation
+1692,主人,しゅじん,"주인, 남편",一般的な意味では「주인」、夫という意味では「남편」,"one’s husband, master"
+2926,手段,しゅだん,수단,,"means, way"
+1591,出身,しゅっしん,출신,,"come from, origin"
+2071,出席,しゅっせき,출석,,"attendance, presence"
+1876,出張,しゅっちょう,출장,,business trip
+814,出発,しゅっぱつ,출발,,"departure, starting"
+2785,出版,しゅっぱん,출판,,"publishing, publication"
+1386,首都,しゅと,수도,,capital
+1033,趣味,しゅみ,취미,,"hobby, interest"
+455,種類,しゅるい,종류,,"kind, type"
+2966,瞬間,しゅんかん,순간,,moment
+1906,順番,じゅんばん,순서,,"order, turn"
+646,準備,じゅんび,준비,,"preparation, arrangement"
+2801,章,しょう,장,,chapter
+2916,賞,しょう,상,,"prize, award"
+2693,使用,しよう,사용,,use
+840,紹介,しょうかい,소개,,introduction
+2753,障害,しょうがい,장애,,"obstacle, disorder"
+1017,小学生,しょうがくせい,초등학생,,elementary school student
+1009,正月,しょうがつ,설날,,"New Year, January"
+841,小学校,しょうがっこう,초등학교,,elementary school
+2067,商業,しょうぎょう,상업,,"commerce, trade"
+1863,状況,じょうきょう,상황,,"state of affairs, conditions"
+2668,上下,じょうげ,상하,,top and bottom
+2268,証拠,しょうこ,증거,,"proof, evidence"
+2239,詳細,しょうさい,상세,,"details, particulars"
+2287,上司,じょうし,상사,,boss
+1236,正直だ,しょうじきだ,솔직하다,,"honest, upright"
+2569,乗車券,じょうしゃけん,승차권,,"train ticket, bus ticket"
+1777,少女,しょうじょ,소녀,,young girl
+1268,少々,しょうしょう,조금,,"a little, a bit"
+2946,生じる,しょうじる,생기다,,"happen, occur"
+319,上手,じょうず,잘,,"good, skilled"
+897,小説,しょうせつ,소설,,novel
+1077,招待,しょうたい,초대,,invitation
+1937,状態,じょうたい,상태,,"state, condition"
+1502,冗談,じょうだん,농담,,joke
+2295,情熱,じょうねつ,열정,,"passion, enthusiasm"
+624,少年,しょうねん,소년,,boy (between 7 and 18 years old)
+2735,消費,しょうひ,소비,,"consumption, spending"
+2662,消費者,しょうひしゃ,소비자,,consumer
+1371,商品,しょうひん,상품,,"goods, commodities"
+544,丈夫だ,じょうぶだ,튼튼하다,,"healthy, sturdy"
+1912,情報,じょうほう,정보,,information
+2039,消防車,しょうぼうしゃ,소방차,,fire engine
+1598,消防署,しょうぼうしょ,소방소,,fire station
+567,醤油,しょうゆ,간장,,soy sauce
+1762,将来,しょうらい,장래,,"future, in the future"
+2521,ジョギング,じょぎんぐ,조깅,,jogging
+2251,職員,しょくいん,직원,,"staff, employee"
+1592,職業,しょくぎょう,직업,,"occupation, job"
+854,食事,しょくじ,식사,,meal
+1100,食堂,しょくどう,식당,,"cafeteria, restaurant"
+980,職場,しょくば,직장,,"place of work, office"
+2526,食パン,しょくぱん,식빵,,bread in a rectangular shape
+991,女性,じょせい,여성,,"woman, female (formal)"
+1681,食器,しょっき,식기,,tableware
+2282,ショック,しょっく,충격,,shock
+2322,しょっちゅう,しょっちゅう,자주,,"frequently, repeatedly"
+2391,ショッピング,しょっぴんぐ,쇼핑,,shopping
+2263,所得,しょとく,소득,,"income, earnings"
+1997,所有,しょゆう,소유,,"ownership, own"
+2075,処理,しょり,처리,,"handling, processing"
+1782,書類,しょるい,소류,,"documents, papers"
+1248,知らせる,しらせる,알리다,,"let know, inform"
+446,調べる,しらべる,알아보다,,"investigate, check"
+2398,知り合い,しりあい,아는 사람,,acquaintance
+2425,知り合う,しりあう,알게 되다,,"get acquainted with, get to know (someone)"
+2884,シリーズ,しりーず,시리즈,,series
+2743,資料,しりょう,자료,,"materials, data"
 19,知る,しる,알다,,know
-516,白,しろ,,,white
+516,白,しろ,"흰색, 하얀색",,white
 116,白い,しろい,"희다, 하얗다",,"white, blank"
 2530,じろじろ,じろじろ,,,staringly
-2030,進学,しんがく,,,advance to higher education
-1040,新幹線,しんかんせん,,,bullet train
-793,信号,しんごう,,,"signal, traffic light"
-2096,人口,じんこう,,,population
-1249,神社,じんじゃ,,,Shinto shrine
-856,信じる,しんじる,,,"believe, trust"
-2736,人生,じんせい,,,one’s life (to lead)
-1002,親切,しんせつ,,,"kind, kindhearted"
-2108,身長,しんちょう,,,height
-1309,新年,しんねん,,,new year
-537,心配,しんぱい,,,"anxiety, worry"
-2903,人物,じんぶつ,,,"character, person"
-457,新聞,しんぶん,,,newspaper
-2674,新聞社,しんぶんしゃ,,,newspaper publisher
-2902,信頼,しんらい,,,"reliance, trust"
-2977,心理,しんり,,,"mentality, psychology"
-2118,酢,す,,,vinegar
-2893,図,ず,,,"figure, diagram"
-1317,水泳,すいえい,,,swimming
-1607,すいか,すいか,,,watermelon
-2502,水族館,すいぞくかん,,,aquarium
-1213,スイッチ,すいっち,,,switch
-1239,水道,すいどう,,,tap water
-1269,随分,ずいぶん,,,"extremely, considerably"
-282,水曜日,すいようび,,,Wednesday
-1060,吸う,すう,,,"inhale, suck"
-851,数学,すうがく,,,mathematics
-852,数字,すうじ,,,numeric characters
-2186,図々しい,ずうずうしい,,,"impudent, cheeky"
-1432,スーツ,すーつ,,,suit
-1546,スーパーマーケット,すーぱーまーけっと,,,supermarket
-1413,スープ,すーぷ,,,soup
-1319,スカート,すかーと,,,skirt
-1939,姿,すがた,,,"figure, appearance"
-90,好き,すき,좋아하다,,"favorite, liked"
-1062,スキー,すきー,,,"ski, skiing"
-2155,好き嫌い,すききらい,,,"likes and dislikes, taste"
-1730,すき焼き,すきやき,,,sukiyaki
-1578,過ぎる,すぎる,,,"pass by, go past"
-254,空く,すく,,,"be empty, become less crowded"
-1336,空く,すく,,,become available or vacant
+2030,進学,しんがく,진학,,advance to higher education
+1040,新幹線,しんかんせん,신칸센,,bullet train
+793,信号,しんごう,"신호, 신호등",純粋な意味での信号は「신호」、交差点の信号は「신호등」,"signal, traffic light"
+2096,人口,じんこう,인구,,population
+1249,神社,じんじゃ,신사,,Shinto shrine
+856,信じる,しんじる,믿다,,"believe, trust"
+2736,人生,じんせい,인생,,one’s life (to lead)
+1002,親切だ,しんせつだ,친절하다,,"kind, kindhearted"
+2108,身長,しんちょう,키,,height
+1309,新年,しんねん,신년,,new year
+537,心配,しんぱい,걱정,,"anxiety, worry"
+2903,人物,じんぶつ,인물,,"character, person"
+457,新聞,しんぶん,신문,,newspaper
+2674,新聞社,しんぶんしゃ,신문사,,newspaper publisher
+2902,信頼,しんらい,신뢰,,"reliance, trust"
+2977,心理,しんり,심리,,"mentality, psychology"
+2118,酢,す,식초,,vinegar
+2893,図,ず,그림,,"figure, diagram"
+1317,水泳,すいえい,수영,,swimming
+1607,すいか,すいか,수박,,watermelon
+2502,水族館,すいぞくかん,수족관,,aquarium
+1213,スイッチ,すいっち,스위치,,switch
+1239,水道,すいどう,수도,,tap water
+1269,随分,ずいぶん,꽤,,"extremely, considerably"
+282,水曜日,すいようび,수요일,,Wednesday
+1060,吸う,すう,빨다,,"inhale, suck"
+851,数学,すうがく,수학,,mathematics
+852,数字,すうじ,숫자,,numeric characters
+2186,図々しい,ずうずうしい,뻔뻔하다,,"impudent, cheeky"
+1432,スーツ,すーつ,양복,,suit
+1546,スーパーマーケット,すーぱーまーけっと,슈퍼마켓,,supermarket
+1413,スープ,すーぷ,수프,,soup
+1319,スカート,すかーと,치마,,skirt
+1939,姿,すがた,모습,,"figure, appearance"
+90,好きだ,すきだ,좋아하다,「～が好きだ」は「-를/을 좋아하다」と表現する。,"favorite, liked"
+1062,スキー,すきー,스키,,"ski, skiing"
+2155,好き嫌いをする,すききらいをする,가리다,,"likes and dislikes, taste"
+1730,すき焼き,すきやき,스키야키,,sukiyaki
+1578,過ぎる,すぎる,지나다,,"pass by, go past"
+254,空く,すく,비다,,"be empty, become less crowded"
 86,直ぐ,すぐ,바로,,"at once, soon"
 28,少ない,すくない,적다,,"few, little"
-2922,少なくとも,すくなくとも,,,"at least, at a minimum"
-1663,スケート,すけーと,,,"skate, skates"
-1875,スケジュール,すけじゅーる,,,schedule (loan word)
-1001,凄い,すごい,,,"great, incredible"
-200,少し,すこし,,,"a bit, a little while"
-1222,少しも,すこしも,,,(not) in the least
-2933,過ごす,すごす,,,spend (time)
-508,寿司,すし,,,sushi
-484,涼しい,すずしい,,,cool (of temperature)
-647,進む,すすむ,,,"advance, move forward"
-2002,雀,すずめ,,,sparrow
-418,進める,すすめる,,,"go ahead, proceed"
-1593,スター,すたー,,,star
-2958,スタート,すたーと,,,"start, begin"
-2970,スタイル,すたいる,,,"style, physique"
-1770,すっかり,すっかり,,,"all, completely"
-2018,すっきり,すっきり,,,refreshed
-2185,すっと,すっと,,,"(feel) refreshed, satisfied"
-836,ずっと,ずっと,,,"all the time, all through"
-313,酸っぱい,すっぱい,,,sour
-2367,素敵,すてき,,,"lovely, nice"
-2841,既に,すでに,,,already
-807,捨てる,すてる,,,"discard, abandon"
-1559,ステレオ,すてれお,,,stereo
-2324,ストライキ,すとらいき,,,strike
-2274,ストレス,すとれす,,,stress
-907,素晴らしい,すばらしい,,,"excellent, wonderful"
-2373,スピード,すぴーど,,,speed
-564,スプーン,すぷーん,,,spoon
-2589,すべすべ,すべすべ,,,"smooth, silky"
-2730,全て,すべて,,,"all, everything"
-1561,滑る,すべる,,,"slide, slip"
-672,スポーツ,すぽーつ,,,sport
+2922,少なくとも,すくなくとも,적어도,,"at least, at a minimum"
+1663,スケート,すけーと,스케이트,,"skate, skates"
+1875,スケジュール,すけじゅーる,스케줄,,schedule (loan word)
+1001,凄い,すごい,대단하다,,"great, incredible"
+200,少し,すこし,조금,,"a bit, a little while"
+1222,少しも,すこしも,조금도,,(not) in the least
+2933,過ごす,すごす,지내다,,spend (time)
+508,寿司,すし,초밥,,sushi
+484,涼しい,すずしい,시원하다,,cool (of temperature)
+647,進む,すすむ,나가다,,"advance, move forward"
+2002,雀,すずめ,참새,,sparrow
+418,進める,すすめる,진행시키다,,"go ahead, proceed"
+1593,スター,すたー,스타,,star
+2958,スタート,すたーと,시작,,"start, begin"
+2970,スタイル,すたいる,스타일,,"style, physique"
+1770,すっかり,すっかり,완전히,,"all, completely"
+2018,すっきり,すっきり,시원하게,,refreshed
+2185,すっと,すっと,슥,,"(feel) refreshed, satisfied"
+836,ずっと,ずっと,더욱,,"all the time, all through"
+313,酸っぱい,すっぱい,시다,,sour
+2367,素敵,すてき,멋있다,,"lovely, nice"
+2841,既に,すでに,이미,,already
+807,捨てる,すてる,버리다,,"discard, abandon"
+1559,ステレオ,すてれお,스테레오,,stereo
+2324,ストライキ,すとらいき,파업,,strike
+2274,ストレス,すとれす,스트레스,,stress
+907,素晴らしい,すばらしい,훌륭하다,,"excellent, wonderful"
+2373,スピード,すぴーど,스피드,,speed
+564,スプーン,すぷーん,숟가락,,spoon
+2589,すべすべ,すべすべ,미끌미끌,,"smooth, silky"
+2730,全て,すべて,모두,,"all, everything"
+1561,滑る,すべる,미끌어지다,,"slide, slip"
+672,スポーツ,すぽーつ,스포츠,,sport
 61,住む,すむ,살다,,"live, reside"
-2574,すやすや,すやすや,,,"(sleep) peacefully, soundly"
-2571,すらすら,すらすら,,,"smoothly, easily"
-2223,ずらり,ずらり,,,lining up neatly
-1089,すり,すり,,,pickpocket
-1651,スリッパ,すりっぱ,,,slippers
+2574,すやすや,すやすや,새근새근,,"(sleep) peacefully, soundly"
+2571,すらすら,すらすら,술술,,"smoothly, easily"
+2223,ずらり,ずらり,쭈욱,,lining up neatly
+1089,すり,すり,소매치기,,pickpocket
+1651,スリッパ,すりっぱ,스레빠,,slippers
 10,する,する,하다,,"do, make"
-2573,ずるい,ずるい,,,"cunning, sneaky"
-2433,ずれる,ずれる,,,"go off track, go out of line"
-153,座る,すわる,,,"sit, sit down"
-215,背,せ,,,"height, stature"
-2678,性,せい,,,"gender, sexual activities"
-2764,税,ぜい,,,tax
-2259,成果,せいか,,,result
-1579,正確,せいかく,,,"accurate, precise"
-2900,性格,せいかく,,,"character, personality"
-417,生活,せいかつ,,,"life, living"
-700,世紀,せいき,,,century
-2975,制限,せいげん,,,"restriction, limit"
-1878,正午,せいご,,,noon
-685,成功,せいこう,,,success
-2653,正座,せいざ,,,sitting on one’s heels
-2079,生産,せいさん,,,production
-1965,政治,せいじ,,,politics
-2303,青春,せいしゅん,,,"blossom of youth, adolescence"
-2291,正常,せいじょう,,,normal
-2738,精神,せいしん,,,"mind, mentality"
-2435,せいぜい,せいぜい,,,"at most, at best"
-844,成績,せいせき,,,"results, grade"
-2601,贅沢,ぜいたく,,,"luxury, extravagance"
-2758,成長,せいちょう,,,growth
-626,生徒,せいと,,,"pupil, student"
-2084,制度,せいど,,,system
-2161,生年月日,せいねんがっぴ,,,year and date of birth
-2853,整備,せいび,,,maintenance
-2700,製品,せいひん,,,"product, manufactured goods"
-1996,政府,せいふ,,,"government, administration"
-2913,整理,せいり,,,"putting something in order, sorting out"
-955,セーター,せーたー,,,sweater
-411,世界,せかい,,,world
-846,席,せき,,,"seat, one’s place"
-2144,咳,せき,,,cough
-1858,責任,せきにん,,,responsibility
-2252,世代,せだい,,,generation
-2378,せっかく,せっかく,,,with much trouble
-2088,設計,せっけい,,,"design, plan"
-965,石鹸,せっけん,,,soap
-2151,せっせと,せっせと,,,"diligently, hard"
-1774,接続,せつぞく,,,"connection, joining"
-1003,絶対,ぜったい,,,"absolutely, never"
-561,絶対に,ぜったいに,,,"absolutely, definitely"
-2923,セット,せっと,,,set
-2288,説得,せっとく,,,persuasion
-687,説明,せつめい,,,"explanation, description"
-1904,背中,せなか,,,(one’s) back
-1022,是非,ぜひ,,,"by all means, please"
+2573,ずるい,ずるい,"비겁하다, 불공평하다",人が狡賢い方法を使うのは「비겁하다」、状況が公平でないのは「불공평하다」,"cunning, sneaky"
+2433,ずれる,ずれる,어긋나다,,"go off track, go out of line"
+153,座る,すわる,앉다,,"sit, sit down"
+215,背,せ,키,,"height, stature"
+2678,性,せい,성,,"gender, sexual activities"
+2764,税,ぜい,세금,,tax
+2259,成果,せいか,성과,,result
+1579,正確,せいかく,정확하다,,"accurate, precise"
+2900,性格,せいかく,성격,,"character, personality"
+417,生活,せいかつ,생활,,"life, living"
+700,世紀,せいき,세기,,century
+2975,制限,せいげん,제한,,"restriction, limit"
+1878,正午,せいご,정우,,noon
+685,成功,せいこう,성공,,success
+2653,正座,せいざ,바로 앉다,,sitting on one’s heels
+2079,生産,せいさん,생산,,production
+1965,政治,せいじ,정치,,politics
+2303,青春,せいしゅん,청춘,,"blossom of youth, adolescence"
+2291,正常,せいじょう,정상,,normal
+2738,精神,せいしん,정신,,"mind, mentality"
+2435,せいぜい,せいぜい,기껏해야,,"at most, at best"
+844,成績,せいせき,성적,,"results, grade"
+2601,贅沢,ぜいたく,사치,,"luxury, extravagance"
+2758,成長,せいちょう,성장,,growth
+626,生徒,せいと,학생,,"pupil, student"
+2084,制度,せいど,제도,,system
+2161,生年月日,せいねんがっぴ,생년월일,,year and date of birth
+2853,整備,せいび,정비,,maintenance
+2700,製品,せいひん,제품,,"product, manufactured goods"
+1996,政府,せいふ,정부,,"government, administration"
+2913,整理,せいり,정리,,"putting something in order, sorting out"
+955,セーター,せーたー,스웨터,,sweater
+411,世界,せかい,세계,,world
+846,席,せき,자리,,"seat, one’s place"
+2144,咳,せき,기침,,cough
+1858,責任,せきにん,책임,,responsibility
+2252,世代,せだい,세대,,generation
+2378,せっかく,せっかく,머처럼,,with much trouble
+2088,設計,せっけい,설계,,"design, plan"
+965,石鹸,せっけん,비누,,soap
+2151,せっせと,せっせと,꼬박꼬박,,"diligently, hard"
+1774,接続,せつぞく,접속,,"connection, joining"
+1003,絶対,ぜったい,절대,,"absolutely, never"
+561,絶対に,ぜったいに,절대로,,"absolutely, definitely"
+2923,セット,せっと,세트,,set
+2288,説得,せっとく,설득,,persuasion
+687,説明,せつめい,설명,,"explanation, description"
+1904,背中,せなか,등,,(one’s) back
+1022,是非,ぜひ,꼭,,"by all means, please"
 131,狭い,せまい,좁다,,"narrow, small"
-1379,迫る,せまる,,,"close in on, approach"
-2524,セルフサービス,せるふさーびす,,,self-service
-1346,ゼロ,ぜろ,,,"zero, none (loan word)"
-1740,セロテープ,せろてーぷ,,,scotch tape
-285,千,せん,,,thousand
-390,線,せん,,,line
-2920,全員,ぜんいん,,,"all members, entire staff"
-2363,前回,ぜんかい,,,last time
-2069,選挙,せんきょ,,,election
-1004,先月,せんげつ,,,last month
-2077,全国,ぜんこく,,,the whole country
-2138,洗剤,せんざい,,,detergent
-2843,先日,せんじつ,,,"the other day, a few days ago"
-631,選手,せんしゅ,,,"athlete, (sports) player"
-741,先週,せんしゅう,,,last week
+1379,迫る,せまる,"다가가다, 나가오다",,"close in on, approach"
+2524,セルフサービス,せるふさーびす,셀프서비스,,self-service
+1346,ゼロ,ぜろ,제로,,"zero, none (loan word)"
+1740,セロテープ,せろてーぷ,스카치테이프,,scotch tape
+285,千,せん,천,,thousand
+390,線,せん,선,,line
+2920,全員,ぜんいん,모두,,"all members, entire staff"
+2363,前回,ぜんかい,지난번,,last time
+2069,選挙,せんきょ,선거,,election
+1004,先月,せんげつ,지난달,,last month
+2077,全国,ぜんこく,전국,,the whole country
+2138,洗剤,せんざい,세재,,detergent
+2843,先日,せんじつ,지난날,,"the other day, a few days ago"
+631,選手,せんしゅ,선수,,"athlete, (sports) player"
+741,先週,せんしゅう,지난주,,last week
 64,先生,せんせい,선생님,,teacher
-1114,全然,ぜんぜん,,,(not ) at all
-1580,戦争,せんそう,,,war between countries
-2752,センター,せんたー,,,"center (for an activity, etc.), hub"
-1751,全体,ぜんたい,,,"whole, total"
-957,洗濯,せんたく,,,"laundry, washing"
-2772,選択,せんたく,,,"selection, choice"
-1512,洗濯機,せんたくき,,,"washing machine, washer"
-2260,前提,ぜんてい,,,"assumption, premise"
-1780,先輩,せんぱい,,,"senior, superior"
-2382,前半,ぜんぱん,,,first half
-160,全部,ぜんぶ,,,"all, whole"
-1536,扇風機,せんぷうき,,,electric fan
-2448,前方,ぜんぽう,,,"front, ahead"
-1711,洗面所,せんめんじょ,,,"washroom, bathroom"
-2660,全面的,ぜんめんてき,,,"full-scale, complete"
-2716,専門,せんもん,,,"specialty, profession"
-2517,専門家,せんもんか,,,"specialist, expert"
-1785,線路,せんろ,,,"railway track, line"
+1114,全然,ぜんぜん,전혀,,(not ) at all
+1580,戦争,せんそう,전쟁,,war between countries
+2752,センター,せんたー,센터,,"center (for an activity, etc.), hub"
+1751,全体,ぜんたい,전체,,"whole, total"
+957,洗濯,せんたく,빨래,,"laundry, washing"
+2772,選択,せんたく,선택,,"selection, choice"
+1512,洗濯機,せんたくき,세탁기,,"washing machine, washer"
+2260,前提,ぜんてい,전제,,"assumption, premise"
+1780,先輩,せんぱい,선배,,"senior, superior"
+2382,前半,ぜんぱん,전반,,first half
+160,全部,ぜんぶ,다,,"all, whole"
+1536,扇風機,せんぷうき,선풍기,,electric fan
+2448,前方,ぜんぽう,전방,,"front, ahead"
+1711,洗面所,せんめんじょ,욕실에 달려 있는 탈의실,韓国の一般的な家屋では、浴室の中に洗面台があり、日本のように独立した洗面所がない場合が多いため、一対一で対応する単語が存在しない。,"washroom, bathroom"
+2660,全面的,ぜんめんてき,전면적,,"full-scale, complete"
+2716,専門,せんもん,전문,,"specialty, profession"
+2517,専門家,せんもんか,전문가,,"specialist, expert"
+1785,線路,せんろ,기찻길,,"railway track, line"
 31,そう,そう,그렇게,,"so, that way"
-2127,象,ぞう,,,elephant
-2081,増加,ぞうか,,,"increase, rise"
-2246,総合,そうごう,,,"integration, put together"
-2992,操作,そうさ,,,"operation, manipulation"
-1214,掃除,そうじ,,,cleaning
-1824,掃除機,そうじき,,,vacuum cleaner
-2854,想像,そうぞう,,,imagination
-874,相談,そうだん,,,"consultation, advice"
-2793,相当,そうとう,,,"suitability, equivalence"
-2514,送別会,そうべつかい,,,farewell party
-1481,ソース,そーす,,,sauce
-2044,速達,そくたつ,,,"special delivery, express delivery"
+2127,象,ぞう,코끼리,,elephant
+2081,増加,ぞうか,증가,,"increase, rise"
+2246,総合,そうごう,종합,,"integration, put together"
+2992,操作,そうさ,조작,,"operation, manipulation"
+1214,掃除,そうじ,청소,,cleaning
+1824,掃除機,そうじき,청소기,,vacuum cleaner
+2854,想像,そうぞう,상상,,imagination
+874,相談,そうだん,상담,,"consultation, advice"
+2793,相当,そうとう,상당,,"suitability, equivalence"
+2514,送別会,そうべつかい,송별회,,farewell party
+1481,ソース,そーす,"양념, 소스",韓国料理のソースは「양념」、外国料理のソースは「소스」,sauce
+2044,速達,そくたつ,속달,,"special delivery, express delivery"
 75,そこ,そこ,거기,,there
-2060,組織,そしき,,,"organization, structure"
-1021,育つ,そだつ,,,"be brought up, grow"
-857,育てる,そだてる,,,"bring up, raise"
-702,そちら,そちら,,,"there, that way (polite)"
-629,卒業,そつぎょう,,,graduation
-2103,そっくり,そっくり,,,almost identical
-518,そっち,そっち,,,there (casual)
-2112,そっと,そっと,,,"softly, gently"
-1835,袖,そで,,,sleeve
-538,外,そと,,,"outside, open air"
-1712,外側,そとがわ,,,"exterior, outside"
-1950,備える,そなえる,,,"provide for, prepare for"
+2060,組織,そしき,조직,,"organization, structure"
+1021,育つ,そだつ,자라다,,"be brought up, grow"
+857,育てる,そだてる,키우다,,"bring up, raise"
+702,そちら,そちら,그쪽,,"there, that way (polite)"
+629,卒業,そつぎょう,졸업,,graduation
+2103,そっくりだ,そっくりだ,닮았다,,almost identical
+518,そっち,そっち,그쪽,,there (casual)
+2112,そっと,そっと,살짝,,"softly, gently"
+1835,袖,そで,소매,,sleeve
+538,外,そと,밖,,"outside, open air"
+1712,外側,そとがわ,바깥,,"exterior, outside"
+1950,備える,そなえる,대비하다,,"provide for, prepare for"
 2602,そのうち,そのうち,,,"before long, sooner or later"
-603,そのまま,そのまま,,,"as it is, just like that"
-277,そば,そば,,,"side, vicinity"
-1608,そば,そば,,,buckwheat noodles
-1797,そば屋,そばや,,,buckwheat noodle shop
-782,祖父,そふ,,,grandfather (formal)
-1187,ソファー,そふぁー,,,"sofa, couch"
-1070,ソフト,そふと,,,"software, program"
-783,祖母,そぼ,,,grandmother (formal)
-593,空,そら,,,sky
-2910,空,そら,,,"emptiness, hollow"
-1825,剃る,そる,,,shave
+603,そのまま,そのまま,그대로,,"as it is, just like that"
+277,側,そば,곁,,"side, vicinity"
+1608,蕎麦,そば,메밀,,buckwheat noodles
+1797,蕎麦屋,そばや,메밀집,,buckwheat noodle shop
+782,祖父,そふ,할아버지,,grandfather (formal)
+1187,ソファー,そふぁー,소파,,"sofa, couch"
+1070,ソフト,そふと,소프트웨어,,"software, program"
+783,祖母,そぼ,할머니,,grandmother (formal)
+593,空,そら,하늘,,sky
+2910,空だ,からだ,비어 있다,,"emptiness, hollow"
+1825,剃る,そる,밀다,,shave
 6,それ,それ,그거,,"that, that one"
-2708,それぞれ,それぞれ,,,"each, respectively"
-1244,そろそろ,そろそろ,,,"soon, it’s about time"
-1223,尊敬,そんけい,,,"respect, esteem"
-2635,損する,そんする,,,"lose, suffer loss"
-1109,そんなに,そんなに,,,so much
-1827,台,だい,,,"stand, table"
-2685,大,だい,,,"big, large size"
-2031,退院,たいいん,,,discharge from hospital
-2637,体温計,たいおんけい,,,(clinical) thermometer
-1380,大会,たいかい,,,"tournament, event"
+2708,それぞれ,それぞれ,각각,,"each, respectively"
+1244,そろそろ,そろそろ,슬슬,,"soon, it’s about time"
+1223,尊敬,そんけい,존경,,"respect, esteem"
+2635,損する,そんする,손해보다,,"lose, suffer loss"
+1109,そんなに,そんなに,그렇게,,so much
+1827,台,だい,다이,,"stand, table"
+2685,大,だい,대,,"big, large size"
+2031,退院,たいいん,퇴원,,discharge from hospital
+2637,体温計,たいおんけい,체온계,,(clinical) thermometer
+1380,大会,たいかい,대회,,"tournament, event"
 67,大学,だいがく,대학교,,"university, college"
-1086,大学院,だいがくいん,,,graduate school
-213,大学生,だいがくせい,,,university student
-757,大嫌い,だいきらい,,,hate
-2236,体験,たいけん,,,personal experience
-2458,大根,だいこん,,,oriental radish
-784,大事,だいじ,,,importance
-898,大使館,たいしかん,,,embassy
-2006,体重,たいじゅう,,,body weight
-343,大丈夫,だいじょうぶ,,,"all right, OK"
-2731,大臣,だいじん,,,minister
+1086,大学院,だいがくいん,대학원,,graduate school
+213,大学生,だいがくせい,대학생,,university student
+757,大嫌い,だいきらい,아주 싫어하다,「～が大嫌いだ」は「-를/을 아주 싫어하다」と表現する。,hate
+2236,体験,たいけん,체험,,personal experience
+2458,大根,だいこん,무,,oriental radish
+784,大事だ,だいじだ,중요하다,,importance
+898,大使館,たいしかん,대사관,,embassy
+2006,体重,たいじゅう,체중,,body weight
+343,大丈夫だ,だいじょうぶだ,괜찮다,,"all right, OK"
+2731,大臣,だいじん,대신,,minister
 84,大好き,だいすき,아주 좋아하다,,like (something) a lot
-1999,対する,たいする,,,"face, be in response to"
-2878,体制,たいせい,,,"system, structure"
-539,大切,たいせつ,,,"important, valuable"
-2978,大体,だいたい,,,"about, anyway"
-2389,体調,たいちょう,,,health condition
-1611,大抵,たいてい,,,"generally, mostly"
-2994,態度,たいど,,,attitude
-1600,大統領,だいとうりょう,,,president (of a country)
-1087,台所,だいどころ,,,kitchen
-1957,代表,だいひょう,,,representative
-2829,タイプ,たいぷ,,,type
-892,台風,たいふゅう,,,typhoon
-1500,タイプライター,たいぷらいたー,,,typewriter
-605,大変,たいへん,,,"awful, hard"
-2061,逮捕,たいほ,,,"arrest, capture"
-891,太陽,たいよう,,,sun
-2290,体力,たいりょく,,,"physical strength, stamina"
-1829,倒す,たおす,,,"knock down, overthrow"
-1422,タオル,たおる,,,towel
-858,倒れる,たおれる,,,fall over
+1999,対する,たいする,대하다,,"face, be in response to"
+2878,体制,たいせい,체제,,"system, structure"
+539,大切だ,たいせつだ,소중하다,,"important, valuable"
+2978,大体,だいたい,대강,,"about, anyway"
+2389,体調,たいちょう,컨디션,,health condition
+1611,大抵,たいてい,대체로,,"generally, mostly"
+2994,態度,たいど,태도,,attitude
+1600,大統領,だいとうりょう,대통령,,president (of a country)
+1087,台所,だいどころ,부엌,,kitchen
+1957,代表,だいひょう,대표,,representative
+2829,タイプ,たいぷ,"타입, 스타일",一般的な外来語としては「타입」、異性の好みのタイプは「스타일」,type
+892,台風,たいふう,태풍,,typhoon
+1500,タイプライター,たいぷらいたー,타입라이터,,typewriter
+605,大変だ,たいへんだ,"힘들다, 큰일이다",しんどいという意味なら「힘들다」、おおごとだという意味なら「큰일이다」,"awful, hard"
+2061,逮捕,たいほ,체포,,"arrest, capture"
+891,太陽,たいよう,태양,,sun
+2290,体力,たいりょく,체력,,"physical strength, stamina"
+1829,倒す,たおす,"넘어뜨리다, 쓰러뜨리다",物理的に倒すのは「넘어뜨리다」、敵をやっつけるのは「쓰러뜨리다」,"knock down, overthrow"
+1422,タオル,たおる,수건,,towel
+858,倒れる,たおれる,"넘어지다, 쓰러지다",物理的に倒れるのは「넘어지다」、病気で倒れるのは「쓰러지다」,fall over
 29,高い,たかい,"높다, 비싸다",低いの反対は「높다」、値段が高いのは「비싸다」,"high, tall"
-878,高さ,たかさ,,,height
-1462,炊く,たく,,,cook (rice)
-756,たくさん,たくさん,,,"a lot, in large quantity"
-861,タクシー,たくしー,,,taxi
-862,確か,たしか,,,"for sure, for certain"
-1903,確かめる,たしかめる,,,"check, confirm"
-1482,足す,たす,,,add (things of the same kind)
-345,出す,だす,,,take out
-2014,助かる,たすかる,,,"be helped, be rescued"
-541,助ける,たすける,,,"help, save"
-872,訪ねる,たずねる,,,"visit, go to see"
-1064,尋ねる,たずねる,,,"inquire, ask"
-444,ただ,ただ,,,free
-2688,ただ,ただ,,,"simply, merely"
-1065,叩く,たたく,,,"tap, hit"
-827,正しい,ただしい,,,"correct, righteous"
-1215,畳,たたみ,,,straw mat
-1652,畳む,たたむ,,,"fold, shut, close"
-2210,立ち入り禁止,たちいりきんし,,,no trespassing
-1959,立場,たちば,,,"standpoint, position"
+878,高さ,たかさ,높이,,height
+1462,炊く,たく,짓다,,cook (rice)
+756,たくさん,たくさん,많이,,"a lot, in large quantity"
+861,タクシー,たくしー,택시,,taxi
+862,確かだ,たしかだ,확실하다,,"for sure, for certain"
+1903,確かめる,たしかめる,확인하다,,"check, confirm"
+1482,足す,たす,더하다,,add (things of the same kind)
+345,出す,だす,내다,,take out
+2014,助かる,たすかる,살다,,"be helped, be rescued"
+541,助ける,たすける,돕다,,"help, save"
+872,訪ねる,たずねる,찾아가다,,"visit, go to see"
+1064,尋ねる,たずねる,묻다,,"inquire, ask"
+444,無料,ただ,공짜,,free
+2688,ただ,ただ,그냥,,"simply, merely"
+1065,叩く,たたく,때리다,,"tap, hit"
+827,正しい,ただしい,"맞다, 옳다",客観的に正しいのは「맞다」、倫理的に正しいのは「옳다」,"correct, righteous"
+1215,畳,たたみ,다다미,,straw mat
+1652,畳む,たたむ,접다,,"fold, shut, close"
+2210,立ち入り禁止,たちいりきんし,출입금지,,no trespassing
+1959,立場,たちば,입장,,"standpoint, position"
 65,立つ,たつ,서다,,"stand, rise"
-1092,建つ,たつ,,,"be built, be erected"
-1856,経つ,たつ,,,"pass, elapse"
-1573,達する,たっする,,,"attain, reach"
-1917,たっぷり,たっぷり,,,"fully, amply"
-666,建物,たてもの,,,"building, structure"
-490,建てる,たてる,,,"build, erect"
-863,立てる,たてる,,,"stand, set up"
-837,例えば,たとえば,,,for example
-1284,棚,たな,,,"shelf, rack"
-2940,他人,たにん,,,"other people, stranger"
-205,楽しい,たのしい,,,"fun, enjoyable"
-1490,楽しみ,たのしみ,,,"enjoyment, something looked forward to"
+1092,建つ,たつ,서다,,"be built, be erected"
+1856,経つ,たつ,지나다,,"pass, elapse"
+1573,達する,たっする,달하다,,"attain, reach"
+1917,たっぷり,たっぷり,듬뿍,,"fully, amply"
+666,建物,たてもの,건물,,"building, structure"
+490,建てる,たてる,짓다,,"build, erect"
+863,立てる,たてる,세우다,,"stand, set up"
+837,例えば,たとえば,예를 들어서,,for example
+1284,棚,たな,선반,,"shelf, rack"
+2940,他人,たにん,남,,"other people, stranger"
+205,楽しい,たのしい,즐겁다,,"fun, enjoyable"
+1490,楽しみだ,たのしみだ,기대되다,,"enjoyment, something looked forward to"
 107,楽しむ,たのしむ,즐기다,,enjoy
-834,頼む,たのむ,,,"order, ask for"
-583,タバコ,たばこ,,,"tobacco, cigarette"
-2839,旅,たび,,,"journey, travel"
-1992,度々,たびたび,,,often
+834,頼む,たのむ,부탁하다,,"order, ask for"
+583,タバコ,たばこ,담배,,"tobacco, cigarette"
+2839,旅,たび,여행,,"journey, travel"
+1992,度々,たびたび,몇번이나,,often
 2349,だぶだぶ,だぶだぶ,,,"baggy, too big"
-236,多分,たぶん,,,"probably, perhaps"
-225,食べ物,たべもの,,,food (colloquial)
-192,食べる,たべる,,,eat
-1067,卵,たまご,,,egg
-2383,たまたま,たまたま,,,"by chance, accidentally"
-1011,たまに,たまに,,,"occasionally, by chance"
-2547,玉ねぎ,たまねぎ,,,onion
-383,ため,ため,,,"sake, purpose"
-273,駄目,だめ,,,no good
-2192,だらしない,だらしない,,,"untidy, sloppy"
-1111,足りる,たりる,,,"suffice, be enough"
-2334,だるい,だるい,,,"feel run-down, weary"
+236,多分,たぶん,아마,,"probably, perhaps"
+225,食べ物,たべもの,음식,,food (colloquial)
+192,食べる,たべる,먹다,,eat
+1067,卵,たまご,"알, 계란",動物の卵は一般的に「알」、鶏の卵は「계란」,egg
+2383,たまたま,たまたま,우연히,,"by chance, accidentally"
+1011,たまに,たまに,가끔,,"occasionally, by chance"
+2547,玉ねぎ,たまねぎ,양파,,onion
+383,ため,ため,"위해, 때문에",「～のために」は、目的の時は「-를/을 위해서」、原因の時は「- 때문에」,"sake, purpose"
+273,駄目だ,だめだ,안 되다,,no good
+2192,だらしない,だらしない,깔끔하지 않다,,"untidy, sloppy"
+1111,足りる,たりる,충분하다,,"suffice, be enough"
+2334,だるい,だるい,나른하다,,"feel run-down, weary"
 89,誰,だれ,누구,「誰が」は「누가」になるので注意。,who
-505,誰か,だれか,,,someone
-2307,タレント,たれんと,,,"celebrity, TV personality"
-2089,段階,だんかい,,,"stage, phase"
-2356,短期,たんき,,,short-term
-2917,誕生,たんじょう,,,birth
-1260,誕生日,たんじょうび,,,birthday
-1585,ダンス,だんす,,,"dance, dancing (loan word)"
-2748,男性,だんせい,,,"male, man"
-2744,団体,だんたい,,,"group, organization"
-1713,段々,だんだん,,,"gradually, little by little"
-1744,担当,たんとう,,,person in charge (of official duties)
-1407,暖房,だんぼう,,,heating
-1808,血,ち,,,blood (colloquial)
-2713,地,ち,,,"ground, place"
-1689,地域,ちいき,,,"region, area"
-304,小さい,ちいさい,,,small
-1463,チーズ,ちーず,,,cheese
-2724,チーム,ちーむ,,,team
-2327,チェンジ,ちぇんじ,,,"change, exchange"
-1873,地下,ちか,,,underground
+505,誰か,だれか,누군가,,someone
+2307,タレント,たれんと,연예인,,"celebrity, TV personality"
+2089,段階,だんかい,단계,,"stage, phase"
+2356,短期,たんき,단기,,short-term
+2917,誕生,たんじょう,탄생,,birth
+1260,誕生日,たんじょうび,생일,,birthday
+1585,ダンス,だんす,춤,,"dance, dancing (loan word)"
+2748,男性,だんせい,남성,,"male, man"
+2744,団体,だんたい,단체,,"group, organization"
+1713,段々,だんだん,조금씩,,"gradually, little by little"
+1744,担当,たんとう,담배당,,person in charge (of official duties)
+1407,暖房,だんぼう,난방,,heating
+1808,血,ち,피,,blood (colloquial)
+2713,地,ち,땅,,"ground, place"
+1689,地域,ちいき,지역,,"region, area"
+304,小さい,ちいさい,작다,,small
+1463,チーズ,ちーず,치즈,,cheese
+2724,チーム,ちーむ,팀,,team
+2327,チェンジ,ちぇんじ,체인지,,"change, exchange"
+1873,地下,ちか,지하,,underground
 74,近い,ちかい,가깝다,,"near, close"
-1760,違い,ちがい,,,"difference, mistake"
-314,違う,ちがう,,,"differ, be wrong"
-171,近く,ちかく,,,"near, close to"
-222,近く,ちかく,,,"in the near future, before long"
-1503,近付く,ちかづく,,,"approach, come close"
-1118,地下鉄,ちかてつ,,,subway
-2508,近道,ちかみち,,,shortcut
-2146,近寄る,ちかよる,,,"go near, approach"
-434,力,ちから,,,"strength, power"
-1792,地球,ちきゅう,,,the earth
-1433,チケット,ちけっと,,,ticket (loan word)
-1537,遅刻,ちこく,,,"tardiness, lateness"
-2760,知識,ちしき,,,knowledge
-815,地図,ちず,,,"map, atlas"
-346,父,ちち,,,(speaker’s) father
-1703,父親,ちちおや,,,father
-2121,ちっとも,ちっとも,,,not at all
-2709,地方,ちほう,,,local region
-1275,茶,ちゃ,,,tea
-253,茶色,ちゃいろ,,,brown
-568,茶碗,ちゃわん,,,rice bowl
-673,チャンス,ちゃんす,,,chance
-1396,ちゃんと,ちゃんと,,,"correctly, properly"
-1445,チャンネル,ちゃんねる,,,channel
-684,注意,ちゅうい,,,"attention, care"
-2844,中央,ちゅうおう,,,"center, middle"
-843,中学,ちゅうがく,,,junior high
-864,中学生,ちゅうがくせい,,,junior high school student
-732,中学校,ちゅうがっこう,,,junior high school
-2476,中級,ちゅうきゅう,,,"middle-class, intermediate"
-1925,中止,ちゅうし,,,"suspension, cancellation"
-1250,注射,ちゅうしゃ,,,"injection, shot"
-1119,駐車場,ちゅうしゃじょう,,,"parking area, parking lot"
-2513,抽象的,ちゅうしょうてき,,,abstract
-967,昼食,ちゅうしょく,,,lunch
-1367,中心,ちゅうしん,,,"center (of a circle, etc.), core"
-2313,中毒,ちゅうどく,,,"poisoning, addiction"
-1146,注目,ちゅうもく,,,"attention, notice"
-1129,注文,ちゅうもん,,,order
-1347,朝刊,ちょうかん,,,morning edition paper
-2988,長期,ちょうき,,,long period
-1831,長女,ちょうじょ,,,eldest daughter
-968,朝食,ちょうしょく,,,breakfast
-2879,調整,ちょうせい,,,"regulation, adjustment"
-540,ちょうど,ちょうど,,,"just, exactly"
-877,長男,ちょうなん,,,eldest son
-1301,貯金,ちょきん,,,"savings, deposit"
-648,直接,ちょくせつ,,,directly
-1434,チョコレート,ちょこれーと,,,chocolate
-2989,著者,ちょしゃ,,,"author, writer"
-289,ちょっと,ちょっと,,,"just a moment, just a little"
-2202,散らかす,ちらかす,,,make a mess
-2499,散らかる,ちらかる,,,"be in a mess, lie scattered"
-2249,治療,ちりょう,,,medical treatment
-2379,つい,つい,,,"inadvertently, carelessly"
-2848,追加,ついか,,,"addition, supplement"
-361,一日,ついたち,,,first of the month
-2017,ついで,ついで,,,"on the way, to take the opportunity"
-2371,ついに,ついに,,,"at last, at length"
-1122,通学,つうがく,,,commuting to school
-1395,通勤,つうきん,,,commute
-2628,通行止め,つうこうどめ,,,road closed
-1596,通常,つうじょう,,,"common, usually, typically"
-2778,通信,つうしん,,,"correspondence, communication"
-2212,通帳,つうちょう,,,"bankbook, passbook"
+1760,違い,ちがい,차이,,"difference, mistake"
+314,違う,ちがう,다르다,,"differ, be wrong"
+171,近く,ちかく,근처,,"near, close to"
+1503,近付く,ちかづく,"다가가다, 다가오다",,"approach, come close"
+1118,地下鉄,ちかてつ,지하철,,subway
+2508,近道,ちかみち,지름길,,shortcut
+2146,近寄る,ちかよる,"다가가다, 다가오다",,"go near, approach"
+434,力,ちから,힘,,"strength, power"
+1792,地球,ちきゅう,지구,,the earth
+1433,チケット,ちけっと,"표, 티켓",,ticket (loan word)
+1537,遅刻,ちこく,지각,,"tardiness, lateness"
+2760,知識,ちしき,지식,,knowledge
+815,地図,ちず,지도,,"map, atlas"
+346,父,ちち,아버지,,(speaker’s) father
+1703,父親,ちちおや,아버지,,father
+2121,ちっとも,ちっとも,전혀,,not at all
+2709,地方,ちほう,지방,,local region
+1275,茶,ちゃ,차,,tea
+253,茶色,ちゃいろ,갈색,,brown
+568,茶碗,ちゃわん,밥그릇,,rice bowl
+673,チャンス,ちゃんす,기회,,chance
+1396,ちゃんと,ちゃんと,제대로,,"correctly, properly"
+1445,チャンネル,ちゃんねる,채널,,channel
+684,注意,ちゅうい,주의,,"attention, care"
+2844,中央,ちゅうおう,중앙,,"center, middle"
+843,中学,ちゅうがく,중학교,,junior high
+864,中学生,ちゅうがくせい,중학생,,junior high school student
+732,中学校,ちゅうがっこう,중학교,,junior high school
+2476,中級,ちゅうきゅう,중급,,"middle-class, intermediate"
+1925,中止,ちゅうし,중지,,"suspension, cancellation"
+1250,注射,ちゅうしゃ,주사,,"injection, shot"
+1119,駐車場,ちゅうしゃじょう,주차장,,"parking area, parking lot"
+2513,抽象的,ちゅうしょうてき,추상적,,abstract
+967,昼食,ちゅうしょく,점심,,lunch
+1367,中心,ちゅうしん,중심,,"center (of a circle, etc.), core"
+2313,中毒,ちゅうどく,중독,,"poisoning, addiction"
+1146,注目,ちゅうもく,주목,,"attention, notice"
+1129,注文,ちゅうもん,주문,,order
+1347,朝刊,ちょうかん,조간,,morning edition paper
+2988,長期,ちょうき,장기,,long period
+1831,長女,ちょうじょ,장녀,,eldest daughter
+968,朝食,ちょうしょく,아침밥,,breakfast
+2879,調整,ちょうせい,조정,,"regulation, adjustment"
+540,ちょうど,ちょうど,딱,,"just, exactly"
+877,長男,ちょうなん,장남,,eldest son
+1301,貯金,ちょきん,저금,,"savings, deposit"
+648,直接,ちょくせつ,직접,,directly
+1434,チョコレート,ちょこれーと,초콜릿,,chocolate
+2989,著者,ちょしゃ,저자,,"author, writer"
+289,ちょっと,ちょっと,"조금, 좀",量的に少しの場合は「조금」、お願いする時のちょっとは「좀」,"just a moment, just a little"
+2202,散らかす,ちらかす,어지럽히다,,make a mess
+2499,散らかる,ちらかる,어지러지다,,"be in a mess, lie scattered"
+2249,治療,ちりょう,치료,,medical treatment
+2379,つい,つい,무의식적으로,,"inadvertently, carelessly"
+2848,追加,ついか,추가,,"addition, supplement"
+361,一日,ついたち,1일,,first of the month
+2017,ついで,ついで,하는 김에,,"on the way, to take the opportunity"
+2371,ついに,ついに,드디어,,"at last, at length"
+1122,通学,つうがく,통학,,commuting to school
+1395,通勤,つうきん,통근,,commute
+2628,通行止め,つうこうどめ,통행금지,,road closed
+1596,通常,つうじょう,보통,,"common, usually, typically"
+2778,通信,つうしん,통신,,"correspondence, communication"
+2212,通帳,つうちょう,통장,,"bankbook, passbook"
 12,使う,つかう,쓰다,,"use, make use of"
-2120,捕まえる,つかまえる,,,"catch, arrest"
-2497,つかまる,つかまる,,,hold on to (something)
-2397,掴む,つかむ,,,"grip, grab"
-1112,疲れる,つかれる,,,"get tired, become fatigued"
-348,月,つき,,,moon
+2120,捕まえる,つかまえる,잡다,,"catch, arrest"
+2497,捕まる,つかまる,잡히다,,hold on to (something)
+2397,掴む,つかむ,잡다,,"grip, grab"
+1112,疲れる,つかれる,피곤하다,,"get tired, become fatigued"
+348,月,つき,달,,moon
 92,次,つぎ,다음,,next
-2390,付き合う,つきあう,,,"socialize with, see (someone)"
-1672,突き当たり,つきあたり,,,end of a street
-1624,突き当たる,つきあたる,,,"run into, come to the end (of a road)"
+2390,付き合う,つきあう,사귀다,,"socialize with, see (someone)"
+1672,突き当たり,つきあたり,길 끝,,end of a street
+1624,突き当たる,つきあたる,길 끝에 다다르다,,"run into, come to the end (of a road)"
 566,つく,つく,,,"be on, be switched on"
-866,着く,つく,,,"arrive at, reach"
-1292,付く,つく,,,"stick to, cling to"
-577,机,つくえ,,,desk
-1791,尽くす,つくす,,,"make utmost efforts, devote to"
+866,着く,つく,도착하다,,"arrive at, reach"
+1292,付く,つく,붙다,,"stick to, cling to"
+577,机,つくえ,책상,,desk
+1791,尽くす,つくす,다하다,,"make utmost efforts, devote to"
 14,作る,つくる,만들다,,"make, create"
-2633,付け足す,つけたす,,,"add on, append"
-259,つける,つける,,,"switch on, turn on"
-1136,付ける,つける,,,"attach, apply, put"
-1470,都合,つごう,,,"convenience, availability"
-662,伝える,つたえる,,,"convey, transmit"
-1920,続き,つづき,,,"continuation, sequel"
-185,続く,つづく,,,"continue, follow"
-419,続ける,つづける,,,"continue, keep up"
-1714,包む,つつむ,,,"wrap, pack"
-542,勤める,つとめる,,,"serve, hold a job"
-2874,常に,つねに,,,"always, at all times (formal)"
-1298,つぶる,つぶる,,,close (eyes)
-396,妻,つま,,,woman
-906,つまらない,つまらない,,,"boring, dull"
-602,つまり,つまり,,,"in short, that is to say"
-2990,罪,つみ,,,"crime, sin"
-1832,爪,つめ,,,"nail, claw"
-350,冷たい,つめたい,,,cold (to touch)
-838,つもり,つもり,,,"intention, purpose"
-1362,積もる,つもる,,,pile up
-1456,梅雨,つゆ,,,rainy season
-320,強い,つよい,,,strong
-1141,強さ,つよさ,,,strength
-1866,釣り,つり,,,fishing
-1538,釣る,つる,,,"fish, catch"
-2531,つるつる,つるつる,,,"smooth, slippery"
-543,連れていく,つれていく,,,"take along, bring along (a person)"
-589,連れて来る,つれてくる,,,bring (a person)
-352,手,て,,,hand
-1767,出会う,であう,,,"meet, encounter"
-2469,手足,てあし,,,"hands and feet, limbs"
-697,提案,ていあん,,,"proposition, proposal"
-1626,定期券,ていきけん,,,commuter pass
-1897,提供,ていきょう,,,"offer, provide"
-1449,停車,ていしゃ,,,stop (of a train)
-2896,提出,ていしゅつ,,,"presentation, submission (of a report, plan, etc.)"
-496,ティッシュ,てぃっしゅ,,,tissue
-2062,程度,ていど,,,"degree, extent"
-1348,丁寧,ていねい,,,"polite, careful"
-2652,出入り口,でいりぐち,,,"doorway, gateway"
-1640,停留所,ていりゅうじょ,,,(bus) stop
-2231,データ,でーた,,,data
-1455,デート,でーと,,,"date, romantic meeting"
-224,テーブル,てーぶる,,,table
-2727,テーマ,てーま,,,"theme, subject matter"
-1337,出掛ける,でかける,,,"go out, leave home"
-634,手紙,てがみ,,,letter
-1314,テキスト,てきすと,,,"text, textbook"
-2003,適当,てきとう,,,"proper, adequate"
-2955,適用,てきよう,,,"application, coverage"
+2633,付け足す,つけたす,덧붙이다,,"add on, append"
+259,点ける,つける,켜다,,"switch on, turn on"
+1136,付ける,つける,붙이다,,"attach, apply, put"
+1470,都合がいい,つごうがいい,편하다,,"convenience, availability"
+662,伝える,つたえる,전하다,,"convey, transmit"
+1920,続き,つづき,이어지는 것,,"continuation, sequel"
+185,続く,つづく,계속되다,,"continue, follow"
+419,続ける,つづける,계속하다,,"continue, keep up"
+1714,包む,つつむ,싸다,,"wrap, pack"
+542,勤める,つとめる,근무하다,,"serve, hold a job"
+2874,常に,つねに,항상,,"always, at all times (formal)"
+1298,つぶる,つぶる,감다,,close (eyes)
+396,妻,つま,아내,,woman
+906,つまらない,つまらない,재미없다,,"boring, dull"
+602,つまり,つまり,즉,,"in short, that is to say"
+2990,罪,つみ,죄,,"crime, sin"
+1832,爪,つめ,"손톱, 발톱",手の爪なら「손톱」、足の爪なら「발톱」,"nail, claw"
+350,冷たい,つめたい,차갑다,,cold (to touch)
+838,つもり,つもり,생각,,"intention, purpose"
+1362,積もる,つもる,쌓이다,,pile up
+1456,梅雨,つゆ,장마,,rainy season
+320,強い,つよい,"세다, 강하다",物理的に強いのは「세다」、抽象的に強いのは「강하다」,strong
+1141,強さ,つよさ,"세기, 강함",どれだけ強いのかは「세기」、強いということは「강함」,strength
+1866,釣り,つり,낚시,,fishing
+1538,釣る,つる,낚다,,"fish, catch"
+2531,つるつる,つるつる,매끈매끈,,"smooth, slippery"
+543,連れていく,つれていく,데려가다,,"take along, bring along (a person)"
+589,連れて来る,つれてくる,데려오다,,bring (a person)
+352,手,て,손,,hand
+1767,出会う,であう,만나다,「～に出会う」は「-를/을 만나다」と表現する。,"meet, encounter"
+2469,手足,てあし,손발,,"hands and feet, limbs"
+697,提案,ていあん,제안,,"proposition, proposal"
+1626,定期券,ていきけん,정기권,,commuter pass
+1897,提供,ていきょう,제공,,"offer, provide"
+1449,停車,ていしゃ,정차,,stop (of a train)
+2896,提出,ていしゅつ,제출,,"presentation, submission (of a report, plan, etc.)"
+496,ティッシュ,てぃっしゅ,휴지,,tissue
+2062,程度,ていど,정도,,"degree, extent"
+1348,丁寧だ,ていねいだ,정중하다,,"polite, careful"
+2652,出入り口,でいりぐち,출입구,,"doorway, gateway"
+1640,停留所,ていりゅうじょ,정류장,,(bus) stop
+2231,データ,でーた,데이터,,data
+1455,デート,でーと,데이트,,"date, romantic meeting"
+224,テーブル,てーぶる,테이블,,table
+2727,テーマ,てーま,주제,,"theme, subject matter"
+1337,出掛ける,でかける,외출하다,,"go out, leave home"
+634,手紙,てがみ,편지,,letter
+1314,テキスト,てきすと,교과서,,"text, textbook"
+2003,適当だ,てきとうだ,적당하다,,"proper, adequate"
+2955,適用,てきよう,적용,,"application, coverage"
 112,できる,できる,할 수 있다,,"can do, be good at"
-2178,できるだけ,できるだけ,,,as (much) as possible
-1401,出口,でぐち,,,exit
-2139,手首,てくび,,,wrist
-2603,でこぼこ,でこぼこ,,,"unevenness, bumpiness"
-2311,デザート,でざーと,,,dessert
-2237,デザイン,でざいん,,,design
-733,テスト,てすと,,,test
-1421,手帳,てちょう,,,pocket notebook
-2136,手伝い,てつだい,,,"help, assistance"
-216,手伝う,てつだう,,,"help, assist"
-1926,手続き,てつづき,,,"procedure, proceeding"
-2130,徹夜,てつや,,,staying up all night
-1224,テニス,てにす,,,tennis
-2604,手のひら,てのひら,,,palm
-1116,デパート,でぱーと,,,department store (loan word)
-1408,手袋,てぶくろ,,,gloves
-2015,手前,てまえ,,,in front
-1892,寺,てら,,,temple
+2178,できるだけ,できるだけ,되도록,,as (much) as possible
+1401,出口,でぐち,출구,,exit
+2139,手首,てくび,손목,,wrist
+2603,でこぼこ,でこぼこ,울퉁불퉁,,"unevenness, bumpiness"
+2311,デザート,でざーと,후식,,dessert
+2237,デザイン,でざいん,디자인,,design
+733,テスト,てすと,시험,,test
+1421,手帳,てちょう,수첩,,pocket notebook
+2136,手伝い,てつだい,도움,,"help, assistance"
+216,手伝う,てつだう,돕다,,"help, assist"
+1926,手続き,てつづき,수속,,"procedure, proceeding"
+2130,徹夜する,てつやする,밤을 새다,,staying up all night
+1224,テニス,てにす,테니스,,tennis
+2604,手のひら,てのひら,손바닥,,palm
+1116,デパート,でぱーと,백화점,,department store (loan word)
+1408,手袋,てぶくろ,장갑,,gloves
+2015,手前,てまえ,앞,「手前」に該当する言葉がないので、単純に「앞（前）」とだけ表現する。,in front
+1892,寺,てら,절,,temple
 11,出る,でる,"나다, 나가다, 나오다",物が主語の場合は「나다」だが、人などが主語の場合は方向に合わせて「나가다」か「나오다」を使う。,"go out, leave"
-438,テレビ,てれび,,,television
-2682,点,てん,,,"point (of concern), dot"
-1240,店員,てんいん,,,"clerk, salesperson"
-2768,展開,てんかい,,,"development, storyline (plot)"
-229,天気,てんき,,,weather
-487,電気,でんき,,,"electricity, electric light"
-1427,天気予報,てんきよほう,,,weather forecast
-1995,転勤,てんきん,,,"change of job location, relocation"
-1027,伝言,でんごん,,,message
-2871,電子,でんし,,,"electron, electronic"
+438,テレビ,てれび,"텔레비전, 티비",正式には「텔레비전」、略したものが「티비」,television
+2682,点,てん,점,,"point (of concern), dot"
+1240,店員,てんいん,점원,,"clerk, salesperson"
+2768,展開,てんかい,전개,,"development, storyline (plot)"
+229,天気,てんき,날씨,,weather
+487,電気,でんき,전기,,"electricity, electric light"
+1427,天気予報,てんきよほう,일기예보,,weather forecast
+1995,転勤,てんきん,전근,,"change of job location, relocation"
+1027,伝言,でんごん,전하는 말,,message
+2871,電子,でんし,전자,,"electron, electronic"
 140,電車,でんしゃ,전철,,train
-1185,天井,てんじょう,,,ceiling
-1241,電池,でんち,,,battery
-2032,テント,てんと,,,tent
-2973,伝統,でんとう,,,tradition
-585,天ぷら,てんぷら,,,Japanese deep-fried food
-448,電話,でんわ,,,"telephone, phone call"
-1504,電話帳,でんわちょう,,,telephone book
-987,戸,と,,,"door, sliding door"
-2919,都,と,,,metropolis of Tokyo
-167,ドア,どあ,,,door (loan word)
-2321,問い合わせる,といあわせる,,,"inquire, ask for (information)"
-1117,トイレ,といれ,,,toilet
-1631,トイレットペーパー,といれっとぺーぱー,,,toilet paper
-2097,党,とう,,,"party, faction"
+1185,天井,てんじょう,천장,,ceiling
+1241,電池,でんち,전지,,battery
+2032,テント,てんと,텐트,,tent
+2973,伝統,でんとう,전총,,tradition
+585,天ぷら,てんぷら,튀김,,Japanese deep-fried food
+448,電話,でんわ,전화,,"telephone, phone call"
+1504,アドレス帳,あどれすちょう,주소록,,telephone book
+987,戸,と,문,,"door, sliding door"
+2919,都,みやこ,서울,,metropolis of Tokyo
+167,ドア,どあ,문,,door (loan word)
+2321,問い合わせる,といあわせる,문의하다,,"inquire, ask for (information)"
+1117,トイレ,といれ,화장실,,toilet
+1631,トイレットペーパー,といれっとぺーぱー,휴지,,toilet paper
+2097,党,とう,당,,"party, faction"
 42,どう,どう,어떻게,,"how, what"
-1574,当時,とうじ,,,at that time
-239,どうして,どうして,,,how come
-1702,どうしても,どうしても,,,"by any means, really"
-2759,登場,とうじょう,,,"appearance (on stage, etc.)"
-2315,同情,どうじょう,,,"sympathy, compassion"
-2007,どうせ,どうせ,,,anyway
-1575,当然,とうぜん,,,"natural, as a matter of course"
-35,どうぞ,どうぞ,부디,,please
-2799,到着,とうちゃく,,,arrival
-2010,とうとう,とうとう,,,"finally, in the end"
-2308,どうにか,どうにか,,,somehow
-2976,投票,とうひょう,,,"vote, ballot"
-1513,豆腐,とうふ,,,tofu
-635,動物,どうぶつ,,,animal
-1311,動物園,どうぶつえん,,,zoo
-2865,どうも,どうも,,,"for no special reason, somehow"
-2063,同様,どうよう,,,"similar, the same as"
-667,道路,どうろ,,,road
-2235,登録,とうろく,,,registration
-150,遠い,とおい,,,"far, distant"
-353,十日,とおか,,,"ten days, tenth of the month"
-904,遠く,とおく,,,"far away, at a distance"
-2509,トースト,とーすと,,,toast
-988,通り,とおり,,,"street, road"
-2228,通り掛かる,とおりかかる,,,happen to pass by
-2123,通り過ぎる,とおりすぎる,,,"go past, pass"
-912,通る,とおる,,,"pass, go through"
-202,時,とき,,,"time, moment"
-2586,どきっと,どきっと,,,"surprised, shocked"
-357,時々,ときどき,,,sometimes
-1614,どきどき,どきどき,,,"feel excited, feel nervous"
-2396,得,とく,,,"advantage, gain"
-2481,どく,どく,,,"get out of the way, step aside"
-1142,得意,とくい,,,"one’s specialty, be good at"
-2250,読者,どくしゃ,,,reader
-1492,読書,どくしょ,,,reading books
-1261,独身,どくしん,,,"single, unmarried"
-2634,得する,とくする,,,"profitable, beneficial"
-2082,特徴,とくちょう,,,"distinctive feature, characteristic"
-2862,特定,とくてい,,,"specifying, identifying"
-649,特に,とくに,,,"specially, particularly"
-947,特別,とくべつ,,,special
-2915,独立,どくりつ,,,"independence, self-reliance"
-237,時計,とけい,,,"clock, watch"
+1574,当時,とうじ,당시,,at that time
+239,どうして,どうして,왜,,how come
+1702,どうしても,どうしても,"꼭, 어떻게 해도",希望を表す時の「どうしても」は「꼭」、それ以外は「어떻게 해도」,"by any means, really"
+2759,登場,とうじょう,등장,,"appearance (on stage, etc.)"
+2315,同情,どうじょう,동정,,"sympathy, compassion"
+2007,どうせ,どうせ,어차피,,anyway
+1575,当然だ,とうぜんだ,당연하다,,"natural, as a matter of course"
+35,どうぞ,どうぞ,-,対応する言葉がない。物を渡しながら言う「どうぞ」は「여기 있어요.（ここにあります。）」、ドアを開けてあげながら言う「どうぞ」は「들어가세요.（入ってください。）」など、状況に合わせて訳し分ける。,please
+2799,到着,とうちゃく,도착,,arrival
+2010,とうとう,とうとう,드디어,,"finally, in the end"
+2308,どうにか,どうにか,겨우,,somehow
+2976,投票,とうひょう,투표,,"vote, ballot"
+1513,豆腐,とうふ,두부,,tofu
+635,動物,どうぶつ,동물,,animal
+1311,動物園,どうぶつえん,동원,,zoo
+2865,どうも,どうも,-,対応する言葉がない。感謝の言葉として使う場合には単純に「감사합니다.（ありがとうございます。）」などという。,"for no special reason, somehow"
+2063,同様だ,どうようだ,마찬가지이다,,"similar, the same as"
+667,道路,どうろ,"길, 도로",日常生活では「길」、少し固い言い方として「도로」,road
+2235,登録,とうろく,등록,,registration
+150,遠い,とおい,멀다,,"far, distant"
+353,十日,とおか,"10일, 열흘",日付の時は「10일」、長さの時は「열흘」,"ten days, tenth of the month"
+904,遠く,とおく,멀리,,"far away, at a distance"
+2509,トースト,とーすと,토스트,,toast
+988,通り,とおり,거리,,"street, road"
+2228,通り掛かる,とおりかかる,지나가다,,happen to pass by
+2123,通り過ぎる,とおりすぎる,지나가다,,"go past, pass"
+912,通る,とおる,지나가다,,"pass, go through"
+202,時,とき,때,,"time, moment"
+2586,どきっと,どきっと,깜짝,,"surprised, shocked"
+357,時々,ときどき,가끔,,sometimes
+1614,どきどき,どきどき,두근두근,,"feel excited, feel nervous"
+2396,得だ,とくだ,이득이다,,"advantage, gain"
+2481,退く,どく,비치다,,"get out of the way, step aside"
+1142,得意だ,とくいだ,잘하다,「～が得意だ」は「-를/을 잘하다」と表現する。,"one’s specialty, be good at"
+2250,読者,どくしゃ,독자,,reader
+1492,読書,どくしょ,독서,,reading books
+1261,独身,どくしん,독신,,"single, unmarried"
+2634,得する,とくする,이득을 보다,,"profitable, beneficial"
+2082,特徴,とくちょう,특징,,"distinctive feature, characteristic"
+2862,特定,とくてい,특정,,"specifying, identifying"
+649,特に,とくに,"특히, 딱히",肯定文の中では「특히」、否定文の中では「딱히」,"specially, particularly"
+947,特別,とくべつ,특별하다,,special
+2915,独立,どくりつ,독립,,"independence, self-reliance"
+237,時計,とけい,시계,,"clock, watch"
 56,どこ,どこ,어디,,where
-1641,床屋,とこや,,,"barber, barbershop"
+1641,床屋,とこや,이발소,,"barber, barbershop"
 13,所,ところ,"데, 곳",話し言葉では「데」が、書き言葉では「곳」がよく使われる。,place
 120,年,とし,해,,"year, age"
-1964,都市,とし,,,"city, town"
-628,年上,としうえ,,,"older, senior"
-1551,年下,としした,,,"younger, junior"
-163,図書館,としょかん,,,library
-201,閉じる,とじる,,,"shut, close (books, eyes, etc.)"
-2218,戸棚,とだな,,,cupboard
-1947,土地,とち,,,land
-1173,途中,とちゅう,,,"on the way, half way"
+1964,都市,とし,도시,,"city, town"
+628,年上,としうえ,연상,,"older, senior"
+1551,年下,としした,연하,,"younger, junior"
+163,図書館,としょかん,도서관,,library
+201,閉じる,とじる,닫다,,"shut, close (books, eyes, etc.)"
+2218,戸棚,とだな,찬장,,cupboard
+1947,土地,とち,땅,,land
+1173,途中,とちゅう,중간,,"on the way, half way"
 128,どちら,どちら,어느 쪽,,which (polite)
-1609,特急,とっきゅう,,,super-express
-2137,とっくに,とっくに,,,"long ago, already"
-2979,突然,とつぜん,,,suddenly
-517,どっち,どっち,,,which (casual)
-2763,トップ,とっぷ,,,"top, the best"
+1609,特急,とっきゅう,특급,,super-express
+2137,とっくに,とっくに,이미,,"long ago, already"
+2979,突然,とつぜん,갑자기,,suddenly
+517,どっち,どっち,어느 쪽,,which (casual)
+2763,トップ,とっぷ,탑,,"top, the best"
 88,とても,とても,아주,,very (colloquial)
-650,届く,とどく,,,"reach, be received"
-1138,届ける,とどける,,,deliver
-2417,都内,とない,,,in the metropolitan area of Tokyo
-721,どなた,どなた,,,who (polite)
-981,隣,となり,,,"next to, next door"
-1489,とにかく,とにかく,,,"in any case, anyway"
-2648,飛び上がる,とびあがる,,,"fly up, fump up"
-2627,飛び下りる,とびおりる,,,"jump off, jump down"
-2021,飛び込む,とびこむ,,,"dive into, jump into"
+650,届く,とどく,"닿다, 배달되다",手が届くのは「닿다」、配達物が届くのは「배달되다」,"reach, be received"
+1138,届ける,とどける,배달하다,,deliver
+2417,都内,とない,도쿄도 내,,in the metropolitan area of Tokyo
+721,どなた,どなた,어느 분,,who (polite)
+981,隣,となり,"옆, 이웃",基本的には「옆」、家なら「이웃」,"next to, next door"
+1489,とにかく,とにかく,어쨌든,,"in any case, anyway"
+2648,飛び上がる,とびあがる,뛰어오르다,,"fly up, fump up"
+2627,飛び下りる,とびおりる,뛰어내리다,,"jump off, jump down"
+2021,飛び込む,とびこむ,뛰어들다,,"dive into, jump into"
 87,飛ぶ,とぶ,날다,,fly
-1483,トマト,とまと,,,tomato
-238,泊まる,とまる,,,stay overnight
-549,止まる,とまる,,,"come to a stop, cease"
-373,止める,とめる,,,stop (a car…). 止める (yameru) give up
-1550,止める,とめる,,,stop (something/someone)
-1820,泊める,とめる,,,let (someone) stay over
+1483,トマト,とまと,토마토,,tomato
+238,泊まる,とまる,"묵다, 자다",正確には「묵다」だが、日常会話では単に「자다（寝る）」とだけいうことも多い。,stay overnight
+549,止まる,とまる,"서다, 멈추다",移動の動作が止まるのは「서다」、それ以外は「멈추다」,"come to a stop, cease"
+373,止める,やめる,그만두다,,stop (a car…). 止める (yameru) give up
+1550,止める,とめる,"세우다, 멈추다",移動の動作を止めるのは「세우다」、それ以外は「멈추다」,stop (something/someone)
+1820,泊める,とめる,"묵게 하다, 재우다",正確には「묵게 하다」だが、日常会話では単に「재우다（寝せる）」とだけいうことも多い。,let (someone) stay over
 98,友達,ともだち,친구,,"friend, companion (colloquial)"
-2073,伴う,ともなう,,,"accompany, entail"
-233,土曜日,どようび,,,Saturday
-1464,ドライブ,どらいぶ,,,drive (loan word)
-993,トラック,とらっく,,,truck
-1237,ドラマ,どらま,,,drama
-1653,トランプ,とらんぷ,,,playing cards
-786,鳥,とり,,,"bird, poultry"
-2557,とりあえず,とりあえず,,,"for now, for the time being"
-2972,取り上げる,とりあげる,,,"take, confiscate"
-2643,取り返す,とりかえす,,,"take back, regain"
-2153,取り替える,とりかえる,,,"change, replace"
-2256,取り組む,とりくむ,,,"work on, tackle"
-2141,取り消す,とりけす,,,cancel
-2050,取引,とりひき,,,"transaction, deal"
-686,努力,どりょく,,,"endeavor, effort"
+2073,伴う,ともなう,수반하다,,"accompany, entail"
+233,土曜日,どようび,토요일,,Saturday
+1464,ドライブ,どらいぶ,드라이브,,drive (loan word)
+993,トラック,とらっく,트럭,,truck
+1237,ドラマ,どらま,드라마,,drama
+1653,トランプ,とらんぷ,카드,,playing cards
+786,鳥,とり,새,,"bird, poultry"
+2557,とりあえず,とりあえず,우선,,"for now, for the time being"
+2972,取り上げる,とりあげる,빼앗다,,"take, confiscate"
+2643,取り返す,とりかえす,되찾다,,"take back, regain"
+2153,取り替える,とりかえる,바꾸다,,"change, replace"
+2256,取り組む,とりくむ,힘쓰다,,"work on, tackle"
+2141,取り消す,とりけす,취소하다,,cancel
+2050,取引,とりひき,거래,,"transaction, deal"
+686,努力,どりょく,노력,,"endeavor, effort"
 110,取る,とる,"가지다, 훔치다",自分の物にするという意味なら「가지다」、盗むという意味なら「훔치다」,"take, get"
-915,撮る,とる,,,"take (a photograph), film"
-407,ドル,どる,,,dollar
+915,撮る,とる,찍다,,"take (a photograph), film"
+407,ドル,どる,달러,,dollar
 100,どれ,どれ,어느 거,,"what, which"
-1869,トレーニング,とれーにんぐ,,,"training, workout"
-1790,ドレス,どれす,,,formal dress
-1320,取れる,とれる,,,"come off, be removed"
-1497,泥棒,どろぼう,,,"thief, burglar"
-2539,とんかつ,とんかつ,,,pork cutlet
-2019,とんでもない,とんでもない,,,"unthinkable, outrageous"
-1834,とんとん,とんとん,,,"tapping, patting"
-917,どんどん,どんどん,,,"knock, bang"
-1734,どんどん,どんどん,,,"quickly, rapidly"
-247,無い,ない,,,to not be
-1297,内緒,ないしょ,,,"secrecy, privacy"
-1289,ナイフ,ないふ,,,knife
-2262,内部,ないぶ,,,"interior, inner parts"
-1951,内容,ないよう,,,content
-2038,ナイロン,ないろん,,,nylon
-1960,なお,なお,,,"still, in addition"
-654,直す,なおす,,,"repair, fix"
-1552,治す,なおす,,,cure (something)
-288,直る,なおる,,,"be repaired, get fixed"
-406,治る,なおる,,,"be cured, get well"
-758,中,なか,,,"inside, middle"
-2677,中,なか,,,"middle, medium size"
+1869,トレーニング,とれーにんぐ,연습,,"training, workout"
+1790,ドレス,どれす,드레스,,formal dress
+1320,取れる,とれる,빠지다,,"come off, be removed"
+1497,泥棒,どろぼう,두둑,,"thief, burglar"
+2539,とんかつ,とんかつ,돈까스,,pork cutlet
+2019,とんでもない,とんでもない,말도 안 되다,,"unthinkable, outrageous"
+1834,とんとん,とんとん,똑똑,,"tapping, patting"
+917,どんどん,どんどん,쿵쿵,擬音語。,"knock, bang"
+1734,どんどん,どんどん,갈수록,時間が過ぎるごとに程度がひどくなることを示す。,"quickly, rapidly"
+247,無い,ない,없다,,to not be
+1297,内緒,ないしょ,비밀,,"secrecy, privacy"
+1289,ナイフ,ないふ,칼,,knife
+2262,内部,ないぶ,내부,,"interior, inner parts"
+1951,内容,ないよう,내용,,content
+2038,ナイロン,ないろん,나이론,,nylon
+1960,なお,なお,그리고,,"still, in addition"
+654,直す,なおす,고치다,,"repair, fix"
+1552,治す,なおす,고치다,,cure (something)
+288,直る,なおる,고쳐지다,,"be repaired, get fixed"
+406,治る,なおる,낫다,,"be cured, get well"
+758,中,なか,안,,"inside, middle"
+2677,中,ちゅう,중,,"middle, medium size"
 37,長い,ながい,길다,,long
-998,長さ,ながさ,,,length
-1814,長袖,ながそで,,,long sleeves
-976,なかなか,なかなか,,,"rather, pretty"
-1104,なかなか,なかなか,,,"not easily, not readily"
-2150,長引く,ながびく,,,"be prolonged, drag on"
-2912,仲間,なかま,,,"comrade, peer"
-1781,眺める,ながめる,,,"look out, gaze"
-2174,中指,なかゆび,,,"middle finger, middle toe"
-2423,仲良く,なかよく,,,"harmoniously, getting along"
-1788,仲良し,なかよし,,,good friend
-2864,流れ,ながれ,,,"flow, stream"
-954,流れる,ながれる,,,"flow, run"
-2649,泣き声,なきごえ,,,"tearful voice, sound of crying"
-1124,泣く,なく,,,"cry, weep"
-1450,鳴く,なく,,,"sing, cry (of animals)"
-760,無くす,なくす,,,"lose, get rid of"
-989,亡くなる,なくなる,,,"die, pass away"
-1715,無くなる,なくなる,,,"get lost, go missing"
-2421,殴る,なぐる,,,"hit, punch"
-1144,投げる,なげる,,,throw
-2849,なさる,なさる,,,do (honorific)
-614,ナス,なす,,,eggplant
-651,なぜ,なぜ,,,why
-355,夏,なつ,,,summer
-1914,懐かしい,なつかしい,,,"fondly-remembered, long-forgotten"
-1700,納豆,なっとう,,,fermented soybeans
-2934,納得,なっとく,,,to fully understand and accept
-1007,夏休み,なつやすみ,,,summer vacation
-321,七,なな,,,seven (Japanese origin)
-777,七,なな,,,seven (Chinese origin)
-356,七つ,ななつ,,,seven (things)
-358,何,なに,,,what
-506,何,なに,,,what. それはなんですか. What is that?
-901,何か,なにか,,,"something, some"
-1733,何しろ,なにしろ,,,"anyhow, as you may know"
-391,七日,なのか,,,"seven days, seventh of the month"
-1664,鍋,なべ,,,pan
-2669,生,なま,,,"raw, fresh"
-2899,生,なま,,,"life, living"
-2166,生意気,なまいき,,,"impudent, cocky"
-194,名前,なまえ,,,name
-1994,怠ける,なまける,,,"be lazy, slack off"
-2800,なま物,なまもの,,,uncooked food
-978,涙,なみだ,,,tear
-2357,舐める,なめる,,,lick
-2286,悩み,なやみ,,,"troubles, worries"
-1768,悩む,なやむ,,,"be troubled, suffer"
-1145,習う,ならう,,,"learn, take lessons"
-652,並ぶ,ならぶ,,,"line up, be parallel"
-918,並べる,ならべる,,,"line up, arrange"
+998,長さ,ながさ,길이,,length
+1814,長袖,ながそで,긴팔,,long sleeves
+976,なかなか,なかなか,꽤,「なかなか良かったです。」の「なかなか」,"rather, pretty"
+1104,なかなか,なかなか,좀처럼,「なかなか終わらない。」の「なかなか」,"not easily, not readily"
+2150,長引く,ながびく,길어지다,,"be prolonged, drag on"
+2912,仲間,なかま,"친구, 동료, 멤버",ぴったり合う単語がないので、「친구（友達）」「동료（同僚）」「 멤버（メンバー）」などの中から最も近いものを選んで訳すしかない。,"comrade, peer"
+1781,眺める,ながめる,바라보다,,"look out, gaze"
+2174,中指,なかゆび,가운데손가락,,"middle finger, middle toe"
+2423,仲良く,なかよく,사이좋게,,"harmoniously, getting along"
+1788,仲良しだ,なかよしだ,사이가 좋다,,good friend
+2864,流れ,ながれ,흐름,,"flow, stream"
+954,流れる,ながれる,흐르다,,"flow, run"
+2649,泣き声,なきごえ,우는 소리,,"tearful voice, sound of crying"
+1124,泣く,なく,울다,,"cry, weep"
+1450,鳴く,なく,울다,,"sing, cry (of animals)"
+760,無くす,なくす,잃다,,"lose, get rid of"
+989,亡くなる,なくなる,돌아가시다,,"die, pass away"
+1715,無くなる,なくなる,"없어지다, 떨어지다",あるはずのものが消えた場合には「없어지다」、使ってなくなった場合には「떨어지다」,"get lost, go missing"
+2421,殴る,なぐる,때리다,,"hit, punch"
+1144,投げる,なげる,던지다,,throw
+2849,なさる,なさる,하시다,,do (honorific)
+614,ナス,なす,가지,,eggplant
+651,なぜ,なぜ,왜,,why
+355,夏,なつ,여름,,summer
+1914,懐かしい,なつかしい,"그립다, 반갑다, 옛날 생각이 나다",ぴったり合う単語がないので、「그립다（恋しい）」、「반갑다（偶然出会って嬉しい）」、「옛날 생각이 나다（昔のことを思い出す）」などの中から文脈に合ったものを選んで訳す。,"fondly-remembered, long-forgotten"
+1700,納豆,なっとう,낫토,,fermented soybeans
+2934,納得する,なっとくする,납득하다,,to fully understand and accept
+1007,夏休み,なつやすみ,"여름 방학, 여름 휴가",学生のは「여름 방학」、社会人のは「여름 휴가」,summer vacation
+321,七,なな,"일곱, 칠",固有数詞では「일곱」、漢字語数詞では「칠」,seven (Japanese origin)
+356,七つ,ななつ,일곱 개,,seven (things)
+358,何,なに,뭐,,what
+901,何か,なにか,뭔가,,"something, some"
+391,七日,なのか,7일,,"seven days, seventh of the month"
+1664,鍋,なべ,냄비,,pan
+2669,生,なま,생,,"raw, fresh"
+2899,生,せい,삶,,"life, living"
+2166,生意気,なまいき,건방지다,,"impudent, cocky"
+194,名前,なまえ,이름,,name
+1994,怠ける,なまける,게으름을 피우다,,"be lazy, slack off"
+2800,なま物,なまもの,날것,,uncooked food
+978,涙,なみだ,눈물,,tear
+2357,舐める,なめる,핥다,,lick
+2286,悩み,なやみ,고민,,"troubles, worries"
+1768,悩む,なやむ,고민하다,,"be troubled, suffer"
+1145,習う,ならう,배우다,,"learn, take lessons"
+652,並ぶ,ならぶ,줄을 서다,,"line up, be parallel"
+918,並べる,ならべる,늘어놓다,,"line up, arrange"
 23,なる,なる,되다,「～になる」は「-가/이 되다」。助詞に注意。,become
-1253,鳴る,なる,,,"sound, ring"
-1679,なるべく,なるべく,,,"as…as possible, if possible"
-601,なるほど,なるほど,,,"I see, really"
-914,慣れる,なれる,,,"grow accustomed to, get used to"
-2623,何十,なんじゅう,,,several tens
-2625,何千,なんぜん,,,"several thousand, thousands"
-2109,何で,なんで,,,"why, what for"
-1103,何度,なんど,,,"how many times, how many degrees"
-1723,何とか,なんとか,,,"somehow, please"
-2409,何となく,なんとなく,,,for some reason
-2624,何百,なんびゃく,,,"several hundred, hundreds"
-267,二,に,,,two
-1902,似合う,にあう,,,"suit, match well"
-595,兄さん,にいさん,,,(one’s own) older brother (polite)
-1135,匂い,におい,,,"(pleasant) smell, odor"
-759,二階,にかい,,,"second floor, upstairs"
-1262,苦い,にがい,,,bitter
-1349,苦手,にがて,,,"not good at, be bad at"
-545,賑やか,にぎやか,,,"lively, exciting"
-1157,握る,にぎる,,,"grasp, grip, hold"
-586,肉,にく,,,"flesh, meat"
-919,逃げる,にげる,,,"escape, run away"
-1627,にこにこ,にこにこ,,,"smilingly, keep smiling"
-972,西,にし,,,"west, western"
-910,日時,にちじ,,,date and time
-2876,日常,にちじょう,,,"everyday life, daily life"
-2516,日米,にちべい,,,Japan and the US
-210,日曜日,にちようび,,,Sunday
-491,日記,にっき,,,diary
-2187,にっこり,にっこり,,,smiling brightly
-1932,日中,にっちゅう,,,during the day
-2663,日中,にっちゅう,,,Japan and China
-607,似ている,にている,,,"look like, resemble"
-2429,二度と,にどと,,,never again
-2449,日本酒,にほんしゅ,,,Japanese rice wine
-1181,荷物,にもつ,,,"baggage, load"
-2590,にやにや,にやにや,,,grin to oneself
-926,入院,にゅういん,,,be hospitalized
-986,入学,にゅうがく,,,"enter a school, matriculate"
-1601,入場券,にゅうじょうけん,,,entrance ticket
-927,ニュース,にゅーす,,,news
-2362,入力,にゅうりょく,,,"input, entry"
-2496,にらむ,にらむ,,,"glare, stare"
-2099,煮る,にる,,,"simmer, cook"
-2845,似る,にる,,,"resemble, be alike"
-522,庭,にわ,,,"garden, yard"
-1893,鶏,にわとり,,,"rooster, hen"
-594,人気,にんき,,,popularity
-1753,人間,にんげん,,,human being
-612,にんじん,にんじん,,,carrot
-2386,人数,にんずう,,,number of people
-1435,脱ぐ,ぬぐ,,,take off (clothes)
-1175,盗む,ぬすむ,,,"steal, rob"
-2203,濡らす,ぬらす,,,get (something) wet
-1143,塗る,ぬる,,,"spread on, paint"
-580,ぬるい,ぬるい,,,"tepid, lukewarm"
-2578,ぬるぬる,ぬるぬる,,,slimy
-1836,濡れる,ぬれる,,,get wet
-596,姉さん,ねえさん,,,(one’s own) older sister (polite)
-1859,願う,ねがう,,,"wish, desire"
-2675,寝かす,ねかす,,,put (someone) to bed
-2540,ねぎ,ねぎ,,,"spring onion, green onion"
-1259,ネクタイ,ねくたい,,,"tie, necktie"
-1115,猫,ねこ,,,cat
-2550,寝過ごす,ねすごす,,,oversleep
-1756,ねずみ,ねずみ,,,"rat, mouse"
-921,値段,ねだん,,,price
-995,熱,ねつ,,,"heat, fever"
-1602,ネックレス,ねっくれす,,,necklace
-2360,ネットワーク,ねっとわーく,,,network
-1665,寝坊,ねぼう,,,oversleeping
-546,眠い,ねむい,,,sleepy
-969,眠る,ねむる,,,"sleep, lie idle"
-157,寝る,ねる,,,"lie down and sleep, go to sleep"
-1436,年賀状,ねんがじょう,,,New Year’s card
-790,年間,ねんかん,,,period of one year
-1783,年月,ねんげつ,,,"years, period of time"
-1989,年中,ねんじゅう,,,all year
-2828,年代,ねんだい,,,"generation, era"
-680,年度,ねんど,,,"year, school year"
-2455,年々,ねんねん,,,year by year
-2410,年末,ねんまつ,,,end of year
-2937,年齢,ねんれい,,,age
-2041,農業,のうぎょう,,,agriculture
-1576,能力,のうりょく,,,"capability, performance ability of machine, etc."
-1161,ノート,のーと,,,notebook (loan word)
-617,残す,のこす,,,"leave, leave undone"
-2004,残り,のこり,,,"rest, leftover"
-951,残る,のこる,,,"remain, be left over"
-219,載せる,のせる,,,"place, put on"
-1941,除く,のぞく,,,"remove, exclude"
-2107,喉,のど,,,throat
-1682,延ばす,のばす,,,"extend, postpone"
-930,伸びる,のびる,,,"stretch, grow"
-1678,上り,のぼり,,,"going up, ascent"
-255,上る,のぼる,,,"go up, climb"
-1402,登る,のぼる,,,"climb, go up"
-274,飲み物,のみもの,,,"beverage, drink"
+1253,鳴る,なる,울리다,,"sound, ring"
+1679,なるべく,なるべく,되도록,,"as…as possible, if possible"
+914,慣れる,なれる,익숙해지다,,"grow accustomed to, get used to"
+2623,何十,なんじゅう,몇 십,,several tens
+2625,何千,なんぜん,몇 천,,"several thousand, thousands"
+2109,何で,なんで,왜,,"why, what for"
+1103,何度,なんど,몇 번,,"how many times, how many degrees"
+1723,何とか,なんとか,겨우,,"somehow, please"
+2409,何となく,なんとなく,그냥,,for some reason
+2624,何百,なんびゃく,몇 백,,"several hundred, hundreds"
+267,二,に,"둘, 이",固有語数詞では「둘」、漢字語数詞では「이」,two
+1902,似合う,にあう,어울리다,,"suit, match well"
+1135,匂い,におい,냄새,,"(pleasant) smell, odor"
+759,二階,にかい,이 층,,"second floor, upstairs"
+1262,苦い,にがい,쓰다,,bitter
+1349,苦手,にがて,"못하다, 안 좋아하다",うまくできないのは「못하다」、好きでないのは「별로 안 좋아하다」、人間に関しては「잘 안 맞다」,"not good at, be bad at"
+545,賑やかだ,にぎやかだ,"시끌벅적하다, 활기차다",音に関しては「시끌벅적하다」、活気に関しては「활기차다」,"lively, exciting"
+1157,握る,にぎる,쥐다,,"grasp, grip, hold"
+586,肉,にく,고기,,"flesh, meat"
+919,逃げる,にげる,도망가다,,"escape, run away"
+1627,にこにこ,にこにこ,싱글벙글,,"smilingly, keep smiling"
+972,西,にし,서쪽,,"west, western"
+910,日時,にちじ,일시,,date and time
+2876,日常,にちじょう,일상,,"everyday life, daily life"
+2516,日米,にちべい,미일,,Japan and the US
+210,日曜日,にちようび,일요일,,Sunday
+491,日記,にっき,일기,,diary
+2187,にっこり,にっこり,싱글,,smiling brightly
+1932,日中,にっちゅう,중일,中国と日本,during the day
+2663,日中,にっちゅう,낮,昼,Japan and China
+607,似ている,にている,"비슷하다, 닮았다",一般的には「비슷하다」、人の容貌に関しては「닮았다」,"look like, resemble"
+2429,二度と,にどと,다시는,,never again
+2449,日本酒,にほんしゅ,일본 술,,Japanese rice wine
+1181,荷物,にもつ,짐,,"baggage, load"
+2590,にやにや,にやにや,히죽히죽,,grin to oneself
+926,入院,にゅういん,입원,,be hospitalized
+986,入学,にゅうがく,입학,,"enter a school, matriculate"
+1601,入場券,にゅうじょうけん,입장권,,entrance ticket
+927,ニュース,にゅーす,뉴스,,news
+2362,入力,にゅうりょく,입력,,"input, entry"
+2496,にらむ,にらむ,노려보다,,"glare, stare"
+2099,煮る,にる,끓이다,,"simmer, cook"
+522,庭,にわ,마당,,"garden, yard"
+1893,鶏,にわとり,닭,,"rooster, hen"
+594,人気,にんき,인기,,popularity
+1753,人間,にんげん,"사람, 인간",日常では「사람」、学術的には「인간」,human being
+612,人参,にんじん,당근,,carrot
+2386,人数,にんずう,인원수,,number of people
+1435,脱ぐ,ぬぐ,벗다,,take off (clothes)
+1175,盗む,ぬすむ,훔치다,,"steal, rob"
+2203,濡らす,ぬらす,적시다,,get (something) wet
+1143,塗る,ぬる,칠하다,,"spread on, paint"
+580,ぬるい,ぬるい,미지근하다,,"tepid, lukewarm"
+2578,ぬるぬる,ぬるぬる,미끌미끌,,slimy
+1836,濡れる,ぬれる,젖다,,get wet
+1859,願う,ねがう,바라다,,"wish, desire"
+2675,寝かす,ねかす,재우다,,put (someone) to bed
+2540,葱,ねぎ,파,,"spring onion, green onion"
+1259,ネクタイ,ねくたい,넥타이,,"tie, necktie"
+1115,猫,ねこ,고양이,,cat
+2550,寝過ごす,ねすごす,자느라 지나치다,,oversleep
+1756,鼠,ねずみ,쥐다,,"rat, mouse"
+921,値段,ねだん,값,,price
+995,熱,ねつ,열,,"heat, fever"
+1602,ネックレス,ねっくれす,목걸이,,necklace
+2360,ネットワーク,ねっとわーく,네트워크,,network
+1665,寝坊,ねぼう,잠꾸러기,,oversleeping
+546,眠い,ねむい,졸리다,,sleepy
+969,眠る,ねむる,자다,,"sleep, lie idle"
+157,寝る,ねる,자다,,"lie down and sleep, go to sleep"
+1436,年賀状,ねんがじょう,연하장,,New Year’s card
+790,年間,ねんかん,연간,,period of one year
+1783,年月,ねんげつ,세월,,"years, period of time"
+1989,年中,ねんじゅう,일년 내내,,all year
+2828,年代,ねんだい,연대,,"generation, era"
+680,年度,ねんど,연도,,"year, school year"
+2455,年々,ねんねん,해마다,,year by year
+2410,年末,ねんまつ,연말,,end of year
+2937,年齢,ねんれい,연령,,age
+2041,農業,のうぎょう,농업,,agriculture
+1576,能力,のうりょく,능력,,"capability, performance ability of machine, etc."
+1161,ノート,のーと,공책,,notebook (loan word)
+617,残す,のこす,남기다,,"leave, leave undone"
+2004,残り,のこり,나머지,,"rest, leftover"
+951,残る,のこる,남다,,"remain, be left over"
+219,載せる,のせる,싣다,,"place, put on"
+1941,除く,のぞく,제거하다,,"remove, exclude"
+2107,喉,のど,목,,throat
+1682,延ばす,のばす,늘리다,,"extend, postpone"
+930,伸びる,のびる,늘어나다,,"stretch, grow"
+1678,上り,のぼり,상향,,"going up, ascent"
+255,上る,のぼる,"올라가다, 올라오다",,"go up, climb"
+1402,登る,のぼる,"올라가다, 올라오다",,"climb, go up"
+274,飲み物,のみもの,음료,,"beverage, drink"
 94,飲む,のむ,"마시다, 먹다",,drink
-1610,のり,のり,,,"glue, starch"
-2587,乗り遅れる,のりおくれる,,,"miss (a train, bus, etc.)"
-2644,乗り降り,のりおり,,,getting on and off
-1632,乗り換え,のりかえ,,,"transfer, change (trains)"
-747,乗り換える,のりかえる,,,"change, transfer"
-1437,乗り物,のりもの,,,"vehicle, transportation"
-180,乗る,のる,,,"ride, take"
-2196,のろのろ,のろのろ,,,"slowly, sluggishly"
-1397,のんびり,のんびり,,,take it easy
-296,歯,は,,,tooth
-1191,葉,は,,,leaf
-2697,場,ば,,,"occasion, situation"
-656,場合,ばあい,,,"situation, case"
-2506,バーゲン,ばーげん,,,bargain sale
-1837,パーセント,ぱーせんと,,,percent
-931,パーティー,ぱーてぃー,,,party
-500,パート,ぱーと,,,part-time
-2439,ハードウェア,はーどうぇあ,,,hardware
-1886,灰,はい,,,ashes
-2823,倍,ばい,,,"double, times"
-1807,灰色,はいいろ,,,"ash color, gray"
-1263,バイオリン,ばいおりん,,,violin
-1694,ハイキング,はいきんぐ,,,hiking
-1302,バイク,ばいく,,,motorcycle
-1381,背景,はいけい,,,"background, backdrop"
-1633,灰皿,はいざら,,,ashtray
-1071,歯医者,はいしゃ,,,dentist
-1310,配達,はいたつ,,,delivery
-1423,売店,ばいてん,,,"booth, shop"
-2374,バイト,ばいと,,,part-time job
-2544,パイナップル,ぱいなっぷる,,,pineapple
-261,入る,はいる,,,enter
-1390,ばか,ばか,,,"foolish, stupid"
-1731,葉書,はがき,,,postcard
-509,履く,はく,,,"put on (shoes), wear (pants, skirt)"
-1732,掃く,はく,,,sweep
-2620,白菜,はくさい,,,Chinese cabbage
-1839,拍手,はくしゅ,,,"applause, clapping"
-2615,白線,はくせん,,,white (warning) line
-1178,博物館,はくぶつかん,,,museum
-1567,激しい,はげしい,,,"violent, intense"
-977,励ます,はげます,,,"encourage, cheer up"
-1148,箱,はこ,,,"box, case"
-653,運ぶ,はこぶ,,,"carry, transport"
-1666,鋏,はさみ,,,scissors
-548,橋,はし,,,bridge
-1553,箸,はし,,,chopsticks
-226,始まる,はじまる,,,begin
-970,初め,はじめ,,,beginning
-2424,始め,はじめ,,,"beginning, initial part"
-429,初めて,はじめて,,,for the first time
-1810,始めに,はじめに,,,"in the beginning, first"
+1610,糊,のり,풀,,"glue, starch"
+2587,乗り遅れる,のりおくれる,늦어서 못 타다,,"miss (a train, bus, etc.)"
+2644,乗り降り,のりおり,승하차,,getting on and off
+1632,乗り換え,のりかえ,환승,,"transfer, change (trains)"
+747,乗り換える,のりかえる,갈아타다,,"change, transfer"
+1437,乗り物,のりもの,탈것,,"vehicle, transportation"
+180,乗る,のる,타다,,"ride, take"
+2196,のろのろ,のろのろ,꾸물꾸물,,"slowly, sluggishly"
+1397,のんびり,のんびり,느긋하게,,take it easy
+296,歯,は,이,,tooth
+1191,葉,は,잎,,leaf
+2697,場,ば,장,,"occasion, situation"
+656,場合,ばあい,경우,,"situation, case"
+2506,バーゲン,ばーげん,마겐,,bargain sale
+1837,パーセント,ぱーせんと,퍼센트,,percent
+931,パーティー,ぱーてぃー,파티,,party
+500,パート,ぱーと,아르바이트,,part-time
+2439,ハードウェア,はーどうぇあ,하드웨어,,hardware
+1886,灰,はい,재,,ashes
+2823,倍,ばい,배,,"double, times"
+1807,灰色,はいいろ,회색,,"ash color, gray"
+1263,バイオリン,ばいおりん,바이올린,,violin
+1694,ハイキング,はいきんぐ,하이킹,,hiking
+1302,バイク,ばいく,오토바이,,motorcycle
+1381,背景,はいけい,배경,,"background, backdrop"
+1633,灰皿,はいざら,재털이,,ashtray
+1071,歯医者,はいしゃ,치과의사,,dentist
+1310,配達,はいたつ,배달,,delivery
+1423,売店,ばいてん,매점,,"booth, shop"
+2374,バイト,ばいと,알바,,part-time job
+2544,パイナップル,ぱいなっぷる,파인애플,,pineapple
+261,入る,はいる,"들어가다, 들어오다",,enter
+1390,ばか,ばか,바보,,"foolish, stupid"
+1731,葉書,はがき,엽서,,postcard
+509,履く,はく,신다,,"put on (shoes), wear (pants, skirt)"
+1732,掃く,はく,쓸다,,sweep
+2620,白菜,はくさい,배추,,Chinese cabbage
+1839,拍手,はくしゅ,박수,,"applause, clapping"
+2615,白線,はくせん,하얀 줄,,white (warning) line
+1178,博物館,はくぶつかん,박물관,,museum
+1567,激しい,はげしい,격하다,,"violent, intense"
+977,励ます,はげます,격려하다,,"encourage, cheer up"
+1148,箱,はこ,상하,,"box, case"
+653,運ぶ,はこぶ,욺기다,,"carry, transport"
+1666,鋏,はさみ,가위,,scissors
+548,橋,はし,다리,,bridge
+1553,箸,はし,젓가락,,chopsticks
+226,始まる,はじまる,시작하다,,begin
+970,初め,はじめ,처음,,beginning
+2424,始め,はじめ,시작,,"beginning, initial part"
+429,初めて,はじめて,처음으로,,for the first time
+1810,始めに,はじめに,먼저,,"in the beginning, first"
 51,始める,はじめる,시작하다,,start (something)
-1603,パジャマ,ぱじゃま,,,pajamas
-622,場所,ばしょ,,,"place, space"
+1603,パジャマ,ぱじゃま,파자마,,pajamas
+622,場所,ばしょ,장소,,"place, space"
 76,走る,はしる,"달리다, 뛰다",,run
-469,バス,ばす,,,bus
-1229,恥ずかしい,はずかしい,,,"embarrassed, ashamed"
-1612,バスケットボール,ばすけっとぼーる,,,basketball
-753,バス停,ばすてい,,,bus stop
-479,パスポート,ぱすぽーと,,,passport
-727,パソコン,ぱそこん,,,personal computer
-1905,肌,はだ,,,"human skin, surface"
-1484,バター,ばたー,,,butter
-1695,畑,はたけ,,,"field, farm"
-2605,裸足,はだし,,,bare feet
-1079,二十歳,はたち,,,20 years old
+469,バス,ばす,버스,,bus
+1229,恥ずかしい,はずかしい,부끄럽다,,"embarrassed, ashamed"
+1612,バスケットボール,ばすけっとぼーる,농구,,basketball
+753,バス停,ばすてい,버스 정류장,,bus stop
+479,パスポート,ぱすぽーと,여권,,passport
+727,パソコン,ぱそこん,PC(피시),,personal computer
+1905,肌,はだ,피부,,"human skin, surface"
+1484,バター,ばたー,버터,,butter
+1695,畑,はたけ,밭,,"field, farm"
+2605,裸足,はだし,맨발,,bare feet
+1079,二十歳,はたち,스무 살,,20 years old
 62,働く,はたらく,일하다,,work
-306,八,はち,,,eight
-1424,パチンコ,ぱちんこ,,,pachinko (Japanese pinball)
-2535,バツ,ばつ,,,"cross, x-mark (on errors, mistakes etc.)"
-322,二十日,はつか,,,"20 days, 20th of the month"
-604,はっきり,はっきり,,,clearly
-2683,バック,ばっく,,,"back, reverse"
-1264,バッグ,ばっぐ,,,bag
-1860,発見,はっけん,,,"discovery, revelation"
-2072,発言,はつげん,,,"utterance, remark"
-2820,発行,はっこう,,,"publication, issue"
-2339,バッジ,ばっじ,,,badge
-1485,発車,はっしゃ,,,departure (of a vehicle)
-2816,発展,はってん,,,"development, expansion"
-2566,はっと,はっと,,,"taken aback, startled"
-2489,葉っぱ,はっぱ,,,leaf
-2809,発売,はつばい,,,"launch, release (of a product)"
-1747,発表,はっぴょう,,,announcement
-2520,初詣,はつもうで,,,first shrine visit of the new year
-2475,鳩,はと,,,"pigeon, dove"
-1416,パトカー,ぱとかー,,,police car
-217,鼻,はな,,,nose
-388,花,はな,,,flower
-424,話,はなし,,,"talk, story"
-2402,話し合い,はなしあい,,,"talk, discussion"
-616,話し合う,はなしあう,,,"discuss, talk over"
-2170,話し掛ける,はなしかける,,,"start a conversation, speak to (someone)"
-2639,話し声,はなしごえ,,,talking voice
-199,話す,はなす,,,"speak, talk"
-1414,バナナ,ばなな,,,banana
-1554,花見,はなみ,,,flower viewing
-2898,離れる,はなれる,,,get away from
-347,母,はは,,,(speaker’s) mother
-1705,母親,ははおや,,,"mother, female parent"
-497,歯ブラシ,はぶらし,,,toothbrush
-1642,歯磨き,はみがき,,,brushing one’s teeth
-1634,ハム,はむ,,,ham
+306,八,はち,"여덟, 팔",固有語数詞では「여덟」、漢字語数詞では「팔」,eight
+1424,パチンコ,ぱちんこ,파친코,,pachinko (Japanese pinball)
+2535,バツ,ばつ,엑스표,,"cross, x-mark (on errors, mistakes etc.)"
+322,二十日,はつか,20일,,"20 days, 20th of the month"
+604,はっきり,はっきり,분명히,,clearly
+2683,バック,ばっく,백,,"back, reverse"
+1264,バッグ,ばっぐ,가방,,bag
+1860,発見,はっけん,발견,,"discovery, revelation"
+2072,発言,はつげん,발언,,"utterance, remark"
+2820,発行,はっこう,발행,,"publication, issue"
+2339,バッジ,ばっじ,뱃지,,badge
+1485,発車,はっしゃ,출발,,departure (of a vehicle)
+2816,発展,はってん,발전,,"development, expansion"
+2566,はっと,はっと,번쩍,,"taken aback, startled"
+2489,葉っぱ,はっぱ,이파리,,leaf
+2809,発売,はつばい,발매,,"launch, release (of a product)"
+1747,発表,はっぴょう,발표,,announcement
+2520,初詣,はつもうで,새해 첫 참배,,first shrine visit of the new year
+2475,鳩,はと,비둘기,,"pigeon, dove"
+1416,パトカー,ぱとかー,경찰차,,police car
+217,鼻,はな,코,,nose
+388,花,はな,꽃,,flower
+424,話,はなし,이야기,,"talk, story"
+2402,話し合い,はなしあい,논의,,"talk, discussion"
+616,話し合う,はなしあう,논의하다,,"discuss, talk over"
+2170,話し掛ける,はなしかける,말을 걸다,,"start a conversation, speak to (someone)"
+2639,話し声,はなしごえ,말 소리,,talking voice
+199,話す,はなす,"말하다, 이야기하다",内容が短ければ「말하다」、長ければ「이야기하다」,"speak, talk"
+1414,バナナ,ばなな,바나나,,banana
+1554,花見,はなみ,꽃구경,,flower viewing
+2898,離れる,はなれる,떠나다,,get away from
+347,母,はは,어머니,,(speaker’s) mother
+1705,母親,ははおや,어머니,,"mother, female parent"
+497,歯ブラシ,はぶらし,치솔,,toothbrush
+1642,歯磨き,はみがき,양치질,,brushing one’s teeth
+1634,ハム,はむ,햄,,ham
 99,早い,はやい,이르바,,early
 146,速い,はやい,빠르다,,fast
-1616,早起き,はやおき,,,getting up early
-933,早く,はやく,,,"early, soon"
-1562,早口,はやぐち,,,speaking fast
-1216,速さ,はやさ,,,speed
-1217,林,はやし,,,"woods, forest"
-588,流行る,はやる,,,"be in fashion, be popular"
-1755,ばら,ばら,,,rose
+1616,早起き,はやおき,일찍 일어나다,,getting up early
+933,早く,はやく,빨리,,"early, soon"
+1562,早口だ,はやくちだ,말이 빠르다,,speaking fast
+1216,速さ,はやさ,속도,,speed
+1217,林,はやし,숲,,"woods, forest"
+588,流行る,はやる,유행하다,,"be in fashion, be popular"
+1755,薔薇,ばら,장미,,rose
 123,払う,はらう,털다,,"pay (money, respect, attention, etc.)"
-2568,ばらばら,ばらばら,,,"separately, discretely"
-2996,バランス,ばらんす,,,balance
-2164,張り切る,はりきる,,,"go all out, be full of energy (to do something)"
+2568,ばらばら,ばらばら,산산조각,,"separately, discretely"
+2996,バランス,ばらんす,밸런스,,balance
+2164,張り切る,はりきる,분발하다,,"go all out, be full of energy (to do something)"
 53,春,はる,봄,,spring
-1826,貼る,はる,,,"stick, paste, put"
-752,晴れ,はれ,,,"fine weather, clear sky"
-1486,バレーボール,ばれーぼーる,,,volleyball
-251,晴れる,はれる,,,"be sunny, clear up"
-2504,腫れる,はれる,,,"swell up, be swollen"
-232,晩,ばん,,,"evening, night (from sunset to bedtime)"
-1766,番,ばん,,,"one’s turn, watch"
-1130,パン,ぱん,,,bread
-2873,範囲,はんい,,,"range, scope"
-735,ハンカチ,はんかち,,,handkerchief
-2325,パンク,ぱんく,,,flat tire
-934,番組,ばんぐみ,,,program
-600,半月,はんげつ,,,half a month
-1128,番号,ばんごう,,,assigned number
-2860,犯罪,はんざい,,,"offense, crime"
-1815,半袖,はんそで,,,short sleeves
-655,反対,はんたい,,,"oppose, object"
-1577,判断,はんだん,,,"judgment, decision"
-2102,パンツ,ぱんつ,,,"pants, trousers"
-2040,ハンドバッグ,はんどばっぐ,,,handbag
-599,半日,はんにち,,,half a day
-1363,半年,はんねん,,,half a year
-1417,ハンバーガー,はんばーがー,,,hamburger
-1929,販売,はんばい,,,"sale, selling"
-710,半分,はんぶん,,,half
-257,日,ひ,,,counter for days
-971,火,ひ,,,"fire, flame"
-1350,日,ひ,,,"(specific) day, sun, daytime"
-1152,ピアノ,ぴあの,,,piano
-2434,ビーチ,びーち,,,beach
-932,ビール,びーる,,,beer
-1357,冷える,ひえる,,,"cool down, get chilled"
-2791,被害,ひがい,,,"damage, harm"
-2140,日帰り,ひがえり,,,a day trip
-2858,比較,ひかく,,,comparison
-1654,日陰,ひかげ,,,shade of the sun
-973,東,ひがし,,,"east, eastern"
-2173,ぴかぴか,ぴかぴか,,,"shiny, glittering"
-1153,光る,ひかる,,,"shine, emit light, sparkle"
-1555,引き出し,ひきだし,,,drawer
-162,引く,ひく,,,"draw, pull"
-1840,弾く,ひく,,,play (instruments)
-190,低い,ひくい,,,"low, short"
-1688,ピクニック,ぴくにっく,,,picnic
-1471,ひげ,ひげ,,,"beard, moustache"
+1826,貼る,はる,붙이다,,"stick, paste, put"
+752,晴れ,はれ,맑음,,"fine weather, clear sky"
+1486,バレーボール,ばれーぼーる,배구,,volleyball
+251,晴れる,はれる,개다,,"be sunny, clear up"
+2504,腫れる,はれる,붙다,,"swell up, be swollen"
+232,晩,ばん,밤,,"evening, night (from sunset to bedtime)"
+1766,番,ばん,차례,,"one’s turn, watch"
+1130,パン,ぱん,빵,,bread
+2873,範囲,はんい,범위,,"range, scope"
+735,ハンカチ,はんかち,손수건,,handkerchief
+2325,パンク,ぱんく,펑크,,flat tire
+934,番組,ばんぐみ,프로그램,,program
+600,半月,はんげつ,반 달,,half a month
+1128,番号,ばんごう,번호,,assigned number
+2860,犯罪,はんざい,범죄,,"offense, crime"
+1815,半袖,はんそで,반팔,,short sleeves
+655,反対,はんたい,반대,,"oppose, object"
+1577,判断,はんだん,판단,,"judgment, decision"
+2102,パンツ,ぱんつ,팬티,,"pants, trousers"
+2040,ハンドバッグ,はんどばっぐ,핸드백,,handbag
+599,半日,はんにち,반나절,,half a day
+1363,半年,はんねん,반년,,half a year
+1417,ハンバーガー,はんばーがー,햄버거,,hamburger
+1929,販売,はんばい,판매,,"sale, selling"
+710,半分,はんぶん,반,,half
+257,日,ひ,날,日付の日,counter for days
+971,火,ひ,불,,"fire, flame"
+1350,日,ひ,해,太陽,"(specific) day, sun, daytime"
+1152,ピアノ,ぴあの,피나오,,piano
+2434,ビーチ,びーち,해변,,beach
+932,ビール,びーる,맥주,,beer
+1357,冷える,ひえる,차가워지다,,"cool down, get chilled"
+2791,被害,ひがい,피해,,"damage, harm"
+2140,日帰り,ひがえり,당일치기,,a day trip
+2858,比較,ひかく,비교,,comparison
+1654,日陰,ひかげ,그늘,,shade of the sun
+973,東,ひがし,동쪽,,"east, eastern"
+2173,ぴかぴか,ぴかぴか,반짝반짝,,"shiny, glittering"
+1153,光る,ひかる,빛나다,,"shine, emit light, sparkle"
+1555,引き出し,ひきだし,서랍,,drawer
+162,引く,ひく,당기다,,"draw, pull"
+1840,弾く,ひく,치다,,play (instruments)
+190,低い,ひくい,낮다,,"low, short"
+1688,ピクニック,ぴくにっく,소풍,,picnic
+1471,ひげ,ひげ,수염,,"beard, moustache"
 117,飛行機,ひこうき,비행기,,airplane
-663,膝,ひざ,,,knee
-1238,ビザ,びざ,,,visa
-1106,久しぶり,ひさしぶり,,,after a long time
-664,肘,ひじ,,,elbow
-2233,ビジネス,びじねす,,,business
-1389,美術館,びじゅつかん,,,art museum
-2687,非常,ひじょう,,,emergency
-2576,非常口,ひじょうぐち,,,emergency exit
-795,非常に,ひじょうに,,,"very, extremely"
-2533,びしょびしょ,びしょびしょ,,,"soaking wet, soaked"
-1499,美人,びじん,,,beautiful woman
-323,左,ひだり,,,left
-523,左側,ひだりがわ,,,left side
-2332,左利き,ひだりきき,,,left-handedness
-1150,左手,ひだりて,,,left hand
-2610,ぴたりと,ぴたりと,,,"suddenly, coming to a dead stop"
-2612,筆記用具,ひっきようぐ,,,"pens and pencils, writing materials"
-1110,びっくりする,びっくりする,,,"be surprised, be startled (casual)"
-2609,日付け,ひづけ,,,"date (written in a document, etc.)"
-1351,引っ越し,ひっこし,,,moving (house)
-1180,引っ越す,ひっこす,,,"move, relocate"
-2348,びっしょり,びっしょり,,,"drenched, soaked"
-1908,ぴったり,ぴったし,,,"exactly right, perfect"
-1270,引っ張る,ひっぱる,,,"pull, drag"
-402,必要,ひつよう,,,"need, necessary"
-2942,否定,ひてい,,,"denial, negation"
-935,ビデオ,びでお,,,video
-359,人,ひと,,,person
-1113,ひどい,ひどい,,,"cruel, awful"
-1772,一言,ひとこと,,,"single word, brief speech"
-2222,人混み,ひとごみ,,,crowd
-2527,人差し指,ひとさしゆび,,,"index finger, forefinger"
-2642,人違い,ひとちがい,,,mistaken identity
+663,膝,ひざ,무릎,,knee
+1238,ビザ,びざ,비자,,visa
+1106,久しぶり,ひさしぶり,오래간만이다,,after a long time
+664,肘,ひじ,팔꿈치,,elbow
+2233,ビジネス,びじねす,비즈니스,,business
+1389,美術館,びじゅつかん,미술관,,art museum
+2687,非常,ひじょう,비상,,emergency
+2576,非常口,ひじょうぐち,비상구,,emergency exit
+795,非常に,ひじょうに,아주,,"very, extremely"
+2533,びしょびしょ,びしょびしょ,축축,,"soaking wet, soaked"
+1499,美人,びじん,비인,,beautiful woman
+323,左,ひだり,왼쪽,,left
+523,左側,ひだりがわ,왼쪽,,left side
+2332,左利き,ひだりきき,왼손잡이,,left-handedness
+1150,左手,ひだりて,왼손,,left hand
+2610,ぴたりと,ぴたりと,딱,,"suddenly, coming to a dead stop"
+2612,筆記用具,ひっきようぐ,필기도구,,"pens and pencils, writing materials"
+1110,びっくりする,びっくりする,깜짝 놀라다,,"be surprised, be startled (casual)"
+2609,日付け,ひづけ,날짜,,"date (written in a document, etc.)"
+1351,引っ越し,ひっこし,이사,,moving (house)
+1180,引っ越す,ひっこす,이사하다,,"move, relocate"
+2348,びっしょり,びっしょり,흠뻑,,"drenched, soaked"
+1908,ぴったり,ぴったし,딱,,"exactly right, perfect"
+1270,引っ張る,ひっぱる,당기다,,"pull, drag"
+402,必要,ひつよう,필요,,"need, necessary"
+2942,否定,ひてい,부정,,"denial, negation"
+935,ビデオ,びでお,비디오,,video
+359,人,ひと,사람,,person
+1113,ひどい,ひどい,너무하다,,"cruel, awful"
+1772,一言,ひとこと,한 마디,,"single word, brief speech"
+2222,人混み,ひとごみ,인파,,crowd
+2527,人差し指,ひとさしゆび,검지,,"index finger, forefinger"
+2642,人違いする,ひとちがいする,다른 사람으로 착각하다,,mistaken identity
 46,一つ,ひとつ,한 개,,one (thing)
-1074,ひととき,ひととき,,,"some moments, a while"
-1891,人々,ひとびと,,,people
-360,一人,ひとり,,,one person
-532,一人で,ひとりで,,,"by oneself, alone"
-2169,一人一人,ひとりひとり,,,each and every person
-1315,ビニール,びにーる,,,"plastic, vinyl"
-2204,日にち,ひにち,,,date (fixed for something)
-1391,暇,ひま,,,"free time, spare time"
-1000,秘密,ひみつ,,,"secret, privacy"
-1841,ひも,ひも,,,"laces, string"
-397,百,ひゃく,,,hundred
-1446,冷やす,ひやす,,,"chill (something), cool down"
-2471,百貨店,ひゃっかてん,,,department store
-2907,費用,ひよう,,,"expense, cost"
-461,病院,びょういん,,,hospital
-1862,美容院,びよういん,,,hair salon
+1074,ひととき,ひととき,한 때,,"some moments, a while"
+1891,人々,ひとびと,사람들,,people
+360,一人,ひとり,한 명,,one person
+532,一人で,ひとりで,혼자,,"by oneself, alone"
+2169,一人一人,ひとりひとり,한 명 한 명,,each and every person
+1315,ビニール,びにーる,비닐,,"plastic, vinyl"
+2204,日にち,ひにち,날짜,,date (fixed for something)
+1391,暇だ,ひまだ,한가하다,,"free time, spare time"
+1000,秘密,ひみつ,비밀,,"secret, privacy"
+1841,紐,ひも,끈,,"laces, string"
+397,百,ひゃく,백,,hundred
+1446,冷やす,ひやす,식히다,,"chill (something), cool down"
+2471,百貨店,ひゃっかてん,백화점,,department store
+2907,費用,ひよう,비용,,"expense, cost"
+461,病院,びょういん,병원,,hospital
+1862,美容院,びよういん,미용실,,hair salon
 118,病気,びょうき,병,,illness
-1943,表現,ひょうげん,,,expression
-2968,標準,ひょうじゅん,,,"standard, norm"
-2493,病人,びょうにん,,,sick person
-2478,ひょっとしたら,ひょっとしたら,,,perhaps
-270,平仮名,ひらがな,,,hiragana
-404,開く,ひらく,,,open
-211,昼,ひる,,,"daytime, midday"
-952,ビル,びる,,,building
-1842,昼過ぎ,ひるすぎ,,,early afternoon
-1514,昼寝,ひるね,,,nap
-774,昼間,ひるま,,,"daytime, during the day"
-1706,昼前,ひるまえ,,,"in the morning, before noon"
-1527,昼休み,ひるやすみ,,,lunch break
+1943,表現,ひょうげん,표현,,expression
+2968,標準,ひょうじゅん,표준,,"standard, norm"
+2493,病人,びょうにん,환자,,sick person
+2478,ひょっとしたら,ひょっとしたら,어쩌면,,perhaps
+270,平仮名,ひらがな,히라가나,,hiragana
+404,開く,ひらく,"열다, 열리다",ドアを「열다」、ドアが「열리다」,open
+211,昼,ひる,낮,,"daytime, midday"
+952,ビル,びる,빌딩,,building
+1842,昼過ぎ,ひるすぎ,점심 때 지나서,,early afternoon
+1514,昼寝,ひるね,낮잠,,nap
+774,昼間,ひるま,낮,,"daytime, during the day"
+1706,昼前,ひるまえ,점심 때 전에,,"in the morning, before noon"
+1527,昼休み,ひるやすみ,점심 휴게 시간,,lunch break
 72,広い,ひろい,넓다,,"wide, big"
-1159,拾う,ひろう,,,pick up
-1953,広がる,ひろがる,,,"spread out, extend"
-1225,広さ,ひろさ,,,"area, extent"
-1296,広まる,ひろまる,,,"spread, get around"
-565,瓶,びん,,,bottle
-1358,ピンク,ぴんく,,,pink
-2292,ヒント,ひんと,,,"hint, clue"
-1341,貧乏,びんぼう,,,"poverty, destitution"
-2388,ファッション,ふぁっしょん,,,fashion
-2242,ファン,ふぁん,,,"fan, admirer"
-2824,不安,ふあん,,,"uneasy, worried"
-1583,フィルム,ふぃるむ,,,film
-1312,封筒,ふうとう,,,envelope
-990,夫婦,ふうふ,,,"husband and wife, married couple"
-2289,ブーム,ぶーむ,,,"fad, boom"
-1151,プール,ぷーる,,,pool
-415,増える,ふえる,,,"increase, accrue"
-563,フォーク,ふぉーく,,,fork
-707,深い,ふかい,,,"deep, profound"
-2047,深さ,ふかさ,,,"depth, profundity"
-2375,不可能,ふかのう,,,impossible
-206,服,ふく,,,clothes (colloquial)
-1168,拭く,ふく,,,"wipe, dry"
-1587,吹く,ふく,,,"blow, play (a wind instrument)"
-796,複雑,ふくざつ,,,"complicated, intricate"
-574,復習,ふくしゅう,,,review
-2728,含む,ふくむ,,,"contain, include"
-2770,含める,ふくめる,,,include
-1813,袋,ふくろ,,,"bag, sack"
-1200,不幸,ふこう,,,"unhappiness, misfortune"
-2132,ふざける,ふざける,,,"mess around, fool around"
-1763,不思議,ふしぎ,,,"mystery, wonder"
-2451,不自然,ふしぜん,,,"unnatural, artificial"
-1793,不親切,ふしんせつ,,,"unkind, inconsiderate"
-1498,襖,ふすま,,,paper sliding door
-2982,不足,ふそく,,,"lack, shortage"
-2125,蓋,ふた,,,"lid, cover"
-1716,豚,ぶた,,,pig
-2938,舞台,ぶたい,,,"stage, setting"
-1599,再び,ふたたび,,,"again, a second time"
-283,二つ,ふたつ,,,two (things)
-1133,豚肉,ぶたにく,,,pork
-771,二人,ふたり,,,two persons
-2238,負担,ふたん,,,"burden, charge"
-1176,普段,ふだん,,,"usual, ordinary"
-2381,部長,ぶちょう,,,department head
-711,普通,ふつう,,,"normal, regular"
-324,二日,ふつか,,,"two days, second of the month"
-1120,ぶつかる,ぶつかる,,,"hit, bump into"
-2184,ぶつぶつ,ぶつぶつ,,,"in a mutter, mumble"
-231,太い,ふとい,,,"thick, fat"
-1245,ぶどう,ぶどう,,,grapes
-1849,不動産屋,ふどうさんや,,,real estate agent
-1333,太る,ふとる,,,"grow fat, gain weight"
-1438,布団,ふとん,,,Japanese-style padded mattress
-2068,船便,ふなびん,,,"surface mail, shipping service"
-1843,船,ふね,,,"ship, vessel"
-1167,部分,ぶぶん,,,"part, section"
-1515,不便,ふべん,,,inconvenient
-1465,踏切,ふみきり,,,railroad crossing
-1154,踏む,ふむ,,,"step on, tread on"
-936,増やす,ふやす,,,increase
+1159,拾う,ひろう,줍다,,pick up
+1953,広がる,ひろがる,넓어지다,,"spread out, extend"
+1225,広さ,ひろさ,넓이,,"area, extent"
+1296,広まる,ひろまる,퍼지다,,"spread, get around"
+565,瓶,びん,병,,bottle
+1358,ピンク,ぴんく,분홍색,,pink
+2292,ヒント,ひんと,힌트,,"hint, clue"
+1341,貧乏だ,びんぼうだ,가난하다,,"poverty, destitution"
+2388,ファッション,ふぁっしょん,패션,,fashion
+2242,ファン,ふぁん,팬,,"fan, admirer"
+2824,不安,ふあん,불안,,"uneasy, worried"
+1583,フィルム,ふぃるむ,필름,,film
+1312,封筒,ふうとう,봉투,,envelope
+990,夫婦,ふうふ,부부,,"husband and wife, married couple"
+2289,ブーム,ぶーむ,붐,,"fad, boom"
+1151,プール,ぷーる,수영장,,pool
+415,増える,ふえる,늘다,,"increase, accrue"
+563,フォーク,ふぉーく,포크,,fork
+707,深い,ふかい,깊다,,"deep, profound"
+2047,深さ,ふかさ,깊이,,"depth, profundity"
+2375,不可能,ふかのう,불가능,,impossible
+206,服,ふく,옷,,clothes (colloquial)
+1168,拭く,ふく,닦다,,"wipe, dry"
+1587,吹く,ふく,불다,,"blow, play (a wind instrument)"
+796,複雑,ふくざつ,복잡,,"complicated, intricate"
+574,復習,ふくしゅう,복습,,review
+2728,含む,ふくむ,포함하다,,"contain, include"
+2770,含める,ふくめる,포함시키다,,include
+1813,袋,ふくろ,"주머니, 봉투",巾着袋は「주머니」、その他は「봉투」,"bag, sack"
+1200,不幸だ,ふこうだ,불행하다,,"unhappiness, misfortune"
+2132,ふざける,ふざける,장난치다,,"mess around, fool around"
+1763,不思議だ,ふしぎだ,이상하다,,"mystery, wonder"
+2451,不自然だ,ふしぜんだ,부자연스럽다,,"unnatural, artificial"
+1793,不親切だ,ふしんせつだ,불친절하다,,"unkind, inconsiderate"
+1498,襖,ふすま,미닫이문,,paper sliding door
+2982,不足,ふそく,부족,,"lack, shortage"
+2125,蓋,ふた,뚜껑,,"lid, cover"
+1716,豚,ぶた,돼지,,pig
+2938,舞台,ぶたい,"배경, 무대",ドラマなどの舞台は「배경」、ステージは「무대」,"stage, setting"
+1599,再び,ふたたび,다시,,"again, a second time"
+283,二つ,ふたつ,두 개,,two (things)
+1133,豚肉,ぶたにく,돼지 고기,,pork
+771,二人,ふたり,두 명,,two persons
+2238,負担,ふたん,부담,,"burden, charge"
+1176,普段,ふだん,보통,,"usual, ordinary"
+2381,部長,ぶちょう,부장,,department head
+711,普通,ふつう,보통,,"normal, regular"
+324,二日,ふつか,"2일, 이틀",日付は「2일」、期間は「이틀」,"two days, second of the month"
+1120,ぶつかる,ぶつかる,"부딪치다, 부딪히다",意図してぶつかる時は「부딪치다」、そうでなければ「부딪히다」,"hit, bump into"
+2184,ぶつぶつ,ぶつぶつ,증얼증얼,,"in a mutter, mumble"
+231,太い,ふとい,굵다,,"thick, fat"
+1245,葡萄,ぶどう,포도,,grapes
+1849,不動産屋,ふどうさんや,부동산 중개소,,real estate agent
+1333,太る,ふとる,살이 찌다,,"grow fat, gain weight"
+1438,布団,ふとん,이불,,Japanese-style padded mattress
+2068,船便,ふなびん,선편,,"surface mail, shipping service"
+1843,船,ふね,배,,"ship, vessel"
+1167,部分,ぶぶん,부분,,"part, section"
+1515,不便,ふべん,불편,,inconvenient
+1465,踏切,ふみきり,건널목,,railroad crossing
+1154,踏む,ふむ,밟다,,"step on, tread on"
+936,増やす,ふやす,늘리다,,increase
 119,冬,ふゆ,겨울,,winter
-1006,冬休み,ふゆやすみ,,,winter vacation
-2168,フライパン,ふらいぱん,,,frying pan
-739,ブラウス,ぶらうす,,,blouse
-2647,ぶら下がる,ぶらさがる,,,"hang down, dangle"
-1879,ブラシ,ぶらし,,,brush
-1195,プラスチック,ぷらすちっく,,,plastic
-1707,ふらふら,ふらふら,,,"be dizzy, lightheaded"
-1547,ぶらぶら,ぶらぶら,,,"wander, walk around"
-1710,振り向く,ふりむく,,,"turn around, look back"
-550,降る,ふる,,,"fall, come down (rain, snow, etc.)"
-937,振る,ふる,,,"wave, shake"
+1006,冬休み,ふゆやすみ,"겨울 방학, 겨울 휴가",学校のものは「겨울 방학」、会社のものは「겨울 휴가」,winter vacation
+2168,フライパン,ふらいぱん,프라이팬,,frying pan
+739,ブラウス,ぶらうす,브라우스,,blouse
+2647,ぶら下がる,ぶらさがる,매달리다,,"hang down, dangle"
+1879,ブラシ,ぶらし,빗,,brush
+1195,プラスチック,ぷらすちっく,프라스틱,,plastic
+1707,ふらふら,ふらふら,비틀비틀,,"be dizzy, lightheaded"
+1547,ぶらぶら,ぶらぶら,달랑달랑,,"wander, walk around"
+1710,振り向く,ふりむく,뒤돌아보다,,"turn around, look back"
+550,降る,ふる,내리다,,"fall, come down (rain, snow, etc.)"
+937,振る,ふる,휘두르다,,"wave, shake"
 95,古い,ふるい,"오래되다, 낡다",単純に長い年月を経たという意味なら「오래되다」、そのせいでボロボロになっていたら「낡다」。,old
-2454,フルーツ,ふるーつ,,,fruit
-1285,震える,ふるえる,,,"tremble, shake"
-2570,ぶるぶる,ぶるぶる,,,"shivering, trembling"
-1218,プレゼント,ぷれぜんと,,,present (loan word)
-2904,触れる,ふれる,,,"touch, come in contact with"
-578,風呂,ふろ,,,bath
-2786,プロ,ぷろ,,,professional
-433,プログラム,ぷろぐらむ,,,program booklet
-1888,風呂屋,ふろや,,,"bathhouse, public bath"
-2621,プロ野球,ぷろやきゅう,,,professional baseball
-712,分,ぶん,,,"amount, share"
-2872,文,ぶん,,,sentence
-2869,雰囲気,ふんいき,,,"atmosphere, mood"
-713,文化,ぶんか,,,culture
-458,文章,ぶんしょう,,,"sentence, writing"
-2775,分析,ぶんせき,,,analysis
-1655,文房具,ぶんぼうぐ,,,"stationery, writing materials"
-1935,分野,ぶんや,,,"field, area"
-2846,平均,へいきん,,,average
-597,平成,へいせい,,,Heisei era
-2470,閉店,へいてん,,,shop closing
-797,平和,へいわ,,,"peace, harmony"
-996,ページ,ぺーじ,,,page
-2399,ペース,ぺーす,,,pace
-1735,ぺこぺこ,ぺこぺこ,,,"hungry, starving"
-2344,ぺこぺこ,ぺこぺこ,,,"bow, kowtow"
-2276,ベスト,べすと,,,best
-530,下手,へた,,,not good at
-2606,べたべた,べたべた,,,"stick together, sticky"
+2454,フルーツ,ふるーつ,과일,,fruit
+1285,震える,ふるえる,떨다,,"tremble, shake"
+2570,ぶるぶる,ぶるぶる,덜덜,,"shivering, trembling"
+1218,プレゼント,ぷれぜんと,선물,,present (loan word)
+2904,触れる,ふれる,만지다,,"touch, come in contact with"
+578,風呂,ふろ,목욕,,bath
+2786,プロ,ぷろ,프로,,professional
+433,プログラム,ぷろぐらむ,프로그램,,program booklet
+1888,風呂屋,ふろや,목욕탕,,"bathhouse, public bath"
+2621,プロ野球,ぷろやきゅう,프로야구,,professional baseball
+712,分,ぶん,몫,,"amount, share"
+2872,文,ぶん,글,,sentence
+2869,雰囲気,ふんいき,분위기,,"atmosphere, mood"
+713,文化,ぶんか,문화,,culture
+458,文章,ぶんしょう,글,,"sentence, writing"
+2775,分析,ぶんせき,분석,,analysis
+1655,文房具,ぶんぼうぐ,문구,,"stationery, writing materials"
+1935,分野,ぶんや,분야,,"field, area"
+2846,平均,へいきん,평균,,average
+597,平成,へいせい,헤이세이,,Heisei era
+2470,閉店,へいてん,"영업 끝, 폐점",営業時間の終わりは「영업 끝」、店が無くなるのは「페점」,shop closing
+797,平和,へいわ,평화,,"peace, harmony"
+996,ページ,ぺーじ,페이지,,page
+2399,ペース,ぺーす,페이스,,pace
+1735,ぺこぺこだ,ぺこぺこだ,배 고프다,空腹,"hungry, starving"
+2344,ぺこぺこする,ぺこぺこする,굽신굽신하다,お辞儀,"bow, kowtow"
+2276,ベスト,べすと,최선,,best
+530,下手だ,へただ,못하다,「～が下手だ」は「-를/을 못하다」,not good at
+2606,べたべた,べたべた,끈적끈적,,"stick together, sticky"
 55,別だ,べつだ,다르다,,"another, different"
-1186,ベッド,べっど,,,bed
-1701,別に,べつに,,,"particularly, not really"
-1155,別々,べつべつ,,,separately
-2463,蛇,へび,,,snake
+1186,ベッド,べっど,침대,,bed
+1701,別に,べつに,"별로, 따로",否定表現と一緒に使う時は「별로」、それとは別にという時は「따로」,"particularly, not really"
+1155,別々,べつべつ,따로,,separately
+2463,蛇,へび,뱀,,snake
 57,部屋,へや,방,,room
-1387,減らす,へらす,,,reduce (something)
-1736,ぺらぺら,ぺらぺら,,,fluently
-439,減る,へる,,,"decrease, diminish"
-1505,ベル,べる,,,bell
-1528,ベルト,べると,,,belt
-398,辺,へん,,,vicinity
-1428,変,へん,,,"strange, weird"
-1321,ペン,ぺん,,,pen
-1945,変化,へんか,,,"change, alteration"
+1387,減らす,へらす,줄이다,,reduce (something)
+1736,ぺらぺらだ,ぺらぺらだ,유창하다,,fluently
+439,減る,へる,줄다,,"decrease, diminish"
+1505,ベル,べる,종,,bell
+1528,ベルト,べると,벨트,,belt
+398,辺,へん,변,,vicinity
+1428,変だ,へんだ,이상하다,,"strange, weird"
+1321,ペン,ぺん,펜,,pen
+1945,変化,へんか,변화,,"change, alteration"
 111,勉強,べんきょう,공부,,study
-2765,変更,へんこう,,,"alteration, change"
-2361,弁護士,べんごし,,,"lawyer, attorney"
-788,返事,へんじ,,,"reply, answer, response"
-2771,編集,へんしゅう,,,editing
-1219,弁当,べんとう,,,boxed lunch
-1107,便利,べんり,,,convenience
-2432,保育園,ほいくえん,,,"day-care center, nursery school"
-2197,ポイント,ぽいんと,,,point
-363,方,ほう,,,"direction, side"
-590,方,ほう,,,person (polite form)
-2686,法,ほう,,,"law, rule"
-2065,貿易,ぼうえき,,,(export and import) trade
-950,方向,ほうこう,,,"direction, course"
-1963,報告,ほうこく,,,report
-737,帽子,ぼうし,,,"hat, cap"
-1581,放送,ほうそう,,,broadcasting
-2484,包丁,ほうちょう,,,kitchen knife
-2483,忘年会,ぼうねんかい,,,year-end party
-1366,方法,ほうほう,,,"method, procedure"
-2947,訪問,ほうもん,,,visit
-1745,法律,ほうりつ,,,law
-2278,暴力,ぼうりょく,,,"violence, force"
-2545,ほうれん草,ほうれんそう,,,spinach
-1696,ボーイフレンド,ぼーいふれんど,,,boyfriend
-1192,ボート,ぼーと,,,"light boat, small craft"
-1179,ホーム,ほーむ,,,platform (for short)
-1156,ボール,ぼーる,,,ball
-1604,ボールペン,ぼーるぺん,,,ballpoint pen
-364,他,ほか,,,other (Japanese origin)
-1572,他,ほか,,,other (Chinese origin)
-2583,ぽかぽか,ぽかぽか,,,pleasantly warm
-365,僕,ぼく,,,"I, me (usually used by young males)"
-1242,ポケット,ぽけっと,,,pocket
-1830,星,ほし,,,"star, planet"
-366,欲しい,ほしい,,,"want, desire (of the speaker)"
-1615,欲しがる,ほしがる,,,"want, desire (of the third person)"
-1506,干す（ほす）,ほす,,,hang (something) out to dry
-734,ポスト,ぽすと,,,"postbox, mailbox"
-315,細い,ほそい,,,"thin, slender"
-2651,細長い,ほそながい,,,"long and thin, long and narrow"
-1230,ボタン,ぼたん,,,button
-2352,ほっと,ほっと,,,feel relieved
-2518,ホット,ほっと,,,hot
-2335,ポット,ぽっと,,,"pot, thermos"
-726,ホテル,ほてる,,,hotel
-1352,歩道,ほどう,,,"sidewalk, pavement"
-420,ほとんど,ほとんど,,,"almost, hardly"
-1887,骨,ほね,,,bone
-1370,ほぼ,ほぼ,,,"almost, nearly"
-1717,褒める,ほめる,,,"praise, compliment"
-2447,ボリューム,ぼりゅーむ,,,volume
+2765,変更,へんこう,변경,,"alteration, change"
+2361,弁護士,べんごし,변호사,,"lawyer, attorney"
+788,返事,へんじ,"대답, 답장",言葉なら「대답」、メールなら「답장」,"reply, answer, response"
+2771,編集,へんしゅう,편집,,editing
+1219,弁当,べんとう,도시락,,boxed lunch
+1107,便利,べんり,편리,,convenience
+2432,保育園,ほいくえん,어린이집,,"day-care center, nursery school"
+2197,ポイント,ぽいんと,포인트,,point
+363,方,ほう,쪽,,"direction, side"
+590,方,かた,분,,person (polite form)
+2686,法,ほう,법,,"law, rule"
+2065,貿易,ぼうえき,무역,,(export and import) trade
+950,方向,ほうこう,방향,,"direction, course"
+1963,報告,ほうこく,보고,,report
+737,帽子,ぼうし,모자,,"hat, cap"
+1581,放送,ほうそう,방송,,broadcasting
+2484,包丁,ほうちょう,식칼,,kitchen knife
+2483,忘年会,ぼうねんかい,망년회,,year-end party
+1366,方法,ほうほう,방법,,"method, procedure"
+2947,訪問,ほうもん,방문,,visit
+1745,法律,ほうりつ,법률,,law
+2278,暴力,ぼうりょく,폭력,,"violence, force"
+2545,ほうれん草,ほうれんそう,시금치,,spinach
+1696,ボーイフレンド,ぼーいふれんど,남자 친구,,boyfriend
+1192,ボート,ぼーと,보트,,"light boat, small craft"
+1179,ホーム,ほーむ,타는 곳,駅のホーム,platform (for short)
+1156,ボール,ぼーる,공,,ball
+1604,ボールペン,ぼーるぺん,볼펜,,ballpoint pen
+364,他,ほか,기타,,other (Japanese origin)
+1572,他,た,기타,,other (Chinese origin)
+2583,ぽかぽかする,ぽかぽかする,포근하다,,pleasantly warm
+365,僕,ぼく,나,,"I, me (usually used by young males)"
+1242,ポケット,ぽけっと,주머니,,pocket
+1830,星,ほし,별,,"star, planet"
+366,欲しい,ほしい,갖고 싶다,,"want, desire (of the speaker)"
+1615,欲しがる,ほしがる,갖고 싶어하다,,"want, desire (of the third person)"
+1506,干す,ほす,마르다,,hang (something) out to dry
+734,ポスト,ぽすと,우체통,,"postbox, mailbox"
+315,細い,ほそい,가늘다,,"thin, slender"
+2651,細長い,ほそながい,길쭉하다,,"long and thin, long and narrow"
+1230,ボタン,ぼたん,"단추, 버튼",服のボタンは「단추」、部品のボタンは「버튼」,button
+2352,ほっとする,ほっとする,안심하다,,feel relieved
+2518,ホット,ほっと,따뜻한 것,,hot
+2335,ポット,ぽっと,전기포트,,"pot, thermos"
+726,ホテル,ほてる,호텔,,hotel
+1352,歩道,ほどう,인도,,"sidewalk, pavement"
+420,ほとんど,ほとんど,거의,,"almost, hardly"
+1887,骨,ほね,뼈,,bone
+1370,ほぼ,ほぼ,거의,,"almost, nearly"
+1717,褒める,ほめる,칭찬하다,,"praise, compliment"
+2447,ボリューム,ぼりゅーむ,볼륨,,volume
 38,本,ほん,책,,"book, volume"
-2555,本格的,ほんかくてき,,,"authentic, serious"
-2285,本気,ほんき,,,"serious, earnest"
-2358,本日,ほんじつ,,,today (formal)
-2403,本社,ほんしゃ,,,head office of a company
-1472,本棚,ほんだな,,,"bookshelf, bookcase"
-551,本当,ほんとう,,,"reality, genuine"
-381,本当に,ほんとうに,,,"really, truly"
-2868,本人,ほんにん,,,"the person himself, the said person"
-1795,本箱,ほんばこ,,,bookcase
-1871,本物,ほんもの,,,"real, truly worthy (things, people)"
-749,本屋,ほんや,,,bookstore (colloquial)
-2117,ぼんやり,ぼんやり,,,"vacantly, absent-mindedly"
-2889,本来,ほんらい,,,"originally, primarily"
-1588,まあ,まあ,,,well (interjection)
-2270,マーク,まーく,,,logo
-1874,マーケット,まーけっと,,,market
-761,まあまあ,まあまあ,,,"OK, not bad"
-2131,まあまあ,まあまあ,,,"now now, well well"
-1328,毎朝,まいあさ,,,every morning
-1102,毎週,まいしゅう,,,every week
-598,毎月,まいつき,,,every month
-1980,マイナス,まいなす,,,"minus, below zero"
-714,毎日,まいにち,,,every day
-908,毎年,まいねん,,,every year (colloquial)
-1101,毎年,まいねん,,,every year (formal)
-1338,毎晩,まいばん,,,every evening
-309,前,まえ,,,"front, before"
-2355,前売り券,まえうりけん,,,advance ticket
-669,曲がり角,まがりかど,,,corner (to turn)
-241,曲がる,まがる,,,"make a turn, turn"
-1194,巻く,まく,,,"roll up, wrap"
-1844,まく,まく,,,"scatter, sprinkle"
-665,枕,まくら,,,pillow
-2543,まぐろ,まぐろ,,,tuna
-2011,負け,まけ,,,"defeat, loss"
-489,負ける,まける,,,lose
-1329,曲げる,まげる,,,bend (something)
-625,孫,まご,,,grandchild
-2462,正に,まさに,,,"just, surely"
-1254,真面目,まじめ,,,serious and sincere
-431,まず,まず,,,"first of all, to begin with"
-269,まずい,まずい,,,"bad (taste), distasteful"
-2667,まずい,まずい,,,"problematic, troublesome"
-2267,マスコミ,ますこみ,,,"mass media, media"
-789,また,また,,,"again, also, or"
+2555,本格的,ほんかくてき,본격적,,"authentic, serious"
+2285,本気,ほんき,진심,,"serious, earnest"
+2358,本日,ほんじつ,오늘,,today (formal)
+2403,本社,ほんしゃ,본사,,head office of a company
+1472,本棚,ほんだな,책장,,"bookshelf, bookcase"
+551,本当,ほんとう,정말,,"reality, genuine"
+381,本当に,ほんとうに,정말로,,"really, truly"
+2868,本人,ほんにん,본인,,"the person himself, the said person"
+1795,本箱,ほんばこ,책상자,,bookcase
+1871,本物,ほんもの,진짜,,"real, truly worthy (things, people)"
+749,本屋,ほんや,서점,,bookstore (colloquial)
+2117,ぼんやり,ぼんやり,멍하게,,"vacantly, absent-mindedly"
+2889,本来,ほんらい,원래,,"originally, primarily"
+1588,まあ,まあ,"어머, 뭐",女性が驚いた時は「어머」、出だしの言葉は「뭐」,well (interjection)
+2270,マーク,まーく,표시,,logo
+1874,マーケット,まーけっと,시장,,market
+761,まあまあ,まあまあ,그럭저럭,それほど悪くない,"OK, not bad"
+2131,まあまあ,まあまあ,자 자,人を落ち着かせるときの言葉,"now now, well well"
+1328,毎朝,まいあさ,매일 아침,,every morning
+1102,毎週,まいしゅう,매주,,every week
+598,毎月,まいつき,매달,,every month
+1980,マイナス,まいなす,마이너스,,"minus, below zero"
+714,毎日,まいにち,매일,,every day
+908,毎年,まいとし,매년,,every year (colloquial)
+1101,毎年,まいねん,매년,,every year (formal)
+1338,毎晩,まいばん,매일 밤,,every evening
+309,前,まえ,"앞, 전",位置なら「앞」、時間なら「전」,"front, before"
+2355,前売り券,まえうりけん,예매표,,advance ticket
+669,曲がり角,まがりかど,모통이,,corner (to turn)
+241,曲がる,まがる,돌다,,"make a turn, turn"
+1194,巻く,まく,감다,,"roll up, wrap"
+1844,撒く,まく,뿌리다,,"scatter, sprinkle"
+665,枕,まくら,베개,,pillow
+2543,まぐろ,まぐろ,참치,,tuna
+2011,負ける,まける,패배,,"defeat, loss"
+489,負ける,まける,지다,,lose
+1329,曲げる,まげる,구부리다,,bend (something)
+625,孫,まご,"손자, 소녀",男性なら「손자」、女性なら「손녀」,grandchild
+2462,正に,まさに,바로,,"just, surely"
+1254,真面目だ,まじめだ,성실하다,,serious and sincere
+431,まず,まず,먼저,,"first of all, to begin with"
+269,まずい,まずい,맛없다,美味しいの反対,"bad (taste), distasteful"
+2667,まずい,まずい,큰 일 났다,,"problematic, troublesome"
+2267,マスコミ,ますこみ,대중매체,,"mass media, media"
+789,また,また,또,,"again, also, or"
 24,まだ,まだ,아직,,"(not) yet, still"
-552,町,まち,,,"town, city"
-2328,待ち合わせ,まちあわせ,,,"meeting with someone, appointment"
-1206,間違い,まちがい,,,"mistake, error"
-1430,間違う,まちがう,,,"make a mistake, be wrong"
-958,間違える,まちがえる,,,"make a mistake, fail at"
-189,待つ,まつ,,,"wait, wait for"
-2847,末,まつ,,,"the end, in the end"
-1158,真っ赤,まっか,,,deep red
-1473,真っ暗,まっくら,,,pitch-dark
-1529,真っ黒,まっくろ,,,"black, jet-black"
-1667,真っ青,まっさお,,,"deep-blue, pale"
-1403,真っ白,まっしろ,,,pure-white
-1457,真っ直ぐ,まっすぐ,,,straight
-709,全く,まったく,,,"entirely, truly"
-1189,祭り,まつり,,,festival
-984,窓,まど,,,window
-953,まとめる,まとめる,,,"gather together, put in order"
-1907,まとも,まとも,,,"sane, reasonable"
-2427,マナー,まなー,,,manners
-2611,まな板,まないた,,,chopping board
-2757,学ぶ,まなぶ,,,"learn, study"
-1139,間に合う,まにあう,,,"be in time, suffice"
-1169,招く,まねく,,,invite
-2181,まぶしい,まぶしい,,,"dazzling, glaring"
-2175,まぶた,まぶた,,,eyelid
-1673,マフラー,まふらー,,,"scarf, muffler"
-437,まま,まま,,,"as is, still (in the current state)"
-2211,間もなく,まもなく,,,"soon, in a short time"
-716,守る,まもる,,,"protect, observe"
-575,眉,まゆ,,,eyebrow
-2607,眉毛,まゆげ,,,eyebrows
-1246,迷う,まよう,,,get lost
-2546,マヨネーズ,まよねーず,,,mayonnaise
-1746,丸,まる,,,"circle, round"
-1279,丸い,まるい,,,round
-2969,まるで,まるで,,,just like
-1160,回す,まわす,,,"turn, rotate (something)"
-798,回る,まわる,,,"turn round, go around"
-367,万,まん,,,ten thousand
-1867,漫画,まんが,,,"comics, cartoon"
-982,マンション,まんしょん,,,"apartment, residential building"
-2856,満足,まんぞく,,,"satisfaction, contentment"
-903,真ん中,まんなか,,,"center, middle (casual)"
-2630,真ん丸,まんまる,,,"perfect circle, perfectly round"
-2774,身,み,,,"body, oneself, one’s status"
-243,ミーティング,みーてぃんぐ,,,meeting
-368,見える,みえる,,,"be visible, can see"
-1354,見送り,みおくり,,,send-off
-1123,見送る,みおくる,,,see (someone) off
-2616,見覚え,みおぼえ,,,"recognition, remembrance"
-1286,磨く,みがく,,,"polish, grind"
-785,見方,みかた,,,"view, perspective"
-767,みかん,みかん,,,tangerine
-154,右,みぎ,,,right
-524,右側,みぎがわ,,,right side
-1149,右手,みぎて,,,right hand
+552,町,まち,도시,,"town, city"
+2328,待ち合わせ,まちあわせ,만나는 약속,,"meeting with someone, appointment"
+1206,間違い,まちがい,잘못,,"mistake, error"
+1430,間違う,まちがう,틀리다,単純な成否の問題なら「틀리다」、道徳的な問題なら「잘못하다」,"make a mistake, be wrong"
+958,間違える,まちがえる,틀리다,単純な成否の問題なら「틀리다」、道徳的な問題なら「잘못하다」,"make a mistake, fail at"
+189,待つ,まつ,기다리다,,"wait, wait for"
+2847,末,まつ,말,,"the end, in the end"
+1158,真っ赤だ,まっかだ,새빨갛다,,deep red
+1473,真っ暗だ,まっくらだ,캄캄하다,,pitch-dark
+1529,真っ黒だ,まっくろだ,새까맣다,,"black, jet-black"
+1667,真っ青だ,まっさおだ,새파랗다,,"deep-blue, pale"
+1403,真っ白だ,まっしろだ,새하얗다,,pure-white
+1457,真っ直ぐ,まっすぐ,똑바로,,straight
+709,全く,まったく,전혀,,"entirely, truly"
+1189,祭り,まつり,축제,,festival
+984,窓,まど,창문,,window
+953,まとめる,まとめる,정리하다,,"gather together, put in order"
+1907,まともに,まともに,제대로,,"sane, reasonable"
+2427,マナー,まなー,매너,,manners
+2611,まな板,まないた,도마,,chopping board
+2757,学ぶ,まなぶ,배우다,,"learn, study"
+1139,間に合う,まにあう,늦지 않다,「늦다（遅れる）」の否定形で表現する。,"be in time, suffice"
+1169,招く,まねく,초대하다,,invite
+2181,まぶしい,まぶしい,눈부시다,,"dazzling, glaring"
+2175,まぶた,まぶた,눈꺼풀,,eyelid
+1673,マフラー,まふらー,목도리,,"scarf, muffler"
+437,まま,まま,대로,「そのまま」の「まま」,"as is, still (in the current state)"
+2211,間もなく,まもなく,조만간,,"soon, in a short time"
+716,守る,まもる,지키다,,"protect, observe"
+575,眉,まゆ,눈섭,,eyebrow
+2607,眉毛,まゆげ,눈섭,,eyebrows
+1246,迷う,まよう,헤매다,,get lost
+2546,マヨネーズ,まよねーず,마요네즈,,mayonnaise
+1746,丸,まる,동그람이,,"circle, round"
+1279,丸い,まるい,동그랗다,,round
+2969,まるで,まるで,마치,,just like
+1160,回す,まわす,돌리다,,"turn, rotate (something)"
+798,回る,まわる,"돌다, 돌아가다",,"turn round, go around"
+367,万,まん,만,,ten thousand
+1867,漫画,まんが,만화,,"comics, cartoon"
+982,マンション,まんしょん,아파트,,"apartment, residential building"
+2856,満足,まんぞく,만족,,"satisfaction, contentment"
+903,真ん中,まんなか,가운데,,"center, middle (casual)"
+2630,真ん丸だ,まんまるだ,동글동글하다,,"perfect circle, perfectly round"
+2774,身,み,"몸, 살",体という意味なら「몸」、身体の内部という意味なら「살」,"body, oneself, one’s status"
+243,ミーティング,みーてぃんぐ,미팅,,meeting
+368,見える,みえる,보이다,,"be visible, can see"
+1354,見送り,みおくり,보웅,,send-off
+1123,見送る,みおくる,보내다,,see (someone) off
+2616,見覚え,みおぼえ,본 적,,"recognition, remembrance"
+1286,磨く,みがく,닦다,,"polish, grind"
+785,見方,みかた,보는 방식,,"view, perspective"
+767,蜜柑,みかん,귤,,tangerine
+154,右,みぎ,오른쪽,,right
+524,右側,みぎがわ,오른쪽,,right side
+1149,右手,みぎて,오른손,,right hand
 113,短い,みじかい,짧다,,"short, brief"
-265,水,みず,,,water
-2536,水色,みずいろ,,,light blue
-2009,湖,みずうみ,,,lake
-2825,自ら,みずから,,,"(for) oneself, personally"
-1786,水着,みずぎ,,,"bathing suit, swimsuit"
-399,店,みせ,,,"shop, store"
-2487,未成年,みせいねん,,,"minor, underage"
+265,水,みず,물,,water
+2536,水色,みずいろ,하늘색,韓国語では「하늘（空）＋색（色）」,light blue
+2009,湖,みずうみ,호수,,lake
+2825,自ら,みずから,스스로,,"(for) oneself, personally"
+1786,水着,みずぎ,수용복,,"bathing suit, swimsuit"
+399,店,みせ,가게,,"shop, store"
+2487,未成年,みせいねん,미성년,,"minor, underage"
 105,見せる,みせる,보이다,,show
-2110,味噌,みそ,,,soybean paste
-1617,味噌汁,みそしる,,,miso soup
-369,道,みち,,,"street, way"
-2657,見違える,みちがえる,,,look completely different
-341,三日,みっか,,,"three days, third of the month"
-384,見つかる,みつかる,,,"be found, be caught"
+2110,味噌,みそ,된장,,soybean paste
+1617,味噌汁,みそしる,된장국,,miso soup
+369,道,みち,길,,"street, way"
+2657,見違える,みちがえる,"달라지다, 잘못 보다",見た目が変わるという意味なら「달라지다」、文字通り見間違えたという意味なら「잘못 보다」,look completely different
+341,三日,みっか,"3일, 사흘",日付なら「3일」、期間なら「사흘」,"three days, third of the month"
+384,見つかる,みつかる,발견되다,,"be found, be caught"
 125,見つける,みつける,찾다,,find
-316,三つ,みっつ,,,three (things)
-2722,認める,みとめる,,,"recognize, permit"
-165,緑,みどり,,,green
-1327,緑色,みどりいろ,,,green color
-1530,皆様,みなさま,,,"everyone, ladies and gentlemen"
-1290,皆さん,みなさん,,,"everybody, everyone (polite)"
-1894,港,みなと,,,"port, harbor"
-974,南,みなみ,,,south
-2405,見守る,みまもる,,,"watch, keep watch over"
-152,耳,みみ,,,ear
-1972,土産,みやげ,,,souvenir (plain)
-2302,ミュージック,みゅーじっく,,,music
-779,名字,みょうじ,,,"surname, family name"
-1147,未来,みらい,,,future
-2924,魅力,みりょく,,,"charm, attraction"
+316,三つ,みっつ,세 개,,three (things)
+2722,認める,みとめる,인정하다,,"recognize, permit"
+165,緑,みどり,"초록색, 식물",色なら「초록색」、植物を比喩的にいうのなら「식물」,green
+1327,緑色,みどりいろ,초록색,,green color
+1530,皆様,みなさま,여러 분,,"everyone, ladies and gentlemen"
+1290,皆さん,みなさん,여러 분,,"everybody, everyone (polite)"
+1894,港,みなと,항구,,"port, harbor"
+974,南,みなみ,남쪽,,south
+2405,見守る,みまもる,지켜보다,,"watch, keep watch over"
+152,耳,みみ,귀,,ear
+1972,土産,みやげ,"여행 선물, 선물",丁寧にいえば「여행 선물（旅行のプレゼント）」だが、文脈上旅行関係であることが分かるなら単純に「선물（プレゼント）」,souvenir (plain)
+2302,ミュージック,みゅーじっく,뮤직,,music
+779,名字,みょうじ,성,,"surname, family name"
+1147,未来,みらい,미래,,future
+2924,魅力,みりょく,매력,,"charm, attraction"
 2,見る,みる,보다,,"see, look at"
-1516,ミルク,みるく,,,milk (loan word)
-2886,民間,みんかん,,,"private, civilian"
-2974,民主,みんしゅ,,,democracy
+1516,ミルク,みるく,밀크,,milk (loan word)
+2886,民間,みんかん,민간,,"private, civilian"
+2974,民主,みんしゅ,민주,,democracy
 109,みんな,みんな,"다, 모두",,everybody (colloquial)
-286,六日,むいか,,,"six days, sixth of the month"
-2411,無意識,むいしき,,,"unconsciously, unintentionally"
-2314,ムード,むーど,,,mood
-748,向かう,むかう,,,"face, head toward"
-938,迎える,むかえる,,,"welcome, receive (a visitor)"
-1758,昔,むかし,,,"old times, the old days"
-1140,向く,むく,,,"turn, face"
-2459,むく,むく,,,peel (something)
-2779,向ける,むける,,,"turn toward, point at"
-902,向こう,むこう,,,"over there, on the other side"
-1517,向こう側,むこうがわ,,,other side
-1975,虫,むし,,,"insect, bug"
-2156,蒸し暑い,むしあつい,,,hot and humid
-2162,虫歯,むしば,,,cavity
+286,六日,むいか,6일,,"six days, sixth of the month"
+2411,無意識,むいしき,무의식,,"unconsciously, unintentionally"
+2314,ムード,むーど,무드,,mood
+748,向かう,むかう,향하다,,"face, head toward"
+938,迎える,むかえる,맞이하다,,"welcome, receive (a visitor)"
+1758,昔,むかし,옛날,,"old times, the old days"
+1140,向く,むく,향하다,,"turn, face"
+2459,剥く,むく,까다,,peel (something)
+2779,向ける,むける,향하게 하다,,"turn toward, point at"
+902,向こう,むこう,저쪽,,"over there, on the other side"
+1517,向こう側,むこうがわ,저쪽,,other side
+1975,虫,むし,벌레,,"insect, bug"
+2156,蒸し暑い,むしあつい,무덥다,,hot and humid
+2162,虫歯,むしば,충치,,cavity
 63,難しい,むずかしい,어렵다,,difficult
 115,息子,むすこ,아들,,son
 106,娘,むすめ,딸,,"daughter, girl"
-2445,無責任,むせきにん,,,irresponsible
-1778,無駄,むだ,,,"pointless, waste"
-2338,無駄遣い,むだづかい,,,wasteful spending
-387,六つ,むっつ,,,six (things)
+2445,無責任だ,むせきにんだ,무책임하다,,irresponsible
+1778,無駄だ,むだだ,쓸모없다,,"pointless, waste"
+2338,無駄遣い,むだづかい,낭비하다,,wasteful spending
+387,六つ,むっつ,여섯 개,,six (things)
 122,胸,むね,가슴,,"chest, breast"
-2866,村,むら,,,village
-1806,紫,むらさき,,,purple
-939,無理,むり,,,"unreasonable, impossible"
-2466,無理やり,むりやり,,,"forcibly, against one’s will"
-2773,無料,むりょう,,,"no charge, free"
-371,目,め,,,eye
-1845,姪,めい,,,niece
-2921,明確,めいかく,,,clear and specific
-2104,名刺,めいし,,,"business card, name card"
-1595,名簿,めいぼ,,,name list
-1958,命令,めいれい,,,"command, order"
-1108,迷惑,めいわく,,,"trouble, annoyance"
-2248,メーカー,めーかー,,,"maker, manufacturer"
-1589,メール,めーる,,,e-mail
-526,眼鏡,めがね,,,glasses
-2549,目薬,めぐすり,,,eye drops
-2811,目指す,めざす,,,aim for
-494,目覚まし時計,めざましどけい,,,alarm clock
-1685,雌,めす,,,female (animal)
-940,珍しい,めずらしい,,,"rare, scarce"
-459,目立つ,めだつ,,,"stand out, be conspicuous"
-2209,目茶苦茶,めちゃくちゃ,,,"in a mess, chaotic"
-1251,めったに,めったに,,,"rarely, seldom"
-486,メニュー,めにゅー,,,menu
-1126,メモ,めも,,,"memo, note"
-2710,面,めん,,,"surface, side"
-1656,免許証,めんきょしょう,,,license
-1987,面接,めんせつ,,,interview
-1923,面倒,めんどう,,,"troublesome, difficult"
-2176,面倒臭い,めんどうくさい,,,"troublesome, tiresome"
-2802,メンバー,めんばー,,,member
+2866,村,むら,마을,,village
+1806,紫,むらさき,보라색,,purple
+939,無理,むり,무리,,"unreasonable, impossible"
+2466,無理やり,むりやり,억지로,,"forcibly, against one’s will"
+2773,無料,むりょう,무료,,"no charge, free"
+371,目,め,눈,,eye
+1845,姪,めい,여자 조카,「여자（女性）」であることを特に強調する必要がない時には単純に「조카（甥と姪の両方を含んだ概念）」とだけいうことが多い。,niece
+2921,明確だ,めいかくだ,명확하다,,clear and specific
+2104,名刺,めいし,명함,,"business card, name card"
+1595,名簿,めいぼ,명단,,name list
+1958,命令,めいれい,명령,,"command, order"
+1108,迷惑,めいわく,폐,,"trouble, annoyance"
+2248,メーカー,めーかー,메이커,,"maker, manufacturer"
+1589,メール,めーる,메일,,e-mail
+526,眼鏡,めがね,안경,,glasses
+2549,目薬,めぐすり,안약,,eye drops
+2811,目指す,めざす,목표로 하다,,aim for
+494,目覚まし時計,めざましどけい,자명종,,alarm clock
+1685,雌,めす,암컷,,female (animal)
+940,珍しい,めずらしい,드물다,,"rare, scarce"
+459,目立つ,めだつ,눈에 띄다,,"stand out, be conspicuous"
+2209,目茶苦茶だ,めちゃくちゃだ,엉망이다,,"in a mess, chaotic"
+1251,めったに,めったに,좀처럼,,"rarely, seldom"
+486,メニュー,めにゅー,메뉴,,menu
+1126,メモ,めも,메모,,"memo, note"
+2710,面,めん,면,,"surface, side"
+1656,免許証,めんきょしょう,면호증,,license
+1987,面接,めんせつ,면접,,interview
+1923,面倒だ,めんどうだ,귀찮다,,"troublesome, difficult"
+2176,面倒臭い,めんどうくさい,귀찮다,,"troublesome, tiresome"
+2802,メンバー,めんばー,멤버,,member
 32,もう,もう,"벌써, 이제",「もう終わったの？」のように驚きを含む「もう」は「벌써」、「もう帰ろう」のような急かす時の「もう」は「이제」,"already, yet"
-426,もう,もう,,,"another, again"
-2051,設ける,もうける,,,"set up, establish"
-2717,申し上げる,もうしあげる,,,"tell, say (humble)"
-1255,申し込む,もうしこむ,,,"apply, sign up"
-2892,申す,もうす,,,"say, tell (humble)"
-1418,毛布,もうふ,,,blanket
-1193,燃える,もえる,,,"burn, catch on fire"
-1864,目的,もくてき,,,"objective, purpose"
-2777,目標,もくひょう,,,"target, goal"
-275,木曜日,もくようび,,,Thursday
-704,もし,もし,,,"if, in case of"
-1382,文字,もじ,,,"character, letter, writing"
-2179,もしかしたら,もしかしたら,,,"possibly, perhaps"
-2650,持ち物,もちもの,,,one’s belongings
-717,もちろん,もちろん,,,of course
+426,もう,もう,더,「もう一度」は「한 번 더」,"another, again"
+2051,設ける,もうける,설치하다,,"set up, establish"
+2717,申し上げる,もうしあげる,말씀드리다,,"tell, say (humble)"
+1255,申し込む,もうしこむ,신청하다,,"apply, sign up"
+2892,申す,もうす,말씀드리다,,"say, tell (humble)"
+1418,毛布,もうふ,담뇨,,blanket
+1193,燃える,もえる,불에 타다,,"burn, catch on fire"
+1864,目的,もくてき,목적,,"objective, purpose"
+2777,目標,もくひょう,목표,,"target, goal"
+275,木曜日,もくようび,목요일,,Thursday
+704,もし,もし,"만약, 만일",日常的には「만약」、少し固く言いたいなら「만일」,"if, in case of"
+1382,文字,もじ,문자,,"character, letter, writing"
+2179,もしかしたら,もしかしたら,어쩌면,,"possibly, perhaps"
+2650,持ち物,もちもの,소지품,,one’s belongings
+717,もちろん,もちろん,"당연히, 물론",日常的には「당연히」、少し固く言いたいなら「물론」,of course
 16,持つ,もつ,"가지다, 들다",「所有する」という意味の時は「가지다」、「物理的に手に持つ」という意味の時は「들다」を使う。,"have, possess"
-403,もつ,もつ,,,"last long, be durable"
-1911,もったいない,もったいない,,,"wasteful, a shame"
-963,持って行く,もっていく,,,"take, bring"
-1709,持ってくる,もってくる,,,bring
+403,もつ,もつ,버티다,今の状態を維持することができる、という意味の「もつ」,"last long, be durable"
+1911,もったいない,もったいない,아깝다,,"wasteful, a shame"
+963,持って行く,もっていく,가져 가다,,"take, bring"
+1709,持ってくる,もってくる,가져 오다,,bring
 69,もっと,もっと,더,,more
-2745,最も,もっとも,,,the most
-2310,もてる,もてる,,,be popular (esp. with the opposite sex)
-2807,モデル,もでる,,,model
-2706,元,もと,,,"origin, former"
-2005,戻す,もどす,,,put (something) back
-2703,求める,もとめる,,,"seek, yearn for"
-293,戻る,もどる,,,return to a point of departure
-1322,物,もの,,,"thing, object"
-2676,者,もの,,,person (humble)
-1400,物語,ものがたり,,,"story, tale"
-1674,桃,もも,,,peach
-1784,燃やす,もやす,,,burn (something)
-191,もらう,もらう,,,receive
-992,森,もり,,,forest
-1985,文句,もんく,,,"complaint, grumble"
-401,問題,もんだい,,,"problem, question"
-615,やかん,やかん,,,kettle
-2548,焼き肉,やきにく,,,"grilled meat, barbecued meat"
-966,野球,やきゅう,,,baseball
-1134,焼く,やく,,,"bake, grill"
-2906,役,やく,,,"role, part"
-1683,薬局,やくきょく,,,"drugstore, pharmacy"
-1657,訳す,やくす,,,translate
-923,約束,やくそく,,,"promise, vow"
-1439,役に立つ,やくにたつ,,,"be useful, be helpful"
-2832,役割,やくわり,,,"role, duty, responsibility"
-690,火傷,やけど,,,burn
-1271,焼ける,やける,,,"burn, cook"
-945,野菜,やさい,,,vegetable
-250,優しい,やさしい,,,"gentle, kind"
-301,易しい,やさしい,,,"easy, simple (colloquial)"
+2745,最も,もっとも,가장,,the most
+2310,もてる,もてる,인기가 많다,,be popular (esp. with the opposite sex)
+2807,モデル,もでる,모델,,model
+2706,元,もと,원래,,"origin, former"
+2005,戻す,もどす,되돌리다,,put (something) back
+2703,求める,もとめる,구하다,,"seek, yearn for"
+293,戻る,もどる,돌아가다,,return to a point of departure
+1322,物,もの,물건,,"thing, object"
+2676,者,もの,자,,person (humble)
+1400,物語,ものがたり,이야기,,"story, tale"
+1674,桃,もも,복숭아,,peach
+1784,燃やす,もやす,불태우다,,burn (something)
+191,もらう,もらう,받다,,receive
+992,森,もり,숲,,forest
+1985,文句,もんく,불평,,"complaint, grumble"
+401,問題,もんだい,문제,,"problem, question"
+615,やかん,やかん,주전자,,kettle
+2548,焼き肉,やきにく,구워 먹는 고기,,"grilled meat, barbecued meat"
+966,野球,やきゅう,야구,,baseball
+1134,焼く,やく,굽다,,"bake, grill"
+2906,役,やく,역할,,"role, part"
+1683,薬局,やくきょく,약국,,"drugstore, pharmacy"
+1657,訳す,やくす,번역하다,,translate
+923,約束,やくそく,약속,,"promise, vow"
+1439,役に立つ,やくにたつ,도움이 되다,,"be useful, be helpful"
+2832,役割,やくわり,역할,,"role, duty, responsibility"
+690,火傷,やけど,화상,,burn
+1271,焼ける,やける,타다,,"burn, cook"
+945,野菜,やさい,야채,,vegetable
+250,優しい,やさしい,"착하다, 상냥하다",本質的に善人だという場合には「착하다」、態度が柔らかいという場合には「상냥하다」,"gentle, kind"
+301,易しい,やさしい,쉽다,,"easy, simple (colloquial)"
 68,安い,やすい,싸다,,"cheap, inexpensive"
-1721,安っぽい,やすっぽい,,,"cheap-looking, tacky"
-474,休み,やすみ,,,"holiday, break"
-385,休む,やすむ,,,"take a rest, take a break"
-1137,痩せる,やせる,,,"lose weight, become thin"
-1182,家賃,やちん,,,rent
-372,八つ,やっつ,,,eight (things)
-2413,やって来る,やってくる,,,come all the way
-916,やっと,やっと,,,"at last, finally"
-1282,やっぱり,やっぱり,,,"just as I thought, after all"
-1188,屋根,やね,,,roof
-718,やはり,やはり,,,as expected
-1197,破る,やぶる,,,"tear, breach"
-1440,破れる,やぶれる,,,"tear, rip open"
-547,山,やま,,,mountain
-772,止む,やむ,,,"stop, cease"
-1162,辞める,やめる,,,"resign, leave (one’s job), quit"
-2369,やり方,やりかた,,,way of doing
-2505,やり直し,やりなおし,,,"doing over, redoing"
-2490,やり直す,やりなおす,,,do over again
-172,やる,やる,,,"do, give"
-413,やる,やる,,,give (to an inferior)
-1699,柔らか,やわらか,,,"soft, gentle"
-1901,柔らかい,やわらかい,,,"soft, gentle"
-579,湯,ゆ,,,hot water
-911,夕方,ゆうがた,,,"early evening, at dusk"
-1355,夕刊,ゆうかん,,,evening edition paper
-2927,有効,ゆうこう,,,"effective, valid"
-975,夕食,ゆうしょく,,,"supper, dinner"
-2761,友人,ゆうじん,,,friend (formal)
-1643,夕飯,ゆうはん,,,"evening meal, dinner"
-1323,郵便,ゆうびん,,,"mail service, postal mail"
-475,郵便局,ゆうびんきょく,,,post office
-1883,郵便屋さん,ゆうびんやさん,,,mail carrier
-941,有名,ゆうめい,,,famous
-1494,夕焼け,ゆうやけ,,,sunset glow
-1635,床,ゆか,,,floor
-800,雪,ゆき,,,"snow, snowfall"
-2066,輸出,ゆしゅつ,,,export
-1773,豊か,ゆたか,,,"rich, ample"
-386,ゆっくり,ゆっくり,,,slowly
-2438,ゆったり,ゆったり,,,"comfortable, easy fit"
-2177,ゆでる,ゆでる,,,boil
-2098,輸入,ゆにゅう,,,import
-525,指,ゆび,,,"finger, toe"
-1339,指輪,ゆびわ,,,ring
-979,夢,ゆめ,,,dream
-554,緩い,ゆるい,,,"slack, loose"
-722,許す,ゆるす,,,"permit, forgive"
-1163,揺れる,ゆれる,,,"shake, sway"
-555,良い,よい,,,good (formal/written form)
-879,用,よう,,,things to do
-929,用意,ようい,,,preparation
-317,八日,ようか,,,"eight days, eighth of the month"
-2064,要求,ようきゅう,,,"need, demand"
-1299,用件,ようけん,,,"matter, things to be done"
-556,ようこそ,ようこそ,,,welcome (greeting)
-1441,用事,ようじ,,,"errand, business"
-2528,洋食,ようしょく,,,Western food
-2850,様子,ようす,,,"the state of affairs, how someone appears"
-2035,幼稚園,ようちえん,,,kindergarten
-276,曜日,ようび,,,day of the week
-1231,洋服,ようふく,,,(western-style) clothes
-2273,要望,ようぼう,,,"demand, request"
+1721,安っぽい,やすっぽい,싼 티가 나다,,"cheap-looking, tacky"
+474,休み,やすみ,쉬는 날,,"holiday, break"
+385,休む,やすむ,쉬다,,"take a rest, take a break"
+1137,痩せる,やせる,살이 빠지다,,"lose weight, become thin"
+1182,家賃,やちん,월세,,rent
+372,八つ,やっつ,여덟 개,,eight (things)
+2413,やって来る,やってくる,찾아오다,,come all the way
+916,やっと,やっと,드디어,,"at last, finally"
+1282,やっぱり,やっぱり,역시,,"just as I thought, after all"
+1188,屋根,やね,지붕,,roof
+718,やはり,やはり,역시,,as expected
+1197,破る,やぶる,찢다,,"tear, breach"
+1440,破れる,やぶれる,찢어지다,,"tear, rip open"
+547,山,やま,산,,mountain
+772,止む,やむ,멈추다,,"stop, cease"
+1162,辞める,やめる,그만두다,,"resign, leave (one’s job), quit"
+2369,やり方,やりかた,하는 방법,,way of doing
+2490,やり直す,やりなおす,다시 하다,,do over again
+172,やる,やる,하다,「する」の話し言葉。,"do, give"
+413,やる,やる,주다,「あげる」の話し言葉。,give (to an inferior)
+1901,柔らかい,やわらかい,부드럽다,,"soft, gentle"
+579,湯,ゆ,"물, 뜨거운 물",基本的には単純に「물（水）」といい、温度を特に強調する時にのみ「뜨거운 물」,hot water
+911,夕方,ゆうがた,저녁,,"early evening, at dusk"
+1355,夕刊,ゆうかん,석간,2020年代現在、韓国の主要新聞社のうち夕刊を発行しているところはない。,evening edition paper
+2927,有効,ゆうこう,유효,,"effective, valid"
+975,夕食,ゆうしょく,저녁 식사,,"supper, dinner"
+2761,友人,ゆうじん,친구,,friend (formal)
+1643,夕飯,ゆうはん,저녁밥,,"evening meal, dinner"
+1323,郵便,ゆうびん,우편,,"mail service, postal mail"
+475,郵便局,ゆうびんきょく,우편국,,post office
+1883,郵便屋さん,ゆうびんやさん,우편 배달부,,mail carrier
+941,有名,ゆうめい,유명하다,,famous
+1494,夕焼け,ゆうやけ,저녁노을,,sunset glow
+1635,床,ゆか,바닥,,floor
+800,雪,ゆき,눈,,"snow, snowfall"
+2066,輸出,ゆしゅつ,유출,,export
+1773,豊か,ゆたか,"풍요롭다, 풍부하다",経済的に余裕があるのは「풍요롭다」、多く存在するのは「풍부하다」,"rich, ample"
+386,ゆっくり,ゆっくり,천천히,,slowly
+2438,ゆったり,ゆったり,편하게,,"comfortable, easy fit"
+2177,ゆでる,ゆでる,삶다,,boil
+2098,輸入,ゆにゅう,수입,,import
+525,指,ゆび,"손가락, 발다락",手の指は「손가락」、足の指は「발가락」。まとめていう言葉はない。,"finger, toe"
+1339,指輪,ゆびわ,반지,,ring
+979,夢,ゆめ,꿈,,dream
+554,緩い,ゆるい,누슨하다,,"slack, loose"
+722,許す,ゆるす,"허락하다, 용서하다",許可を与えるのは「허락하다」、罪を赦すのは「용서하다」,"permit, forgive"
+1163,揺れる,ゆれる,흔들리다,,"shake, sway"
+555,良い,よい,좋다,,good (formal/written form)
+879,用,よう,일,,things to do
+929,用意,ようい,준비,,preparation
+317,八日,ようか,8일,,"eight days, eighth of the month"
+2064,要求,ようきゅう,요구,,"need, demand"
+1299,用件,ようけん,용건,,"matter, things to be done"
+556,ようこそ,ようこそ,어서 오세요,,welcome (greeting)
+1441,用事,ようじ,일,,"errand, business"
+2528,洋食,ようしょく,양식,,Western food
+2850,様子,ようす,"모습, 상황",人に関しては「모습」、状況なら「상황」,"the state of affairs, how someone appears"
+2035,幼稚園,ようちえん,유치원,,kindergarten
+276,曜日,ようび,요일,,day of the week
+1231,洋服,ようふく,옷,,(western-style) clothes
+2273,要望,ようぼう,희망사항,,"demand, request"
 40,よく,よく,"잘, 자주",「上手に」の意味なら「잘」、「頻繁に」の意味なら「자주」,"often, well"
-2441,翌年,よくねん,,,the following year
-2670,よける,よける,,,"avoid, dodge"
-905,横,よこ,,,"side, width across"
-1796,横書き,よこがき,,,horizontal writing
-2152,横切る,よこぎる,,,cut across
-1668,汚す,よごす,,,make (something) dirty
-1804,汚れ,よごれ,,,"dirt, blot"
-1171,汚れる,よごれる,,,become dirty
-2776,予算,よさん,,,budget
-2045,予習,よしゅう,,,"preparation, previewing (a lesson)"
-2243,予想,よそう,,,"expectation, forecast"
-374,四日,よっか,,,"four days, fourth of the month"
-668,四つ角,よつかど,,,intersection
-325,四つ,よっつ,,,four (things)
-1644,酔っ払い,よっぱらい,,,"drunkard, drunk"
-1613,酔っ払う,よっぱらう,,,get drunk
-436,予定,よてい,,,"schedule, plan"
-503,夜中,よなか,,,midnight
-2984,世の中,よのなか,,,"the world, society"
+2441,翌年,よくねん,이듬해,,the following year
+2670,避ける,よける,피하다,,"avoid, dodge"
+905,横,よこ,옆,,"side, width across"
+1796,横書き,よこがき,세로쓰기,,horizontal writing
+2152,横切る,よこぎる,가로지르다,,cut across
+1668,汚す,よごす,더럽히다,,make (something) dirty
+1804,汚れ,よごれ,얼룩,,"dirt, blot"
+1171,汚れる,よごれる,더러워지다,,become dirty
+2776,予算,よさん,예산,,budget
+2045,予習,よしゅう,예습,,"preparation, previewing (a lesson)"
+2243,予想,よそう,예상,,"expectation, forecast"
+374,四日,よっか,"4일, 사흘",日付なら「4일」、期間なら「나흘」,"four days, fourth of the month"
+668,四つ角,よつかど,네거리,,intersection
+325,四つ,よっつ,네 개,,four (things)
+1644,酔っ払い,よっぱらい,취객,,"drunkard, drunk"
+1613,酔っ払う,よっぱらう,취하다,,get drunk
+436,予定,よてい,예정,,"schedule, plan"
+503,夜中,よなか,밤중,,midnight
+2984,世の中,よのなか,세상,,"the world, society"
 66,呼ぶ,よぶ,부르다,,"call, name"
-1226,読み,よみ,,,reading
-1618,読み方,よみかた,,,"how to read, way of reading"
+1618,読み方,よみかた,읽는 방법,,"how to read, way of reading"
 91,読む,よむ,읽다,,read
-1127,予約,よやく,,,"reservation, appointment"
-1910,より,より,,,"even more ~, even less ~"
-375,夜,よる,,,night (from sunset to sunrise)
-1976,寄る,よる,,,"stop by, stop off"
-2712,夜,よる,,,"night, evening"
-942,喜ぶ,よろこぶ,,,"be happy, be delighted"
-1658,よろしい,よろしい,,,all right
-720,よろしく,よろしく,,,one’s regards
-151,弱い,よわい,,,weak
-290,四,よん,,,four (Japanese origin)
-340,四,よん,,,four (Chinese origin)
-1531,ラーメン,らーめん,,,ramen (Chinese noodles)
-909,来月,らいげつ,,,next month
-504,来週,らいしゅう,,,next week
-1532,ライター,らいたー,,,lighter
-376,来年,らいねん,,,next year
-2991,楽,らく,,,"comfortable, easy"
-1466,ラケット,らけっと,,,racket
-925,ラジオ,らじお,,,radio
-2464,ラッシュ,らっしゅ,,,"rush, rush hour"
-2043,ラッシュアワー,らっしゅあわー,,,rush hour
-763,ランチ,らんち,,,lunch (loan word)
-2783,利益,りえき,,,"profit, benefit"
-1331,理科,りか,,,science (school subject)
-2691,理解,りかい,,,"understanding, comprehension"
-2440,リクエスト,りくえすと,,,request
-1190,離婚,りこん,,,divorce
-2719,率,りつ,,,"ratio, rate"
-1164,立派,りっぱ,,,"fine, elegant"
-948,理由,りゆう,,,"reason, excuse"
-943,留学,りゅうがく,,,study abroad
-1069,留学生,りゅうがくせい,,,student studying abroad
-2737,量,りょう,,,"quantity, amount"
-1365,利用,りよう,,,"utilization, usage"
-1659,両替,りょうがえ,,,money exchange
-2798,料金,りょうきん,,,"charge, fee (for using facilities, etc.)"
-2537,領収書,りょうしゅうしょ,,,bill of receipt (for payment only)
-558,両親,りょうしん,,,parents
-2422,両手,りょうて,,,both hands
-922,両方,りょうほう,,,both
-944,料理,りょうり,,,cooking
-1177,旅館,りょかん,,,Japanese inn
-928,旅行,りょこう,,,"travel, trip"
-2341,履歴書,りれきしょ,,,"resume, curriculum vitae"
-766,りんご,りんご,,,apple
-2257,ルール,るーる,,,rule
-1409,留守,るす,,,not at home
-2163,留守番,るすばん,,,looking after the house
-591,零,れい,,,zero
-1645,例,れい,,,example
-1256,冷蔵庫,れいぞうこ,,,refrigerator
-2460,例年,れいねん,,,"typical year, average year"
-1993,例文,れいぶん,,,example sentence
-1334,冷房,れいぼう,,,air conditioning (cooling)
-1737,レインコート,れいんこーと,,,raincoat
-1969,歴史,れきし,,,history
-994,レコード,れこーど,,,record
-495,レシート,れしーと,,,receipt (loan word)
-1125,レストラン,れすとらん,,,restaurant
-2739,レベル,れべる,,,level
-2936,レポート,れぽーと,,,"report, paper"
-1458,レモン,れもん,,,lemon
-2264,恋愛,れんあい,,,"romance, relationship"
-1165,練習,れんしゅう,,,"practice, training"
-2997,連続,れんぞく,,,"continuation, series"
-2336,レントゲン,れんとげん,,,X-rays
-1026,連絡,れんらく,,,"contact, communication"
-1184,廊下,ろうか,,,"hallway, corridor"
-2698,労働,ろうどう,,,"labor, work"
-2323,ロープ,ろーぷ,,,rope
-1636,ローマ字,ろーまじ,,,Roman alphabet
-377,六,ろく,,,six
-1199,録音,ろくおん,,,(sound) recording
-1300,ロマンチック,ろまんちっく,,,romantic
-2999,論,ろん,,,"argument, theory"
-2673,ワープロ,わーぷろ,,,word processor
-1533,ワイシャツ,わいしゃつ,,,"business shirt, dress shirt"
-1131,ワイン,わいん,,,wine
+1127,予約,よやく,예약,,"reservation, appointment"
+1910,より,より,더,,"even more ~, even less ~"
+375,夜,よる,밤,,night (from sunset to sunrise)
+1976,寄る,よる,들르다,,"stop by, stop off"
+2712,夜,よる,밤,,"night, evening"
+942,喜ぶ,よろこぶ,기뻐하다,,"be happy, be delighted"
+1658,よろしい,よろしい,좋다,,all right
+720,よろしく,よろしく,잘,,one’s regards
+151,弱い,よわい,약하다,,weak
+290,四,よん,"넷, 사",固有語数詞では「넷」、漢字語数詞では「사」,four (Japanese origin)
+1531,ラーメン,らーめん,라면,,ramen (Chinese noodles)
+909,来月,らいげつ,다음 달,,next month
+504,来週,らいしゅう,다음 주,,next week
+1532,ライター,らいたー,라이터,,lighter
+376,来年,らいねん,내년,,next year
+2991,楽,らく,편하다,,"comfortable, easy"
+1466,ラケット,らけっと,라켓,,racket
+925,ラジオ,らじお,라디오,,radio
+2464,ラッシュ,らっしゅ,러시,,"rush, rush hour"
+2043,ラッシュアワー,らっしゅあわー,러시아워,,rush hour
+763,ランチ,らんち,점심,,lunch (loan word)
+2783,利益,りえき,이익,,"profit, benefit"
+1331,理科,りか,자연과학,,science (school subject)
+2691,理解,りかい,이해,,"understanding, comprehension"
+2440,リクエスト,りくえすと,요구,,request
+1190,離婚,りこん,이혼,,divorce
+2719,率,りつ,율,,"ratio, rate"
+1164,立派だ,りっぱだ,훌륭하다,,"fine, elegant"
+948,理由,りゆう,이유,,"reason, excuse"
+943,留学,りゅうがく,유학,,study abroad
+1069,留学生,りゅうがくせい,유학생,,student studying abroad
+2737,量,りょう,양,,"quantity, amount"
+1365,利用,りよう,이용,,"utilization, usage"
+1659,両替,りょうがえ,환전,,money exchange
+2798,料金,りょうきん,요금,,"charge, fee (for using facilities, etc.)"
+2537,領収書,りょうしゅうしょ,영수증,,bill of receipt (for payment only)
+558,両親,りょうしん,부모님,,parents
+2422,両手,りょうて,양손,,both hands
+922,両方,りょうほう,양쪽,,both
+944,料理,りょうり,요리,,cooking
+1177,旅館,りょかん,료칸,,Japanese inn
+928,旅行,りょこう,여행,,"travel, trip"
+2341,履歴書,りれきしょ,이력서,,"resume, curriculum vitae"
+766,林檎,りんご,사과,,apple
+2257,ルール,るーる,룰,,rule
+1409,留守だ,るすだ,집에 없다,,not at home
+2163,留守番をする,るすばんをする,집을 지키다,,looking after the house
+591,零,れい,영,,zero
+1645,例,れい,예,,example
+1256,冷蔵庫,れいぞうこ,냉장고,,refrigerator
+2460,例年,れいねん,예년,,"typical year, average year"
+1993,例文,れいぶん,예문,,example sentence
+1334,冷房,れいぼう,냉방,,air conditioning (cooling)
+1737,レインコート,れいんこーと,비옷,,raincoat
+1969,歴史,れきし,역사,,history
+994,レコード,れこーど,레코드,,record
+495,レシート,れしーと,영수증,,receipt (loan word)
+1125,レストラン,れすとらん,레스토랑,,restaurant
+2739,レベル,れべる,레벨,,level
+2936,レポート,れぽーと,리포트,,"report, paper"
+1458,レモン,れもん,레몬,,lemon
+2264,恋愛,れんあい,연애,,"romance, relationship"
+1165,練習,れんしゅう,연습,,"practice, training"
+2997,連続,れんぞく,연속,,"continuation, series"
+2336,レントゲン,れんとげん,엑스레이,,X-rays
+1026,連絡,れんらく,연락,,"contact, communication"
+1184,廊下,ろうか,복도,,"hallway, corridor"
+2698,労働,ろうどう,노동,,"labor, work"
+2323,ロープ,ろーぷ,줄,,rope
+1636,ローマ字,ろーまじ,로마자,,Roman alphabet
+377,六,ろく,"여섯, 육",固有語数詞では「여섯」、漢字語数詞では「육」,six
+1199,録音,ろくおん,녹음,,(sound) recording
+1300,ロマンチック,ろまんちっく,로맨틱,,romantic
+2999,論,ろん,논,,"argument, theory"
+2673,ワープロ,わーぷろ,워드 프로세서,,word processor
+1533,ワイシャツ,わいしゃつ,와이셔츠,,"business shirt, dress shirt"
+1131,ワイン,わいん,와인,,wine
 58,若い,わかい,젊다,,young
-1718,沸かす,わかす,,,boil (water)
-2129,わがまま,わがまま,,,selfish
-799,若者,わかもの,,,"young person, youth"
+1718,沸かす,わかす,끓이다,,boil (water)
+2129,わがままだ,わがままだ,제멋대로이다,,selfish
+799,若者,わかもの,젊은이,,"young person, youth"
 71,分かる,わかる,알다,,understand
-946,分かれる,わかれる,,,"be divided, split off"
-1335,別れる,わかれる,,,"separate, part"
-1474,沸く,わく,,,"boil, get loud (crowd applause etc.)"
-2300,わくわく,わくわく,,,"feel excited, be thrilled"
-1556,訳,わけ,,,translation
-1759,訳,わけ,,,"reason, sense"
-723,分ける,わける,,,"divide, share"
-2115,わざと,わざと,,,on purpose
-2519,わさび,わさび,,,Japanese horseradish
-2284,わざわざ,わざわざ,,,going out of one’s way to do something
-2554,和室,わしつ,,,Japanese-style room
-2480,和食,わしょく,,,Japanese-style food
-2370,わずか,わずか,,,"meager, marginal"
-1669,忘れ物,わすれもの,,,"something left behind, lost item"
+946,分かれる,わかれる,나뉘다,,"be divided, split off"
+1335,別れる,わかれる,헤어지다,,"separate, part"
+1474,沸く,わく,끓다,,"boil, get loud (crowd applause etc.)"
+2300,わくわく,わくわく,두근두근,,"feel excited, be thrilled"
+1556,訳,やく,번역,,translation
+1759,訳,わけ,이유,,"reason, sense"
+723,分ける,わける,나누다,,"divide, share"
+2115,わざと,わざと,일부러,,on purpose
+2519,わさび,わさび,겨자,,Japanese horseradish
+2284,わざわざ,わざわざ,수고스럽게,,going out of one’s way to do something
+2554,和室,わしつ,다다미방,,Japanese-style room
+2480,和食,わしょく,일식,,Japanese-style food
+2370,わずかだ,わずかだ,아주 적다,,"meager, marginal"
+1669,忘れ物,わすれもの,유실물,,"something left behind, lost item"
 126,忘れる,わすれる,잊다,,"forget, leave behind"
-2810,話題,わだい,,,"topic of conversation, being talked about"
-7,私,わたし,"저, 나",礼儀正しい一人称としての「私」なら「저」、親しい相手に使う一人称としての「私」なら「나」,I
-1293,私,わたし,,,I (formal)
-170,私たち,わたしたち,,,we (colloquial)
-920,渡す,わたす,,,"hand over, give"
-1172,渡る,わたる,,,"cross, go across"
-1686,和風,わふう,,,Japanese inspired
+2810,話題,わだい,화제,,"topic of conversation, being talked about"
+7,私,わたし,"저, 나",礼儀正しい「私」なら「저」、主に女性が友人や家族に使う「私」なら「나」,I
+170,私たち,わたしたち,"저희, 우리",礼儀正しい「私たち」なら「저희」、主に女性が友人や家族に使う「私たち」なら「우리」,we (colloquial)
+920,渡す,わたす,건내다,,"hand over, give"
+1172,渡る,わたる,건너가다,,"cross, go across"
+1686,和風,わふう,일본식,,Japanese inspired
 134,笑う,わらう,웃다,,"laugh, smile"
-2608,割り箸,わりばし,,,disposable chopsticks
-1166,割る,わる,,,"divide, split"
-378,悪い,わるい,,,bad
-1295,悪口,わるぐち,,,"slander, abuse"
-1324,割れる,われる,,,"crack, split"
-2740,我々,われわれ,,,we (literary)
-2160,ワンピース,わんぴーす,,,one-piece dress
+2608,割り箸,わりばし,나무젓가락,,disposable chopsticks
+1166,割る,わる,깨뜨리다,,"divide, split"
+378,悪い,わるい,나쁘다,,bad
+1295,悪口,わるぐち,욕,,"slander, abuse"
+1324,割れる,われる,깨지다,,"crack, split"
+2740,我々,われわれ,우리,,we (literary)
+2160,ワンピース,わんぴーす,원피스,,one-piece dress
